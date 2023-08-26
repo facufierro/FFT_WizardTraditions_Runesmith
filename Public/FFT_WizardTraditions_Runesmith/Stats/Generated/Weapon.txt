@@ -1,0 +1,7 @@
+new entry "WPN_RunicHammer"
+type "Weapon"
+using "WPN_Warhammer"
+data "RootTemplate" "f8fa1b73-b54b-479f-aac4-3e051467a556"
+data "ValueUUID" "8b2ad47c-891e-4a19-bab8-43cd5e964cb1"
+data "Boosts" "Proficiency(Warhammers)"
+data "Weapon Properties" "Melee;Dippable;Versatile;Magical"

@@ -1,0 +1,38 @@
+
+//-- Runesmith Hammer --//
+new entry "Shout_RunesmithHammer"
+type "SpellData"
+data "SpellType" "Shout"
+data "ContainerSpells" "Shout_RunesmithHammer_Warhammer"
+data "Cooldown" "OncePerCombat"
+data "TargetConditions" "Self()"
+data "Icon" "Skill_Warlock_PactOfTheBlade_BoundWeapon"
+data "DisplayName" "h79246943g1798g4af3ga056gfa31520ade6f;2"
+data "Description" "h11871f4dg2ecag4e6egaccbgba8be8e8f8b5;6"
+data "ExtraDescription" "h900117acg8ffbg4cdfgb5fcgf5d9c660b61c;3"
+data "ExtraDescriptionParams" "Distance(1.5)"
+data "CastSound" "Action_Cast_PactOfTheBlade"
+data "CastTextEvent" "Cast"
+data "UseCosts" "ActionPoint:1"
+data "SpellAnimation" "f489d217-b699-4e8e-bf22-6ef539c5d65b,,;,,;7a343ea7-1330-428a-b0b1-9f6dc7f2a91c,,;0f872585-3c6e-4493-a0b5-5acc882b7aaf,,;f9414915-2da7-4f40-bcbd-90e956461246,,;,,;f2a62277-c87a-4ec7-b4f2-c3c37e6e30ae,,;,,;,,"
+data "VerbalIntent" "Summon"
+data "SpellStyleGroup" "Class"
+data "SpellFlags" "IsLinkedSpellContainer"
+data "SpellAnimationIntentType" "Aggressive"
+data "PrepareEffect" "d9038b21-f4cc-4c8a-99c1-6168e1fe46ba"
+data "CastEffect" "135cb448-04f9-4543-b670-7bebea4ae21d"
+data "Sheathing" "Sheathed"
+
+new entry "Shout_RunesmithHammer_Warhammer"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_RunesmithHammer"
+data "SpellContainerID" "Shout_RunesmithHammer"
+data "SpellProperties" "SummonInInventory(f8fa1b73-b54b-479f-aac4-3e051467a556,Permanent,1,true,true,true,,,,BOOST_RunesmithHammer)"
+data "Icon" "Action_PactOfTheBlade_Warhammer"
+data "DisplayName" "h79246943g1798g4af3ga056gfa31520ade6f;2"
+data "Description" "h900117acg8ffbg4cdfgb5fcgf5d9c660b61c;2"
+data "SpellFlags" "UNUSED_D"
+//-- 
+
+//-- Rune Carving --//
