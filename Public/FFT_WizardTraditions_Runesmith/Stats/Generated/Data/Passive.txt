@@ -8,6 +8,15 @@ new entry "Passive_EngraveWeapon"
 		data "Properties" "Highlighted"
 		data "Boosts" "UnlockSpell(Shout_EngraveWeapon)"
 
+// Carve Rune
+new entry "Passive_CarveRune"
+	type "PassiveData"
+		data "DisplayName" "hb5226dc3g44d9g4953g8d16gc593362c3a87;2"
+		data "Description" "h052a6d70g8117g4667ga62fg98b912809a27;2"
+		data "Icon" "PassiveFeature_Parry"
+		data "Properties" "Highlighted"
+		data "Boosts" "UnlockSpell(Shout_CarveRune)"
+
 // new entry "PactOfTheBlade"
 // type "PassiveData"
 // data "DisplayName" "ha3bef4ccgd1dfg46d2ga453g49e67df2361c;2"

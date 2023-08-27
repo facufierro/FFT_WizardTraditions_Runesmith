@@ -9,5 +9,7 @@
     <!-- Engrave Weapon -->
     <content contentuid="h79246943g1798g4af3ga056gfa31520ade6f" version="1">Engrave Weapon</content>
     <content contentuid="h900117acg8ffbg4cdfgb5fcgf5d9c660b61c" version="1">Engrave Weapon Description</content>
-
+    <!-- Carve Rune -->
+    <content contentuid="hb5226dc3g44d9g4953g8d16gc593362c3a87" version="1">Carve Rune</content>
+    <content contentuid="h052a6d70g8117g4667ga62fg98b912809a27" version="1">Carve Rune Description</content>
 </contentList>
