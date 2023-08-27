@@ -1,4 +1,4 @@
-// Engrav Weapon
+// Engrave Weapon
 new entry "BOOST_EngraveWeapon"
 	type "StatusData"
 		data "StatusType" "BOOST"

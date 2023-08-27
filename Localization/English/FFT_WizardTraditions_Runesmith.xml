@@ -12,4 +12,13 @@
     <!-- Carve Rune -->
     <content contentuid="hb5226dc3g44d9g4953g8d16gc593362c3a87" version="1">Carve Rune</content>
     <content contentuid="h052a6d70g8117g4667ga62fg98b912809a27" version="1">Carve Rune Description</content>
+    <!-- Runes -->
+    <content contentuid="h2e64f45fga73eg4aaeg8164g9eaea65d4346" version="1">Rune</content>
+    <content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+    <!-- <content contentuid="h64553794ga0d8g4280g819ag56f4630ffc9d" version="1">Compel a target to die instantly.</content> -->
+
+    <content contentuid="h6c824ffag1448g4af6g8bd6gffbdb47af0db" version="1">An infinite scroll that allows the user to cast the spell Power Word Kill.</content>
+    <content contentuid="hda43ae99g8435g4537gb957ge7030e3db6da" version="1">Power Word Kill</content>
+    <!-- <content contentuid="edad08ea-dea7-4932-970a-f1df8f057305" version="1">Compel a target to die instantly.</content> -->
 </contentList>
