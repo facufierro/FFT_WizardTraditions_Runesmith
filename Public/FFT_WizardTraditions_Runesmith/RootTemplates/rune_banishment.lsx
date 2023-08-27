@@ -8,7 +8,7 @@
 					<attribute id="MapKey" type="FixedString" value="496156bc-da32-48a6-bcb5-fd83ed533178" />
 					<attribute id="Name" type="LSString" value="Rune_Banishment" />
 					<attribute id="DisplayName" type="TranslatedString" handle="hbb975841g5e9cg49abg843cgc51382e7cf11" version="1" />
-					<attribute id="Icon" type="FixedString" value="Icon_Rune_Banishment" />
+					<attribute id="Icon" type="FixedString" value="Icon_Rune_Abjuration" />
 					<attribute id="LevelName" type="FixedString" value="" />
 
 					<attribute id="Type" type="FixedString" value="item" />

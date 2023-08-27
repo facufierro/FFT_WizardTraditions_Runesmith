@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="4" build="602" />
+	<version major="4" minor="0" revision="4" build="322" />
 	<region id="TextureBank">
 		<node id="TextureBank">
 			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="080edc42-9ec0-446f-a9c2-792d5bdf4686" />
+					<attribute id="ID" type="FixedString" value="5a359cb4-ad61-4fa3-b8e6-1cf6191bf7f9" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Icons_Runesmith" />
+					<attribute id="Name" type="LSString" value="Icon_Skills" />
 					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="SourceFile" type="LSString" value="Public/5eSpells/Assets/Textures/Icons/Icons_Runsemith.dds" />
+					<attribute id="SourceFile" type="LSString" value="Public/FFT_WizardTraditions_Runesmith/Assets/Textures/Icons/Icons_Runesmith.dds" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Icons_Items" />
+					<attribute id="Template" type="FixedString" value="Icon_Skills" />
 					<attribute id="Type" type="int32" value="0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855873" />
 				</node>

@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="0" revision="0" build="49"/>
+    <version major="4" minor="0" revision="8" build="612"/>
     <region id="Config">
         <node id="root">
             <children>
                 <node id="Dependencies"/>
                 <node id="ModuleInfo">
-                    <attribute id="Author" type="LSWString" value="fierrof"/>
+                    <attribute id="Author" type="LSString" value="fierrof"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSWString" value="FFT_WizardTraditions_Runesmith"/>
-                    <attribute id="Folder" type="LSWString" value="FFT_WizardTraditions_Runesmith"/>
-                    <attribute id="GMTemplate" type="FixedString" value=""/>
+                    <attribute id="Description" type="LSString" value="Adds the Runesmith Wizard subclass to the game."/>
+                    <attribute id="Folder" type="LSString" value="FFT_WizardTraditions_Runesmith"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value=""/>
                     <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="FixedString" value="FFT_WizardTraditions_Runesmith"/>
+                    <attribute id="Name" type="LSString" value="FFT_WizardTraditions_Runesmith"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
-                    <attribute id="Tags" type="LSWString" value=""/>
+                    <attribute id="Tags" type="LSString" value=""/>
                     <attribute id="Type" type="FixedString" value="Add-on"/>
                     <attribute id="UUID" type="FixedString" value="080edc42-9ec0-446f-a9c2-792d5bdf4686"/>
-                    <attribute id="Version64" type="int64" value="36028803461414912"/>
+                    <attribute id="Version64" type="int64" value="36028797018963968"/>
                     <children>
                         <node id="PublishVersion">
-                            <attribute id="Version" type="int32" value="268435456"/>
+                            <attribute id="Version64" type="int64" value="36028797018963968"/>
                         </node>
-                        <node id="Scripts"/>
                         <node id="TargetModes">
                             <children>
                                 <node id="Target">
