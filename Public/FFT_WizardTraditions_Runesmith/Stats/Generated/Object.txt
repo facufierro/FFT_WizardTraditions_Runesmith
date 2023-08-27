@@ -10,7 +10,7 @@
 // 		data "ItemUseType" "Scroll"
 // 		data "UseConditions" "not IsSummon()"
 
-new entry "FTT_RUNE_Banishment"
+new entry "OBJ_RUNE_Banishment"
 	type "Object"
 	using "_MagicScroll"
 		data "RootTemplate" "496156bc-da32-48a6-bcb5-fd83ed533178"

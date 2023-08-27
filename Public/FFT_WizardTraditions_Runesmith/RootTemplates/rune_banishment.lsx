@@ -12,7 +12,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
 					<attribute id="VisualTemplate" type="FixedString" value="916f78a4-779b-3e43-28eb-eefc26d9683d" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="94a7c400-b2df-c54c-1675-1937920b7714" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h7707322cg66d7g49b2gab88g85f8ee7049a3" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2e64f45fga73eg4aaeg8164g9eaea65d4346" version="2" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Banishment" />
 					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_Banishment" />
 					<children>
