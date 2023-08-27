@@ -6,8 +6,10 @@
     <content contentuid="h8fb5731eg4b5fg4dceg88b1g5069a1f3d9a2" version="1">The Runesmith Tradition, often passed down through dwarven lineages, is a blending of ancient craftsmanship with arcane study. Rooted in the rich heritage of dwarven clans, wizards of this tradition believe that true power lies in the careful inscription of runes, allowing them to bind and harness magic in tangible forms.</content>
     <content contentuid="hcd4de09ege9b2g4d3dg8301g68594c0f3890" version="2">Runesmith</content>
     <content contentuid="h61d148f5g34a1g4f6aga72fgbb2bbf554bb9" version="2">The Runesmith Tradition, often passed down through dwarven lineages, is a blending of ancient craftsmanship with arcane study. Rooted in the rich heritage of dwarven clans, wizards of this tradition believe that true power lies in the careful inscription of runes, allowing them to bind and harness magic in tangible forms.</content>
-    <!-- Runesmith Hammer --> 
-    <content contentuid="h79246943g1798g4af3ga056gfa31520ade6f" version="1">Runesmith Hammer</content>
-    <content contentuid="h900117acg8ffbg4cdfgb5fcgf5d9c660b61c" version="1">Runesmith Hammer description</content>
-   
+    <!-- Engrave Weapon -->
+    <content contentuid="h79246943g1798g4af3ga056gfa31520ade6f" version="1">Engrave Weapon</content>
+    <content contentuid="h900117acg8ffbg4cdfgb5fcgf5d9c660b61c" version="1">Engrave Weapon Description</content>
+    <!-- Runic Warhammer -->
+    <content contentuid="h40125425g4f3dg4edegae93gdcb3c6900c42" version="1">Runic Warhammer</content>
+    <content contentuid="hbca1badfg5b10g4086gba47gd53e7a074a20" version="1">Engrave Weapon Description</content>
 </contentList>

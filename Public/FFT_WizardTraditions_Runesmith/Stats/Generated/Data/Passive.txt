@@ -1,8 +1,10 @@
-new entry "Passive_RunesmithHammer"
-type "PassiveData"
-data "DisplayName" "ha3bef4ccgd1dfg46d2ga453g49e67df2361c;2"
-data "Description" "he0dbb48dg6fe3g4bc5g8118gb2000252a7ef;2"
-data "ExtraDescription" "h74a01e25gb442g45b7g899fg6846bcdbbd9b;1"
-data "Icon" "PassiveFeature_PactOfTheBlade"
-data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(Shout_RunesmithHammer)"
+// Engrave Weapon
+new entry "Passive_EngraveWeapon"
+	type "PassiveData"
+		data "DisplayName" "h79246943g1798g4af3ga056gfa31520ade6f;2"
+		data "Description" "h900117acg8ffbg4cdfgb5fcgf5d9c660b61c;2"
+		data "ExtraDescription" "h74a01e25gb442g45b7g899fg6846bcdbbd9b;1"
+		data "Icon" "PassiveFeature_PactOfTheBlade"
+		data "Properties" "Highlighted"
+		data "Boosts" "UnlockSpell(Shout_RunesmithHammer)"
+
