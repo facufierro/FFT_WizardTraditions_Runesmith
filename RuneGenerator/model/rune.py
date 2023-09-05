@@ -7,7 +7,7 @@ from utils.paths import RUNES_JSON_DIR
 
 
 class Rune:
-    def __init__(self, spell_id, icon=None, icon_uv=None):
+    def __init__(self, spell_id, icon_uv=None):
         # Load existing runes from JSON file
         existing_runes = FileManager.load_object_from_json(Rune, RUNES_JSON_DIR)
 
@@ -20,13 +20,17 @@ class Rune:
             self.uuid = rune_data['uuid']
             self.spell_id = rune_data['spell_id']
             self.spell_name = rune_data['spell_name']
+            self.name_handle = rune_data['name_handle']
+            self.description_handle = rune_data['description_handle']
             self.icon = rune_data['icon']
             self.icon_uv = rune_data['icon_uv']
         else:
             self.uuid = str(uuid4())
             self.spell_id = spell_id
             self.spell_name = spell_id.split('_')[1]
-            self.icon = icon if icon else f'Icon_Rune_{self.spell_name}'
+            self.name_handle = "h" + str(uuid4()).replace("-", "g")
+            self.description_handle = "h" + str(uuid4()).replace("-", "g")
+            self.icon = f'Icon_Rune_{self.spell_name}'
             self.icon_uv = icon_uv if icon_uv else {'u1': 0.0, 'u2': 1.0, 'v1': 0.0, 'v2': 1.0}
 
             # Add new rune to existing_runes and save to JSON
@@ -34,6 +38,8 @@ class Rune:
                 'uuid': self.uuid,
                 'spell_id': self.spell_id,
                 'spell_name': self.spell_name,
+                'name_handle': self.name_handle,
+                'description_handle': self.description_handle,
                 'icon': self.icon,
                 'icon_uv': self.icon_uv
             }
@@ -50,7 +56,8 @@ class Rune:
             f'data "Icon" "{self.icon}"\n'
             f'data "DisplayName" "{self.name_handle};2"\n'
             f'data "Description" "{self.description_handle};2"\n'
-            'data "SpellFlags" "UNUSED_D"\n')
+            'data "SpellFlags" "UNUSED_D"\n'
+            '\n')
 
     def object_string(self):
         return (

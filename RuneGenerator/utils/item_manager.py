@@ -1,13 +1,14 @@
 import logging
-from utils.file_manager import FileManager
 from model.rune import Rune
+from utils.file_manager import FileManager
+from utils.paths import RUNES_JSON_DIR, SPELL_LISTS_DIR, SHOUTS_DIR
 
 
 class ItemManager:
 
     @staticmethod
     def generate_runes():
-        spells_level_1 = FileManager.get_spell_list('D:\Projects\Mods\Baldurs Gate 3\FFT_WizardTraditions_Runesmith\RuneGenerator\SpellLists.lsx', '11f331b0-e8b7-473b-9d1f-19e8e4178d7d')
+        spells_level_1 = FileManager.get_spell_list(SPELL_LISTS_DIR, '11f331b0-e8b7-473b-9d1f-19e8e4178d7d')
         runes = []
         for spell in spells_level_1:
             runes.append(Rune(spell))
@@ -25,8 +26,33 @@ class ItemManager:
 
     @staticmethod
     def generate_shouts():
-        # add shouts to shouts.txt without overwriting existing shouts but overwriting existing runes
-        runes = FileManager.load_object_from_json(Rune, 'D:\Projects\Mods\Baldurs Gate 3\FFT_WizardTraditions_Runesmith\RuneGenerator\runes.json')
+        # Load existing runes from JSON file
+        runes = ItemManager.generate_runes()
+        shouts_file = SHOUTS_DIR
+
+        # Read existing content from shouts.txt
+        try:
+            with open(shouts_file, 'r') as f:
+                existing_shouts = f.read()
+        except FileNotFoundError:
+            existing_shouts = ""
+
+        # Split the existing content into sections based on comments
+        sections = existing_shouts.split("//Runes")
+        pre_runes_section = sections[0]  # Content before "//Runes"
+        post_runes_section = sections[1] if len(sections) > 1 else ""  # Content after "//Runes"
+
+        # Generate new rune shouts
+        new_rune_shouts = []
+        for rune in runes:
+            new_rune_shouts.append(rune.shout_string())
+
+        # Combine everything
+        updated_content = f"{pre_runes_section}//Runes\n{''.join(new_rune_shouts)}\n{post_runes_section}"
+
+        # Write updated content back to file
+        with open(shouts_file, 'w') as f:
+            f.write(updated_content)
 
     @staticmethod
     def generate_root_templates():

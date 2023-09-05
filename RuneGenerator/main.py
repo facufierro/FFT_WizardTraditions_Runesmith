@@ -7,6 +7,7 @@ from utils.debug import setup_logger
 def main():
     setup_logger()
     ItemManager.generate_objects()
+    ItemManager.generate_shouts()
 
 
 if __name__ == "__main__":

@@ -8,7 +8,6 @@ from typing import List, Optional
 
 class FileManager:
 
-
     @staticmethod
     def pack(source_path, destination_path):
         pass
