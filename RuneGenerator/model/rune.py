@@ -1,15 +1,17 @@
+import logging
 from uuid import uuid4
 
 
 class Rune:
-    def __init__(self, spell_id, uuid=None, name_handle=None, description_handle=None, icon=None, icon_uv=None):
+    def __init__(self, spell_id, uuid=None, icon=None, icon_uv=None):
         self.uuid = uuid if uuid else str(uuid4())
         self.spell_id = spell_id
-        self.spell_name = spell_id.split("_", 1)[1]
-        self.name_handle = name_handle if name_handle else f'u{self.uuid.replace("-", "")}'
-        self.description_handle = description_handle if description_handle else f'u{str(uuid4()).replace("-", "")}'
+        self.spell_name = spell_id.split('_')[1]
+        self.name_handle = f'u{self.uuid.replace("-", "")}'
+        self.description_handle = f'u{str(uuid4()).replace("-", "")}'
         self.icon = icon if icon else f'Icon_Rune_{self.spell_name}'
         self.icon_uv = icon_uv if icon_uv else {'u1': 0.0, 'u2': 1.0, 'v1': 0.0, 'v2': 1.0}
+        logging.debug(f"Created Rune of {self.spell_name}")
 
     def shout_string(self):
         return (
@@ -29,7 +31,7 @@ class Rune:
             f'new entry "Rune_{self.spell_name}"\n'
             'type "Object"\n'
             'using "_MagicScroll"\n'
-            'data "RootTemplate" "496156bc-da32-48a6-bcb5-fd83ed533178"\n'
+            f'data "RootTemplate" "{self.uuid}"\n'
             'data "ValueLevel" "7"\n'
             'data "Rarity" "Rare"\n'
             'data "ObjectCategory" "MagicScroll_4;;MagicScroll_Protection_4"\n'

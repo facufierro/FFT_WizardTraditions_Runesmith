@@ -1,8 +1,1 @@
-new entry "Rune_Banishment"
-	type "Object"
-	using "_MagicScroll"
-		data "RootTemplate" "496156bc-da32-48a6-bcb5-fd83ed533178"
-		data "ValueLevel" "7"
-		data "Rarity" "Rare"
-		data "ObjectCategory" "MagicScroll_4;;MagicScroll_Protection_4"
-		data "Priority" "1"
+Hello world

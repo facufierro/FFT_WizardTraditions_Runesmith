@@ -1,9 +1,12 @@
 # main.py
-from model.rune import Rune
+from utils.file_manager import FileManager
+from utils.item_manager import ItemManager
+from utils.debug import setup_logger
 
 
 def main():
-    pass
+    setup_logger()
+    ItemManager.generate_objects()
 
 
 if __name__ == "__main__":

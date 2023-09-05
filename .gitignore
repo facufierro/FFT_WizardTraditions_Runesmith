@@ -4,3 +4,5 @@
 
 /.vs
 .vscode
+__pycache__/
+logs/

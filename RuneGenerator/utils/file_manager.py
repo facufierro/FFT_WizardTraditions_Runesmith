@@ -93,13 +93,14 @@ class FileManager:
             return []
 
     @staticmethod
-    def get_spells_from_spell_list(spell_list_path, list_uuid):
+    def get_spell_list(spell_list_path, list_uuid):
+        # Returns a list of spell_ids in this format: ["spell1", "spell2", "spell3"]
         spell_list = FileManager.load_nodes(spell_list_path, "SpellList", ["Spells", "UUID"])
-        result_list = []
-        for spell in spell_list:
-            if spell["UUID"] == list_uuid:
-                result_list.append(spell["Spells"].replace(";", "").split(","))
-        return spell_list
+        # return a list of spell_ids if the spell list was found
+        if spell_list:
+            for spell_list_data in spell_list:
+                if spell_list_data["UUID"] == list_uuid:
+                    return spell_list_data["Spells"].replace(";", ",").split(",")
 
     @staticmethod
     def create_file(file_path):
