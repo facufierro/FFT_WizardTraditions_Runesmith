@@ -24,12 +24,12 @@ class FileManager:
             logging.error(f'Failed to clean folder. Reason: {e}')
 
     @staticmethod
-    def find_files(mod_folder_path, target_filenames: List[str]):
-        logging.info(f"Searching for target files in {mod_folder_path}")
+    def find_files(folder_path, target_filenames: List[str]):
+        logging.info(f"Searching for target files in {folder_path}")
         found_files = {}
 
         try:
-            for root, dirs, files in os.walk(mod_folder_path):
+            for root, dirs, files in os.walk(folder_path):
                 for filename in files:
                     if filename in target_filenames:
                         found_files[filename] = os.path.join(root, filename)
@@ -93,30 +93,13 @@ class FileManager:
             return []
 
     @staticmethod
-    def get_spells_from_spell_list(mod_folder_path):
-        spell_list_file = FileManager.find_files(mod_folder_path, ["SpellList.lsx"])
-        spell_list = FileManager.load_nodes(spell_list_file, "SpellList", ["Spells", "UUID"])
-        wizard_spell_list = []
+    def get_spells_from_spell_list(spell_list_path, list_uuid):
+        spell_list = FileManager.load_nodes(spell_list_path, "SpellList", ["Spells", "UUID"])
+        result_list = []
         for spell in spell_list:
-            if spell["UUID"] == "11f331b0-e8b7-473b-9d1f-19e8e4178d7d":
-                wizard_spell_list.append({"level": 1, "spells": spell["Spells"].replace(";", "").split(",")})
-            if spell["UUID"] == "80c6b070-c3a6-4864-84ca-e78626784eb4":
-                wizard_spell_list.append({"level": 2, "spells": spell["Spells"].replace(";", "").split(",")})
-            if spell["UUID"] == "22755771-ca11-49f4-b772-13d8b8fecd93":
-                wizard_spell_list.append({"level": 3, "spells": spell["Spells"].replace(";", "").split(",")})
-            if spell["UUID"] == "820b1220-0385-426d-ae15-458dc8a6f5c0":
-                wizard_spell_list.append({"level": 4, "spells": spell["Spells"].replace(";", "").split(",")})
-            if spell["UUID"] == "f781a25e-d288-43b4-bf5d-3d8d98846687":
-                wizard_spell_list.append({"level": 5, "spells": spell["Spells"].replace(";", "").split(",")})
-            if spell["UUID"] == "bc917f22-7f71-4a25-9a77-7d2f91a96a65":
-                wizard_spell_list.append({"level": 6, "spells": spell["Spells"].replace(";", "").split(",")})
-            if spell["UUID"] == "dff7917a-0abc-4671-b68f-c03e56212549":
-                wizard_spell_list.append({"level": 7, "spells": spell["Spells"].replace(";", "").split(",")})
-            if spell["UUID"] == "f27a2d0a-0d6c-4c01-98a5-60081abf4807":
-                wizard_spell_list.append({"level": 8, "spells": spell["Spells"].replace(";", "").split(",")})
-            if spell["UUID"] == "cb123d97-8809-4d71-a0cb-0ecb66177d15":
-                wizard_spell_list.append({"level": 9, "spells": spell["Spells"].replace(";", "").split(",")})
-        return wizard_spell_list
+            if spell["UUID"] == list_uuid:
+                result_list.append(spell["Spells"].replace(";", "").split(","))
+        return spell_list
 
     @staticmethod
     def create_file(file_path):
