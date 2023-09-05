@@ -2,13 +2,14 @@ from uuid import uuid4
 
 
 class Rune:
-    def __init__(self, spell_id, uuid_value=None, name_handle=None, description_handle=None, icon=None):
-        self.uuid = uuid_value if uuid_value else str(uuid4())
+    def __init__(self, spell_id, uuid=None, name_handle=None, description_handle=None, icon=None, icon_uv=None):
+        self.uuid = uuid if uuid else str(uuid4())
         self.spell_id = spell_id
-        self.spell_name = spell_id
+        self.spell_name = spell_id.split("_", 1)[1]
         self.name_handle = name_handle if name_handle else f'u{self.uuid.replace("-", "")}'
         self.description_handle = description_handle if description_handle else f'u{str(uuid4()).replace("-", "")}'
         self.icon = icon if icon else f'Icon_Rune_{self.spell_name}'
+        self.icon_uv = icon_uv if icon_uv else {'u1': 0.0, 'u2': 1.0, 'v1': 0.0, 'v2': 1.0}
 
     def shout_string(self):
         return (
@@ -17,17 +18,33 @@ class Rune:
             'data "SpellType" "Shout"\n'
             'using "Shout_CarveRune"\n'
             'data "SpellContainerID" "Shout_CarveRune"\n'
-            'data "SpellProperties" "SummonInInventory(496156bc-da32-48a6-bcb5-fd83ed533178,Permanent,5,false,true,true,,,,)"\n'
-            'data "Icon" "Icon_Rune_Banishment"\n'
-            'data "DisplayName" "h89f0b838g285fg4e72g8ce4gaf1e8ec5ac2c;2"\n'
-            'data "Description" "h277c9a64g8300g419egbda7g62763b24ba72;2"\n'
+            f'data "SpellProperties" "SummonInInventory({self.uuid},Permanent,5,false,true,true,,,,)"\n'
+            f'data "Icon" "{self.icon}"\n'
+            f'data "DisplayName" "{self.name_handle};2"\n'
+            f'data "Description" "{self.description_handle};2"\n'
             'data "SpellFlags" "UNUSED_D"\n')
 
     def object_string(self):
-        return ("")
+        return (
+            f'new entry "Rune_{self.spell_name}"\n'
+            'type "Object"\n'
+            'using "_MagicScroll"\n'
+            'data "RootTemplate" "496156bc-da32-48a6-bcb5-fd83ed533178"\n'
+            'data "ValueLevel" "7"\n'
+            'data "Rarity" "Rare"\n'
+            'data "ObjectCategory" "MagicScroll_4;;MagicScroll_Protection_4"\n'
+            'data "Priority" "1"\n')
 
     def icon_string(self):
-        return ("")
+        return (
+            '<node id="IconUV">\n'
+            f'<attribute id="MapKey" type="FixedString" value="Icon_Rune_{self.spell_name}" />\n'
+            f'<attribute id="U1" type="float" value="{self.icon_uv["u1"]}" />\n'
+            f'<attribute id="U2" type="float" value="{self.icon_uv["u2"]}" />\n'
+            f'<attribute id="V1" type="float" value="{self.icon_uv["v1"]}" />\n'
+            f'<attribute id="V2" type="float" value="{self.icon_uv["v2"]}" />\n'
+            '</node>\n'
+        )
 
     def root_template_pack(self):
         return ("")
