@@ -1,0 +1,470 @@
+{
+    "Shout_AbsorbElements": {
+        "uuid": "2f87997f-ea04-4a59-b5f3-42fc6c125349",
+        "spell_id": "Shout_AbsorbElements",
+        "spell_name": "AbsorbElements",
+        "icon": "Icon_Rune_AbsorbElements",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Zone_ArcticBreath": {
+        "uuid": "665fa885-5ce1-490a-a0b5-b99f7f05a07a",
+        "spell_id": "Zone_ArcticBreath",
+        "spell_name": "ArcticBreath",
+        "icon": "Icon_Rune_ArcticBreath",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Zone_BurningHands": {
+        "uuid": "7430e850-f813-40c1-bb7e-012c13200e14",
+        "spell_id": "Zone_BurningHands",
+        "spell_name": "BurningHands",
+        "icon": "Icon_Rune_BurningHands",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Target_Catapult": {
+        "uuid": "d3590708-d05b-4739-8ec6-e5261494ab3b",
+        "spell_id": "Target_Catapult",
+        "spell_name": "Catapult",
+        "icon": "Icon_Rune_Catapult",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Throw_Catapult": {
+        "uuid": "2580409d-1723-4e6d-b8d3-f8f85c4be135",
+        "spell_id": "Throw_Catapult",
+        "spell_name": "Catapult",
+        "icon": "Icon_Rune_Catapult",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Target_CauseFear": {
+        "uuid": "6a32e47d-6fce-4e1c-9d0e-fa08003645d0",
+        "spell_id": "Target_CauseFear",
+        "spell_name": "CauseFear",
+        "icon": "Icon_Rune_CauseFear",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Target_CharmPerson": {
+        "uuid": "8594bc57-3c8e-4fa4-8a8f-0e7a0c6684f1",
+        "spell_id": "Target_CharmPerson",
+        "spell_name": "CharmPerson",
+        "icon": "Icon_Rune_CharmPerson",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Projectile_ChromaticOrb": {
+        "uuid": "f9d084cc-b638-465d-96e1-ee3bdc890a47",
+        "spell_id": "Projectile_ChromaticOrb",
+        "spell_name": "ChromaticOrb",
+        "icon": "Icon_Rune_ChromaticOrb",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Zone_ColorSpray": {
+        "uuid": "b3e9a327-422e-49fb-af1a-fdc4443fac32",
+        "spell_id": "Zone_ColorSpray",
+        "spell_name": "ColorSpray",
+        "icon": "Icon_Rune_ColorSpray",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Shout_DetectMagic": {
+        "uuid": "56b24ac2-e0e8-4394-87a2-bd13b8aa3b0c",
+        "spell_id": "Shout_DetectMagic",
+        "spell_name": "DetectMagic",
+        "icon": "Icon_Rune_DetectMagic",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Shout_DisguiseSelf": {
+        "uuid": "97f22c11-00fd-4f90-87a5-219a075617db",
+        "spell_id": "Shout_DisguiseSelf",
+        "spell_name": "DisguiseSelf",
+        "icon": "Icon_Rune_DisguiseSelf",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Shout_EarthTremor": {
+        "uuid": "cf8d0299-8fee-4771-821d-33142388616f",
+        "spell_id": "Shout_EarthTremor",
+        "spell_name": "EarthTremor",
+        "icon": "Icon_Rune_EarthTremor",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Target_Entomb": {
+        "uuid": "f5f0a648-5e2a-41d1-81fb-59cf4160ff92",
+        "spell_id": "Target_Entomb",
+        "spell_name": "Entomb",
+        "icon": "Icon_Rune_Entomb",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Shout_ExpeditiousRetreat": {
+        "uuid": "b8467536-ad97-48d9-bbb3-808609a374cb",
+        "spell_id": "Shout_ExpeditiousRetreat",
+        "spell_name": "ExpeditiousRetreat",
+        "icon": "Icon_Rune_ExpeditiousRetreat",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Shout_FalseLife": {
+        "uuid": "5536004e-2258-4735-bbcc-3fabef32793a",
+        "spell_id": "Shout_FalseLife",
+        "spell_name": "FalseLife",
+        "icon": "Icon_Rune_FalseLife",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Shout_FeatherFall": {
+        "uuid": "56e1df39-d0b2-4954-ab8b-bd7091ed2033",
+        "spell_id": "Shout_FeatherFall",
+        "spell_name": "FeatherFall",
+        "icon": "Icon_Rune_FeatherFall",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Target_FindFamiliar": {
+        "uuid": "33c6d9a7-7229-47ba-a616-be0f70161dbc",
+        "spell_id": "Target_FindFamiliar",
+        "spell_name": "FindFamiliar",
+        "icon": "Icon_Rune_FindFamiliar",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Target_FogCloud": {
+        "uuid": "466cc8e1-1a93-4865-b3c9-f963f5b499dd",
+        "spell_id": "Target_FogCloud",
+        "spell_name": "FogCloud",
+        "icon": "Icon_Rune_FogCloud",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Zone_FrostFingers": {
+        "uuid": "14488211-afc7-4f76-9515-c7f7a29ff55b",
+        "spell_id": "Zone_FrostFingers",
+        "spell_name": "FrostFingers",
+        "icon": "Icon_Rune_FrostFingers",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Projectile_GaleBolt": {
+        "uuid": "5820594a-680b-40ee-acd4-138eef4ea3b3",
+        "spell_id": "Projectile_GaleBolt",
+        "spell_name": "GaleBolt",
+        "icon": "Icon_Rune_GaleBolt",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Target_Grease": {
+        "uuid": "cc489f68-3d4d-4cb3-a981-b3fb19f67680",
+        "spell_id": "Target_Grease",
+        "spell_name": "Grease",
+        "icon": "Icon_Rune_Grease",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Target_HideousLaughter": {
+        "uuid": "9504986a-c3ca-4c63-a1e4-56fe2f57024a",
+        "spell_id": "Target_HideousLaughter",
+        "spell_name": "HideousLaughter",
+        "icon": "Icon_Rune_HideousLaughter",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Projectile_IceKnife": {
+        "uuid": "a465136c-e2f9-46f3-a21a-39e1c1cb7c63",
+        "spell_id": "Projectile_IceKnife",
+        "spell_name": "IceKnife",
+        "icon": "Icon_Rune_IceKnife",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Target_Jump": {
+        "uuid": "ba93c5da-6717-4156-9d7c-61a28ed15078",
+        "spell_id": "Target_Jump",
+        "spell_name": "Jump",
+        "icon": "Icon_Rune_Jump",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Shout_LightningTendril": {
+        "uuid": "6877c629-0a62-4859-a128-9cbeb49fd313",
+        "spell_id": "Shout_LightningTendril",
+        "spell_name": "LightningTendril",
+        "icon": "Icon_Rune_LightningTendril",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Target_Longstrider": {
+        "uuid": "fff2ac6b-c0b9-4e6a-83c8-24554ed1ec0f",
+        "spell_id": "Target_Longstrider",
+        "spell_name": "Longstrider",
+        "icon": "Icon_Rune_Longstrider",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Target_MageArmor": {
+        "uuid": "2a82e49a-f078-4aa3-873e-ca6a231ee983",
+        "spell_id": "Target_MageArmor",
+        "spell_name": "MageArmor",
+        "icon": "Icon_Rune_MageArmor",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Projectile_MagicMissile": {
+        "uuid": "04619c40-4001-4fdd-bd45-a4f7d53c885e",
+        "spell_id": "Projectile_MagicMissile",
+        "spell_name": "MagicMissile",
+        "icon": "Icon_Rune_MagicMissile",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Target_ProtectionFromEvilAndGood": {
+        "uuid": "e1e86e41-de8a-4c7a-8fab-29fc0fbdd80a",
+        "spell_id": "Target_ProtectionFromEvilAndGood",
+        "spell_name": "ProtectionFromEvilAndGood",
+        "icon": "Icon_Rune_ProtectionFromEvilAndGood",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Projectile_RayOfSickness": {
+        "uuid": "a530cad4-c08e-45d2-94bc-950a3fab5b76",
+        "spell_id": "Projectile_RayOfSickness",
+        "spell_name": "RayOfSickness",
+        "icon": "Icon_Rune_RayOfSickness",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Shout_Shield_Wizard": {
+        "uuid": "53a43e84-0a47-473a-8ae2-ce68b14d42ad",
+        "spell_id": "Shout_Shield_Wizard",
+        "spell_name": "Shield",
+        "icon": "Icon_Rune_Shield",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Target_Sleep": {
+        "uuid": "24ca6683-794d-45f7-8771-5fef624f548e",
+        "spell_id": "Target_Sleep",
+        "spell_name": "Sleep",
+        "icon": "Icon_Rune_Sleep",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Target_Snare": {
+        "uuid": "17080e94-6210-459c-8f3e-2e4d19483c20",
+        "spell_id": "Target_Snare",
+        "spell_name": "Snare",
+        "icon": "Icon_Rune_Snare",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Zone_TashasCausticBrew": {
+        "uuid": "ebb2842f-5a17-4a5a-8205-c9ad9316f765",
+        "spell_id": "Zone_TashasCausticBrew",
+        "spell_name": "TashasCausticBrew",
+        "icon": "Icon_Rune_TashasCausticBrew",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Target_ThunderPunch": {
+        "uuid": "3388c3da-bdbd-43d8-b188-e2ed578fe8af",
+        "spell_id": "Target_ThunderPunch",
+        "spell_name": "ThunderPunch",
+        "icon": "Icon_Rune_ThunderPunch",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Zone_Thunderwave": {
+        "uuid": "97677d0d-a077-41bd-8462-41dbb044bfb9",
+        "spell_id": "Zone_Thunderwave",
+        "spell_name": "Thunderwave",
+        "icon": "Icon_Rune_Thunderwave",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Target_UnseenServant": {
+        "uuid": "4bf4edae-b08a-4cdd-8340-66d02f640d96",
+        "spell_id": "Target_UnseenServant",
+        "spell_name": "UnseenServant",
+        "icon": "Icon_Rune_UnseenServant",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Projectile_WaterBlast": {
+        "uuid": "7f03fb0a-7189-4895-bca8-ed262ddf6d2c",
+        "spell_id": "Projectile_WaterBlast",
+        "spell_name": "WaterBlast",
+        "icon": "Icon_Rune_WaterBlast",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    },
+    "Projectile_WitchBolt": {
+        "uuid": "92756c86-2336-4de9-89db-da102c8f72b1",
+        "spell_id": "Projectile_WitchBolt",
+        "spell_name": "WitchBolt",
+        "icon": "Icon_Rune_WitchBolt",
+        "icon_uv": {
+            "u1": 0.0,
+            "u2": 1.0,
+            "v1": 0.0,
+            "v2": 1.0
+        }
+    }
+}

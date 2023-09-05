@@ -1,17 +1,43 @@
+import json
 import logging
+import os
 from uuid import uuid4
+from utils.file_manager import FileManager
+from utils.paths import RUNES_JSON_DIR
 
 
 class Rune:
-    def __init__(self, spell_id, uuid=None, icon=None, icon_uv=None):
-        self.uuid = uuid if uuid else str(uuid4())
-        self.spell_id = spell_id
-        self.spell_name = spell_id.split('_')[1]
-        self.name_handle = f'u{self.uuid.replace("-", "")}'
-        self.description_handle = f'u{str(uuid4()).replace("-", "")}'
-        self.icon = icon if icon else f'Icon_Rune_{self.spell_name}'
-        self.icon_uv = icon_uv if icon_uv else {'u1': 0.0, 'u2': 1.0, 'v1': 0.0, 'v2': 1.0}
-        logging.debug(f"Created Rune of {self.spell_name}")
+    def __init__(self, spell_id, icon=None, icon_uv=None):
+        # Load existing runes from JSON file
+        existing_runes = FileManager.load_object_from_json(Rune, RUNES_JSON_DIR)
+
+        if existing_runes is None:
+            existing_runes = {}
+
+        # Check if rune with given spell_id already exists
+        if spell_id in existing_runes:
+            rune_data = existing_runes[spell_id]
+            self.uuid = rune_data['uuid']
+            self.spell_id = rune_data['spell_id']
+            self.spell_name = rune_data['spell_name']
+            self.icon = rune_data['icon']
+            self.icon_uv = rune_data['icon_uv']
+        else:
+            self.uuid = str(uuid4())
+            self.spell_id = spell_id
+            self.spell_name = spell_id.split('_')[1]
+            self.icon = icon if icon else f'Icon_Rune_{self.spell_name}'
+            self.icon_uv = icon_uv if icon_uv else {'u1': 0.0, 'u2': 1.0, 'v1': 0.0, 'v2': 1.0}
+
+            # Add new rune to existing_runes and save to JSON
+            existing_runes[spell_id] = {
+                'uuid': self.uuid,
+                'spell_id': self.spell_id,
+                'spell_name': self.spell_name,
+                'icon': self.icon,
+                'icon_uv': self.icon_uv
+            }
+            FileManager.save_object_to_json(existing_runes, os.path.join(os.path.dirname(__file__), '..', 'runes.json'))
 
     def shout_string(self):
         return (
@@ -35,7 +61,8 @@ class Rune:
             'data "ValueLevel" "7"\n'
             'data "Rarity" "Rare"\n'
             'data "ObjectCategory" "MagicScroll_4;;MagicScroll_Protection_4"\n'
-            'data "Priority" "1"\n')
+            'data "Priority" "1"\n'
+            '\n')
 
     def icon_string(self):
         return (

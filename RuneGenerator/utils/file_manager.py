@@ -1,11 +1,18 @@
 import os
 import shutil
 import logging
+import json
 from lxml import etree
 from typing import List, Optional
 
 
 class FileManager:
+
+
+    @staticmethod
+    def pack(source_path, destination_path):
+        pass
+
     @staticmethod
     def clean_folder(folder_path):
         try:
@@ -131,12 +138,38 @@ class FileManager:
             return True
 
     @staticmethod
-    def write_file(file_path, content):
+    def write_file(file_path, content, mode='w'):
         try:
-            with open(file_path, 'w') as f:
+            with open(file_path, mode) as f:
                 f.write(content)
-            logging.info(f"Wrote content to {file_path}")
+            # logging.info(f"Wrote content to {file_path} in {mode} mode")
             return True
         except Exception as e:
-            logging.error(f"Failed to write to file {file_path}: {e}")
+            logging.error(f"Failed to write to file {file_path} in {mode} mode: {e}")
             return False
+
+    @staticmethod
+    def save_object_to_json(obj, file_path):
+        try:
+            with open(file_path, 'w') as f:
+                if isinstance(obj, dict):
+                    json.dump(obj, f)
+                else:
+                    json.dump(obj.__dict__, f)
+            logging.info(f"Saved object instance to {file_path}")
+        except Exception as e:
+            logging.error(f"Failed to save object instance to {file_path}: {e}")
+
+    @staticmethod
+    def load_object_from_json(cls, file_path):
+        try:
+            with open(file_path, 'r') as f:
+                data = f.read()
+                if not data:
+                    return {}
+                return json.loads(data)
+        except FileNotFoundError:
+            return {}
+        except json.JSONDecodeError:
+            logging.error(f"Failed to decode JSON from {file_path}")
+            return {}
