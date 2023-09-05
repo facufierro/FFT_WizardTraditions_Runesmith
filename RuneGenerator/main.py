@@ -1,10 +1,13 @@
 from build_icons_lsx import initialize_file, generate_icons
 from build_root_templates import generate_root_templates  # Import the function
-from Rune import Rune  # Notice the dot before Rune
+from model.rune import Rune  # Notice the dot before Rune
 
 
 Runes = {
-    "Abjuration": [Rune(spell_id="Projectile_Banishment")],
+    "Abjuration": [
+        Rune(spell_id="Projectile_Banishment"),
+        Rune(spell_id="Target_DispelMagic"),
+    ],
     # Add more Runes here
 }
 

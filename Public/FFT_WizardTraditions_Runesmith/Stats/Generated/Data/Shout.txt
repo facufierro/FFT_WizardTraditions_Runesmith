@@ -46,7 +46,6 @@ new entry "Shout_CarveRune"
 		data "CastEffect" "135cb448-04f9-4543-b670-7bebea4ae21d"
 		data "Sheathing" "Sheathed"
 
-// SummonInInventory("UUID,duration,stack_number,main_hand_equip,bound,?,,,")
 new entry "Shout_CarveRune_Banishment"
 	type "SpellData"
 		data "SpellType" "Shout"

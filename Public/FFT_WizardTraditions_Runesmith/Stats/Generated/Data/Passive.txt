@@ -13,7 +13,7 @@ new entry "Passive_CarveRune"
 	type "PassiveData"
 		data "DisplayName" "hb5226dc3g44d9g4953g8d16gc593362c3a87;2"
 		data "Description" "h052a6d70g8117g4667ga62fg98b912809a27;2"
-		data "Icon" "Icon_Rune_Banishment"
+		data "Icon" "PassiveFeature_PactOfTheBlade"
 		data "Properties" "Highlighted"
 		data "Boosts" "UnlockSpell(Shout_CarveRune)"
 

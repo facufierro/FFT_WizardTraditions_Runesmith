@@ -9,8 +9,9 @@ root_templates_path = "Public\\FFT_WizardTraditions_Runesmith\\RootTemplates\\"
 if not os.path.exists(root_templates_path):
     os.makedirs(root_templates_path)
 
+
 def generate_root_templates(Runes):
-    xml_template = '''<?xml version="1.0" encoding="utf-8"?>
+    xml_template = """<?xml version="1.0" encoding="utf-8"?>
 <save>
     <version major="4" minor="0" revision="9" build="309" />
     <region id="Templates">
@@ -60,7 +61,7 @@ def generate_root_templates(Runes):
             </children>
         </node>
     </region>
-</save>'''
+</save>"""
 
     for school, rune_list in Runes.items():
         for rune in rune_list:
@@ -69,14 +70,14 @@ def generate_root_templates(Runes):
 
             # Clear file contents if file already exists
             if os.path.exists(file_path):
-                open(file_path, 'w').close()
+                open(file_path, "w").close()
 
             # Populate the XML template and write to file
-            with open(file_path, 'w') as f:
+            with open(file_path, "w") as f:
                 populated_xml = xml_template.format(
                     uuid=rune.uuid,
                     spell_name=rune.spell_name,
                     name_handle=rune.name_handle,
-                    spell_id=rune.spell_id
+                    spell_id=rune.spell_id,
                 )
                 f.write(populated_xml)

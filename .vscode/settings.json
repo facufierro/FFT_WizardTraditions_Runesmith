@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "*.txt": "bg3txt",
-        "*.khn": "lua"
+        "*.khn": "lua",
+        "*.lsx": "xml"
     },
     "editor.tokenColorCustomizations": {
         "textMateRules": [
@@ -56,7 +57,7 @@
         ]
     },
     "[python]": {
-        "editor.defaultFormatter": "ms-python.black-formatter"
+        "editor.defaultFormatter": "ms-python.autopep8"
     },
     "python.formatting.provider": "none",
 }
