@@ -9,8 +9,12 @@ class ItemManager:
     @staticmethod
     def generate_runes():
         spells_level_1 = FileManager.get_spell_list(SPELL_LISTS_DIR, '11f331b0-e8b7-473b-9d1f-19e8e4178d7d')
+        spells_level_2 = FileManager.get_spell_list(SPELL_LISTS_DIR, '80c6b070-c3a6-4864-84ca-e78626784eb4')
+
         runes = []
         for spell in spells_level_1:
+            runes.append(Rune(spell))
+        for spell in spells_level_2:
             runes.append(Rune(spell))
         return runes
 
@@ -42,10 +46,18 @@ class ItemManager:
         pre_runes_section = sections[0]  # Content before "//Runes"
         post_runes_section = sections[1] if len(sections) > 1 else ""  # Content after "//Runes"
 
-        # Generate new rune shouts
+        # Generate new rune shouts and collect spell_ids
         new_rune_shouts = []
+        spell_ids = []
         for rune in runes:
             new_rune_shouts.append(rune.shout_string())
+            spell_ids.append(rune.spell_id)
+
+        # Concatenate spell_ids with semicolons
+        concatenated_spell_ids = ";".join([f"Shout_CarveRune_{spell_id}" for spell_id in spell_ids])
+
+        # Update the ContainerSpells line in pre_runes_section
+        pre_runes_section = pre_runes_section.replace('data "ContainerSpells" "Shout_CarveRune_Banishment"', f'data "ContainerSpells" "{concatenated_spell_ids}"')
 
         # Combine everything
         updated_content = f"{pre_runes_section}//Runes\n{''.join(new_rune_shouts)}\n{post_runes_section}"
