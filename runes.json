@@ -1,0 +1,425 @@
+{
+    "Zone_BurningHands": {
+        "uuid": "ce67b76b-0987-43f5-9c04-6818155e032a",
+        "spell_id": "Zone_BurningHands",
+        "spell_name": "BurningHands",
+        "spell_school": "Evocation",
+        "name_handle": "h11217b10gdd8ag4b7cg8b28g7b32fa9fec9a",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Evocation"
+    },
+    "Target_CharmPerson": {
+        "uuid": "e74de692-bfd4-4972-9d18-3231cff45d73",
+        "spell_id": "Target_CharmPerson",
+        "spell_name": "CharmPerson",
+        "spell_school": "Enchantment",
+        "name_handle": "hfc876008g0d8dg48fcg838ag3ba6683b7bee",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Enchantment"
+    },
+    "Projectile_ChromaticOrb": {
+        "uuid": "c2634c56-a659-48ac-97a5-2c8ea750cd90",
+        "spell_id": "Projectile_ChromaticOrb",
+        "spell_name": "ChromaticOrb",
+        "spell_school": "Evocation",
+        "name_handle": "hf88a953dga159g4c04g88b9g342f8ab47dd7",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Evocation"
+    },
+    "Zone_ColorSpray": {
+        "uuid": "5045139c-1c90-45bb-a270-f9c7e3d9b196",
+        "spell_id": "Zone_ColorSpray",
+        "spell_name": "ColorSpray",
+        "spell_school": "Illusion",
+        "name_handle": "hd507c4f7g40bfg4e77g9224g8461557ac2a2",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Illusion"
+    },
+    "Shout_DisguiseSelf": {
+        "uuid": "25226988-80ae-4de0-acd2-486868150727",
+        "spell_id": "Shout_DisguiseSelf",
+        "spell_name": "DisguiseSelf",
+        "spell_school": "Illusion",
+        "name_handle": "he724bec6g5825g45e6g8d0dg07986363f444",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Illusion"
+    },
+    "Shout_ExpeditiousRetreat": {
+        "uuid": "a617eed0-587b-41bb-a350-ba0645deeb9d",
+        "spell_id": "Shout_ExpeditiousRetreat",
+        "spell_name": "ExpeditiousRetreat",
+        "spell_school": "Transmutation",
+        "name_handle": "h880e3946g60bfg40cfg993fgc2a66df8938c",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Transmutation"
+    },
+    "Shout_FalseLife": {
+        "uuid": "981d225f-fe6b-4d2f-ab63-2216a1e89418",
+        "spell_id": "Shout_FalseLife",
+        "spell_name": "FalseLife",
+        "spell_school": "Necromancy",
+        "name_handle": "h4ad89cacg002eg4145gac0ag51df84a5296a",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Necromancy"
+    },
+    "Shout_FeatherFall": {
+        "uuid": "12cc514f-c486-4c28-bf46-cd164e8ebaee",
+        "spell_id": "Shout_FeatherFall",
+        "spell_name": "FeatherFall",
+        "spell_school": "Transmutation",
+        "name_handle": "hacd4d295gd637g4298ga2f2gbcd095b143bf",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Transmutation"
+    },
+    "Target_FindFamiliar": {
+        "uuid": "89982e37-3483-48d0-a3ba-03bce8460eaa",
+        "spell_id": "Target_FindFamiliar",
+        "spell_name": "FindFamiliar",
+        "spell_school": "Conjuration",
+        "name_handle": "h6a311f7dg3afcg4b9bga006gf7ca0abb93a2",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Conjuration"
+    },
+    "Target_FogCloud": {
+        "uuid": "ca500d2f-b3c5-40e7-b86f-8b25cc39859b",
+        "spell_id": "Target_FogCloud",
+        "spell_name": "FogCloud",
+        "spell_school": "Conjuration",
+        "name_handle": "h0f853138gf1d8g4271g938agebe3ac34fae2",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Conjuration"
+    },
+    "Target_Grease": {
+        "uuid": "7950f156-4dce-4ec7-8b9b-cc16c10ce2dd",
+        "spell_id": "Target_Grease",
+        "spell_name": "Grease",
+        "spell_school": "Conjuration",
+        "name_handle": "hd4874efdgcd9fg49ffg8a3cg1900cee7b5dd",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Conjuration"
+    },
+    "Projectile_IceKnife": {
+        "uuid": "0e26125c-e092-4b02-ac9b-40466bf49a2f",
+        "spell_id": "Projectile_IceKnife",
+        "spell_name": "IceKnife",
+        "spell_school": "Conjuration",
+        "name_handle": "hd85d8eeeg7463g4eb5gbacfg40a3138e1903",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Conjuration"
+    },
+    "Target_Jump": {
+        "uuid": "556cf842-6701-45a5-a9d4-5d2c8b093a05",
+        "spell_id": "Target_Jump",
+        "spell_name": "Jump",
+        "spell_school": "Transmutation",
+        "name_handle": "hcc491458g5737g486egac92g7c77748b9b68",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Transmutation"
+    },
+    "Target_Longstrider": {
+        "uuid": "c3965dc6-8c02-46f5-871b-7b0501d3f7f8",
+        "spell_id": "Target_Longstrider",
+        "spell_name": "Longstrider",
+        "spell_school": "Transmutation",
+        "name_handle": "h0f10e190g91f3g4b7agaa2cg7555273eb49f",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Transmutation"
+    },
+    "Target_MageArmor": {
+        "uuid": "53da828b-f20c-4778-a7ef-551992690b82",
+        "spell_id": "Target_MageArmor",
+        "spell_name": "MageArmor",
+        "spell_school": "Abjuration",
+        "name_handle": "h6fc76927ga2d3g4585g9d00g3ff81bb6f8e3",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Abjuration"
+    },
+    "Projectile_MagicMissile": {
+        "uuid": "c3eab696-0f3b-4363-b67a-eadf347bcc39",
+        "spell_id": "Projectile_MagicMissile",
+        "spell_name": "MagicMissile",
+        "spell_school": "Evocation",
+        "name_handle": "h79f7bcfbg9705g4328g99a0ge13c15db1bd8",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Evocation"
+    },
+    "Target_ProtectionFromEvilAndGood": {
+        "uuid": "29a92031-af9d-43b8-a2ad-26ed710bd189",
+        "spell_id": "Target_ProtectionFromEvilAndGood",
+        "spell_name": "ProtectionFromEvilAndGood",
+        "spell_school": "Abjuration",
+        "name_handle": "he28eb00cg812fg48c9gbe97g0d59dab29406",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Abjuration"
+    },
+    "Projectile_RayOfSickness": {
+        "uuid": "756ad365-49aa-4c6f-bcd2-311dd98af50d",
+        "spell_id": "Projectile_RayOfSickness",
+        "spell_name": "RayOfSickness",
+        "spell_school": "Necromancy",
+        "name_handle": "h77e7b444g7627g4111ga077g93bf6a34ddfe",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Necromancy"
+    },
+    "Shout_Shield_Wizard": {
+        "uuid": "b42f87b1-ad55-44f5-8a72-553d239e0f71",
+        "spell_id": "Shout_Shield_Wizard",
+        "spell_name": "Shield",
+        "spell_school": "Abjuration",
+        "name_handle": "ha2d7efd9gaaffg4a1dgbc46g56da6645fedd",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Abjuration"
+    },
+    "Target_Sleep": {
+        "uuid": "6ffa1e6c-3eac-4d98-8f1d-b51e65158b38",
+        "spell_id": "Target_Sleep",
+        "spell_name": "Sleep",
+        "spell_school": "Enchantment",
+        "name_handle": "hf9978ec0ga6c6g48a0gb8c5g2e51b27b4a61",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Enchantment"
+    },
+    "Target_HideousLaughter": {
+        "uuid": "b6350406-72dd-4c00-940e-3026ab2cee0b",
+        "spell_id": "Target_HideousLaughter",
+        "spell_name": "HideousLaughter",
+        "spell_school": "Enchantment",
+        "name_handle": "h8a6adfdcgb31cg4207gbfa5gaf3ff9e7b0aa",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Enchantment"
+    },
+    "Zone_Thunderwave": {
+        "uuid": "9c342d82-87e4-42f4-8611-47e4949bf6c5",
+        "spell_id": "Zone_Thunderwave",
+        "spell_name": "Thunderwave",
+        "spell_school": "Evocation",
+        "name_handle": "hf5f6e80fg69c9g4a74gb44fg97b7400aeee8",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Evocation"
+    },
+    "Projectile_WitchBolt": {
+        "uuid": "7133a64b-2624-4ae0-acd7-7623396e0387",
+        "spell_id": "Projectile_WitchBolt",
+        "spell_name": "WitchBolt",
+        "spell_school": "Evocation",
+        "name_handle": "h7adeb0f2gd3aeg4b8bg80aag5581f02b0f9d",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Evocation"
+    },
+    "Target_ArcaneLock": {
+        "uuid": "c9f7858b-8994-4a0d-ac88-f7f5e0686b90",
+        "spell_id": "Target_ArcaneLock",
+        "spell_name": "ArcaneLock",
+        "spell_school": "Abjuration",
+        "name_handle": "h21e101e5g84d0g4af3gb049gc4293f833344",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Abjuration"
+    },
+    "Target_Blindness": {
+        "uuid": "72bfb4ec-3248-4067-83f7-22d5bee5816f",
+        "spell_id": "Target_Blindness",
+        "spell_name": "Blindness",
+        "spell_school": "Necromancy",
+        "name_handle": "h178f56d2gee36g4788g98f3g96abb04ae50a",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Necromancy"
+    },
+    "Shout_Blur": {
+        "uuid": "a3f74a05-3095-4ff8-acc9-4271aae0b96c",
+        "spell_id": "Shout_Blur",
+        "spell_name": "Blur",
+        "spell_school": "Illusion",
+        "name_handle": "h10705b0dgb92fg49f6ga29dgb292737ebb94",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Illusion"
+    },
+    "Target_CloudOfDaggers": {
+        "uuid": "bd8b0509-18a9-4553-b0b7-3d141b97f36e",
+        "spell_id": "Target_CloudOfDaggers",
+        "spell_name": "CloudOfDaggers",
+        "spell_school": "Conjuration",
+        "name_handle": "h3076dd8fg05d6g4282g9ceegb22143ae1809",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Conjuration"
+    },
+    "Target_CrownOfMadness": {
+        "uuid": "ce13860f-1e4e-455a-9c45-638de45adc78",
+        "spell_id": "Target_CrownOfMadness",
+        "spell_name": "CrownOfMadness",
+        "spell_school": "Enchantment",
+        "name_handle": "h6a46a85fgc45ag4b51g8676g7db3d62a9764",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Enchantment"
+    },
+    "Target_Darkness": {
+        "uuid": "9350fc32-fa6c-4f40-98ae-6266705dee6f",
+        "spell_id": "Target_Darkness",
+        "spell_name": "Darkness",
+        "spell_school": "Evocation",
+        "name_handle": "hdb854e61g5712g4cf1ga894g244460e71867",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Evocation"
+    },
+    "Target_Darkvision": {
+        "uuid": "dc5daa1a-e875-42ee-9a64-bac58119f356",
+        "spell_id": "Target_Darkvision",
+        "spell_name": "Darkvision",
+        "spell_school": "Transmutation",
+        "name_handle": "h70ac4f21ge6e3g4234g939cg0c921812635f",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Transmutation"
+    },
+    "Shout_DetectThoughts": {
+        "uuid": "73c3950d-b3e9-41cb-b577-3fda576d0732",
+        "spell_id": "Shout_DetectThoughts",
+        "spell_name": "DetectThoughts",
+        "spell_school": "Divination",
+        "name_handle": "hed597408gd174g4315g8a69g30d55cc23c81",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Divination"
+    },
+    "Target_EnlargeReduce": {
+        "uuid": "0445bdb2-5b13-4d00-bb42-9737adbac915",
+        "spell_id": "Target_EnlargeReduce",
+        "spell_name": "EnlargeReduce",
+        "spell_school": "Transmutation",
+        "name_handle": "h5664487agb125g4c73g9f92g0a8f87c401ff",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Transmutation"
+    },
+    "Target_FlamingSphere": {
+        "uuid": "367a9a15-27a0-4d29-aa1f-f5a72a02aa10",
+        "spell_id": "Target_FlamingSphere",
+        "spell_name": "FlamingSphere",
+        "spell_school": "Conjuration",
+        "name_handle": "haa709313g865fg44a1gb2f9gdd6ed9dec18d",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Conjuration"
+    },
+    "Zone_GustOfWind": {
+        "uuid": "e6057048-0153-42df-9e79-c0398e5e8eec",
+        "spell_id": "Zone_GustOfWind",
+        "spell_name": "GustOfWind",
+        "spell_school": "Evocation",
+        "name_handle": "h34234ab3g09c0g4f66g8e08gcd4dca143dfd",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Evocation"
+    },
+    "Target_HoldPerson": {
+        "uuid": "6288fddc-3672-47b6-90f5-cf2ed4a6a653",
+        "spell_id": "Target_HoldPerson",
+        "spell_name": "HoldPerson",
+        "spell_school": "Enchantment",
+        "name_handle": "hfa039758g2d98g49f9gb6e2gbe34788aecef",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Enchantment"
+    },
+    "Target_Invisibility": {
+        "uuid": "6a150cc6-2bc2-4047-b145-0162f804964d",
+        "spell_id": "Target_Invisibility",
+        "spell_name": "Invisibility",
+        "spell_school": "Illusion",
+        "name_handle": "h04bba9b8g308cg41adga463g11b7de935434",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Illusion"
+    },
+    "Target_Knock": {
+        "uuid": "ef4149af-c7d4-460d-b48b-3ee0732f1d33",
+        "spell_id": "Target_Knock",
+        "spell_name": "Knock",
+        "spell_school": "Transmutation",
+        "name_handle": "h80025f92geff8g4a4eg9f7ega3bef4f44776",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Transmutation"
+    },
+    "Target_MagicWeapon": {
+        "uuid": "b19fcdb7-aa9f-4b14-9586-e586b2c0d6a7",
+        "spell_id": "Target_MagicWeapon",
+        "spell_name": "MagicWeapon",
+        "spell_school": "Transmutation",
+        "name_handle": "he0a0e7bbgda08g42fcg87d9g79fa7c971f68",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Transmutation"
+    },
+    "Projectile_AcidArrow": {
+        "uuid": "74ae8e68-72b8-4e22-96f9-33e77a23e7a0",
+        "spell_id": "Projectile_AcidArrow",
+        "spell_name": "AcidArrow",
+        "spell_school": "Evocation",
+        "name_handle": "h44f0e1f8ga682g4894gbdf2g1c0c65cff865",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Evocation"
+    },
+    "Shout_MirrorImage": {
+        "uuid": "72d38a08-9a26-44ba-bd7f-453027b7452c",
+        "spell_id": "Shout_MirrorImage",
+        "spell_name": "MirrorImage",
+        "spell_school": "Illusion",
+        "name_handle": "h0bfcb5adgba6ag4e22gbedeg95dded67cc28",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Illusion"
+    },
+    "Target_MistyStep": {
+        "uuid": "1c1d7d20-db94-4983-85a4-51233b98aac5",
+        "spell_id": "Target_MistyStep",
+        "spell_name": "MistyStep",
+        "spell_school": "Conjuration",
+        "name_handle": "h7a54b89eg7b6cg4f00g8575gdb439d8239bf",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Conjuration"
+    },
+    "Target_PhantasmalForce": {
+        "uuid": "e0fa00b5-2cea-4873-ba38-cbcf7027c4b1",
+        "spell_id": "Target_PhantasmalForce",
+        "spell_name": "PhantasmalForce",
+        "spell_school": "Illusion",
+        "name_handle": "h3be0a26ag7c6dg46d9g8157g418316b888de",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Illusion"
+    },
+    "Projectile_RayOfEnfeeblement": {
+        "uuid": "6bf14b9b-5a7a-40a4-b1cd-ea9e5d4522cc",
+        "spell_id": "Projectile_RayOfEnfeeblement",
+        "spell_name": "RayOfEnfeeblement",
+        "spell_school": "Necromancy",
+        "name_handle": "h24290d9aga358g4289g9377gd8be1681fbce",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Necromancy"
+    },
+    "Projectile_ScorchingRay": {
+        "uuid": "b11c4f8d-7d8c-4600-95cd-064851711340",
+        "spell_id": "Projectile_ScorchingRay",
+        "spell_name": "ScorchingRay",
+        "spell_school": "Evocation",
+        "name_handle": "h12e5552bg6f7cg4557g8c88ge2925cb5e2a6",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Evocation"
+    },
+    "Shout_SeeInvisibility": {
+        "uuid": "ef4e37ab-1688-40a2-b0c0-91dfca16873c",
+        "spell_id": "Shout_SeeInvisibility",
+        "spell_name": "SeeInvisibility",
+        "spell_school": "Divination",
+        "name_handle": "hb3555b2eg46c4g4996gabd9gefc96d438281",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Divination"
+    },
+    "Target_Shatter": {
+        "uuid": "fbcebf7b-a97f-42fb-9305-a3847426b663",
+        "spell_id": "Target_Shatter",
+        "spell_name": "Shatter",
+        "spell_school": "Evocation",
+        "name_handle": "hfa0813dcg0f2cg4e46g886cg44a0b149ebd6",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Evocation"
+    },
+    "Target_Web": {
+        "uuid": "1fd3fd54-95fc-43ff-9db7-eeefe9cff8d3",
+        "spell_id": "Target_Web",
+        "spell_name": "Web",
+        "spell_school": "Conjuration",
+        "name_handle": "hf3a0b49bg82d6g42abg9da9g7a4d3feddec7",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "Icon_Rune_Conjuration"
+    }
+}

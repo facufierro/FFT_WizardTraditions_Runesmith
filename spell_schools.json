@@ -1,0 +1,101 @@
+{
+    "Abjuration": [
+        "absorbelements",
+        "arcanelock",
+        "magearmor",
+        "protectionfromevilandgood",
+        "Shield",
+        "snare"
+    ],
+    "Illusion": [
+        "NathairsMischief",
+        "blur",
+        "colorspray",
+        "disguiseself",
+        "invisibility",
+        "mirrorimage",
+        "phantasmalforce",
+        "shadowblade"
+    ],
+    "Divination": [
+        "borrowedknowledge",
+        "detectmagic",
+        "detectthoughts",
+        "mindspike",
+        "seeinvisibility"
+    ],
+    "Evocation": [
+        "LightningTendril",
+        "GaleBolt",
+        "SnillocsSnowballStorm",
+        "RimesBindingIce",
+        "arcticbreath",
+        "AcidArrow",
+        "AganazzarsScorcher",
+        "burninghands",
+        "chromaticorb",
+        "continualflame",
+        "ColdSnap",
+        "Crackle",
+        "darkness",
+        "earthtremor",
+        "frostfingers",
+        "gustofwind",
+        "magicmissile",
+        "scorchingray",
+        "shatter",
+        "TashasCausticBrew",
+        "thunderwave",
+        "wardingwind",
+        "ThunderPunch",
+        "WaterBlast",
+        "witchbolt"
+    ],
+    "Transmutation": [
+        "MaximiliansEarthenGrasp",
+        "catapult",
+        "darkvision",
+        "DragonsBreath",
+        "enhanceability",
+        "EnlargeReduce",
+        "expeditiousretreat",
+        "featherfall",
+        "jump",
+        "kineticjaunt",
+        "knock",
+        "longstrider",
+        "magicweapon"
+    ],
+    "Necromancy": [
+        "Entomb",
+        "causefear",
+        "Blindness",
+        "falselife",
+        "rayofenfeeblement",
+        "rayofsickness",
+        "witherandbloom"
+    ],
+    "Enchantment": [
+        "TashasMindWhip",
+        "hideouslaughter",
+        "charmperson",
+        "crownofmadness",
+        "Fling",
+        "holdperson",
+        "sleep"
+    ],
+    "Conjuration": [
+        "FlockOfFamiliars",
+        "cloudofdaggers",
+        "dustdevil",
+        "findfamiliar",
+        "flamingsphere",
+        "fogcloud",
+        "grease",
+        "iceknife",
+        "mistystep",
+        "unseenservant",
+        "vortexwarp",
+        "web"
+    ]
+}

@@ -1,0 +1,26 @@
+// Engrave Weapon
+new entry "Passive_EngraveWeapon"
+	type "PassiveData"
+		data "DisplayName" "h79246943g1798g4af3ga056gfa31520ade6f;2"
+		data "Description" "h900117acg8ffbg4cdfgb5fcgf5d9c660b61c;2"
+		data "ExtraDescription" "h74a01e25gb442g45b7g899fg6846bcdbbd9b;1"
+		data "Icon" "Spell_Abjuration_RemoveCurse"
+		data "Properties" "Highlighted"
+		data "Boosts" "UnlockSpell(Shout_EngraveWeapon)"
+
+// Carve Rune
+new entry "Passive_CarveRune_1"
+	type "PassiveData"
+		data "DisplayName" "hb5226dc3g44d9g4953g8d16gc593362c3a87;2"
+		data "Description" "h052a6d70g8117g4667ga62fg98b912809a27;2"
+		data "Icon" "Spell_Abjuration_RemoveCurse"
+		data "Properties" "Highlighted"
+		data "Boosts" "UnlockSpell(Shout_CarveRune_1)"
+
+new entry "Passive_CarveRune_2"
+	type "PassiveData"
+		data "DisplayName" "hb5226dc3g44d9g4953g8d16gc593362c3a87;2"
+		data "Description" "h052a6d70g8117g4667ga62fg98b912809a27;2"
+		data "Icon" "Spell_Abjuration_RemoveCurse"
+		data "Properties" "Highlighted"
+		data "Boosts" "UnlockSpell(Shout_CarveRune_2)"

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+<!-- Runesmith -->
+<content contentuid="h0d3b68c7g73bcg4e09g81c0g9bab76c77422" version="1">Runesmith</content>
+<content contentuid="h8fb5731eg4b5fg4dceg88b1g5069a1f3d9a2" version="1">The Runesmith Tradition, often passed down through dwarven lineages, is a blending of ancient craftsmanship with arcane study. Rooted in the rich heritage of dwarven clans, wizards of this tradition believe that true power lies in the careful inscription of runes, allowing them to bind and harness magic in tangible forms.</content>
+<content contentuid="hcd4de09ege9b2g4d3dg8301g68594c0f3890" version="2">Runesmith</content>
+<content contentuid="h61d148f5g34a1g4f6aga72fgbb2bbf554bb9" version="2">The Runesmith Tradition, often passed down through dwarven lineages, is a blending of ancient craftsmanship with arcane study. Rooted in the rich heritage of dwarven clans, wizards of this tradition believe that true power lies in the careful inscription of runes, allowing them to bind and harness magic in tangible forms.</content>
+<!-- Engrave Weapon -->
+<content contentuid="h79246943g1798g4af3ga056gfa31520ade6f" version="1">Engrave Weapon</content>
+<content contentuid="h900117acg8ffbg4cdfgb5fcgf5d9c660b61c" version="1">Engrave Weapon Description</content>
+<!-- Carve Rune -->
+<content contentuid="hb5226dc3g44d9g4953g8d16gc593362c3a87" version="1">Carve Rune</content>
+<content contentuid="h052a6d70g8117g4667ga62fg98b912809a27" version="1">Carve Rune Description</content>
+<!-- Runes -->
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Feels heavier than it looks. The runes etched onto its surface glow faintly</content>
+<!-- RuneNames -->
+
+
+<content contentuid="h11217b10gdd8ag4b7cg8b28g7b32fa9fec9a" version="1">Rune of Burning Hands</content>
+<content contentuid="hfc876008g0d8dg48fcg838ag3ba6683b7bee" version="1">Rune of Charm Person</content>
+<content contentuid="hf88a953dga159g4c04g88b9g342f8ab47dd7" version="1">Rune of Chromatic Orb</content>
+<content contentuid="hd507c4f7g40bfg4e77g9224g8461557ac2a2" version="1">Rune of Color Spray</content>
+<content contentuid="he724bec6g5825g45e6g8d0dg07986363f444" version="1">Rune of Disguise Self</content>
+<content contentuid="h880e3946g60bfg40cfg993fgc2a66df8938c" version="1">Rune of Expeditious Retreat</content>
+<content contentuid="h4ad89cacg002eg4145gac0ag51df84a5296a" version="1">Rune of False Life</content>
+<content contentuid="hacd4d295gd637g4298ga2f2gbcd095b143bf" version="1">Rune of Feather Fall</content>
+<content contentuid="h6a311f7dg3afcg4b9bga006gf7ca0abb93a2" version="1">Rune of Find Familiar</content>
+<content contentuid="h0f853138gf1d8g4271g938agebe3ac34fae2" version="1">Rune of Fog Cloud</content>
+<content contentuid="hd4874efdgcd9fg49ffg8a3cg1900cee7b5dd" version="1">Rune of Grease</content>
+<content contentuid="hd85d8eeeg7463g4eb5gbacfg40a3138e1903" version="1">Rune of Ice Knife</content>
+<content contentuid="hcc491458g5737g486egac92g7c77748b9b68" version="1">Rune of Jump</content>
+<content contentuid="h0f10e190g91f3g4b7agaa2cg7555273eb49f" version="1">Rune of Longstrider</content>
+<content contentuid="h6fc76927ga2d3g4585g9d00g3ff81bb6f8e3" version="1">Rune of Mage Armor</content>
+<content contentuid="h79f7bcfbg9705g4328g99a0ge13c15db1bd8" version="1">Rune of Magic Missile</content>
+<content contentuid="he28eb00cg812fg48c9gbe97g0d59dab29406" version="1">Rune of Protection From Evil And Good</content>
+<content contentuid="h77e7b444g7627g4111ga077g93bf6a34ddfe" version="1">Rune of Ray Of Sickness</content>
+<content contentuid="ha2d7efd9gaaffg4a1dgbc46g56da6645fedd" version="1">Rune of Shield</content>
+<content contentuid="hf9978ec0ga6c6g48a0gb8c5g2e51b27b4a61" version="1">Rune of Sleep</content>
+<content contentuid="h8a6adfdcgb31cg4207gbfa5gaf3ff9e7b0aa" version="1">Rune of Hideous Laughter</content>
+<content contentuid="hf5f6e80fg69c9g4a74gb44fg97b7400aeee8" version="1">Rune of Thunderwave</content>
+<content contentuid="h7adeb0f2gd3aeg4b8bg80aag5581f02b0f9d" version="1">Rune of Witch Bolt</content>
+<content contentuid="h21e101e5g84d0g4af3gb049gc4293f833344" version="1">Rune of Arcane Lock</content>
+<content contentuid="h178f56d2gee36g4788g98f3g96abb04ae50a" version="1">Rune of Blindness</content>
+<content contentuid="h10705b0dgb92fg49f6ga29dgb292737ebb94" version="1">Rune of Blur</content>
+<content contentuid="h3076dd8fg05d6g4282g9ceegb22143ae1809" version="1">Rune of Cloud Of Daggers</content>
+<content contentuid="h6a46a85fgc45ag4b51g8676g7db3d62a9764" version="1">Rune of Crown Of Madness</content>
+<content contentuid="hdb854e61g5712g4cf1ga894g244460e71867" version="1">Rune of Darkness</content>
+<content contentuid="h70ac4f21ge6e3g4234g939cg0c921812635f" version="1">Rune of Darkvision</content>
+<content contentuid="hed597408gd174g4315g8a69g30d55cc23c81" version="1">Rune of Detect Thoughts</content>
+<content contentuid="h5664487agb125g4c73g9f92g0a8f87c401ff" version="1">Rune of Enlarge Reduce</content>
+<content contentuid="haa709313g865fg44a1gb2f9gdd6ed9dec18d" version="1">Rune of Flaming Sphere</content>
+<content contentuid="h34234ab3g09c0g4f66g8e08gcd4dca143dfd" version="1">Rune of Gust Of Wind</content>
+<content contentuid="hfa039758g2d98g49f9gb6e2gbe34788aecef" version="1">Rune of Hold Person</content>
+<content contentuid="h04bba9b8g308cg41adga463g11b7de935434" version="1">Rune of Invisibility</content>
+<content contentuid="h80025f92geff8g4a4eg9f7ega3bef4f44776" version="1">Rune of Knock</content>
+<content contentuid="he0a0e7bbgda08g42fcg87d9g79fa7c971f68" version="1">Rune of Magic Weapon</content>
+<content contentuid="h44f0e1f8ga682g4894gbdf2g1c0c65cff865" version="1">Rune of Acid Arrow</content>
+<content contentuid="h0bfcb5adgba6ag4e22gbedeg95dded67cc28" version="1">Rune of Mirror Image</content>
+<content contentuid="h7a54b89eg7b6cg4f00g8575gdb439d8239bf" version="1">Rune of Misty Step</content>
+<content contentuid="h3be0a26ag7c6dg46d9g8157g418316b888de" version="1">Rune of Phantasmal Force</content>
+<content contentuid="h24290d9aga358g4289g9377gd8be1681fbce" version="1">Rune of Ray Of Enfeeblement</content>
+<content contentuid="h12e5552bg6f7cg4557g8c88ge2925cb5e2a6" version="1">Rune of Scorching Ray</content>
+<content contentuid="hb3555b2eg46c4g4996gabd9gefc96d438281" version="1">Rune of See Invisibility</content>
+<content contentuid="hfa0813dcg0f2cg4e46g886cg44a0b149ebd6" version="1">Rune of Shatter</content>
+<content contentuid="hf3a0b49bg82d6g42abg9da9g7a4d3feddec7" version="1">Rune of Web</content>
+</contentList>
+
