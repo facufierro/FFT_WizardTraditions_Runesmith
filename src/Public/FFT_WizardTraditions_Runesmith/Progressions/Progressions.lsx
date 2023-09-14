@@ -59,7 +59,7 @@
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Runesmith"/>
                     <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_EngraveWeapon;FFT_Passive_RunicEmpowerment"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(RunicPower,2,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,2,0)"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(11f331b0-e8b7-473b-9d1f-19e8e4178d7d,2,0)"/>
                     <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
