@@ -60,4 +60,13 @@
         "editor.defaultFormatter": "ms-python.autopep8"
     },
     "python.formatting.provider": "none",
+    "workbench.colorCustomizations": {
+        "commandCenter.border": "#e7e7e799",
+        "titleBar.activeBackground": "#786b04",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#786b0499",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "sash.hoverBorder": "#a99706"
+    },
+    "peacock.color": "#786b04",
 }

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="320" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="407954e3-71e4-4611-9221-0ba3ea71d6e8" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Battleaxe_Pact" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c17ee133-cbb5-418f-88be-5ef27991cf50" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="VisualTemplate" type="FixedString" value="fd92c725-5ad4-7259-153e-5b3eca1f9fa9" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="1b25ac78-7c94-15fb-a5ee-c42eeae95717" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hfee6615dg9191g45fdg9a1fg9d7060f14d73" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Battleaxe_A_1" />
+					<attribute id="Stats" type="FixedString" value="WPN_Battleaxe_Pact" />
+					<attribute id="Description" type="TranslatedString" handle="h1f8d3bcegded0g412cg84c7g58f854bda933" version="1" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="be460271-537a-4443-b5a9-6c6c006ab35a" />
+								</node>
+							</children>
+						</node>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="1" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.242383 0 -0.669429" />
+									<attribute id="Max" type="fvec3" value="0.22952 0.0561219 0.273765" />
+									<attribute id="Radius" type="float" value="0.182241" />
+									<attribute id="Height" type="float" value="0.0483273" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.242383 0 -0.669429" />
+									<attribute id="Max" type="fvec3" value="0.22952 0.0561219 0.273765" />
+									<attribute id="Radius" type="float" value="0.182241" />
+									<attribute id="Height" type="float" value="0.0483273" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="0" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1211915 0 -0.3347145" />
+									<attribute id="Max" type="fvec3" value="0.11476 0.0561219 0.1368825" />
+									<attribute id="Radius" type="float" value="0.0911205" />
+									<attribute id="Height" type="float" value="0.0483273" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
