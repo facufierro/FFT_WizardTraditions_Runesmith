@@ -1,5 +1,5 @@
 // Engrave Weapon
-new entry "FFT_Passive_WeaponEngraving"
+new entry "FFT_Passive_EngraveWeapon"
 	type "PassiveData"
 		data "DisplayName" "h79246943g1798g4af3ga056gfa31520ade6f;2"
 		data "Description" "h900117acg8ffbg4cdfgb5fcgf5d9c660b61c;2"
@@ -19,7 +19,7 @@ new entry "FFT_Passive_RunicEmpowerment"
 		data "StatsFunctors" "IF(FFT_HasAnyExtraAttack(context.Source) and not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(SELF,FFT_EXTRA_ATTACK_RUNIC_EMPOWERMENT_Q,100,1);IF(not FFT_HasAnyExtraAttack(context.Source) and not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(SELF,FFT_EXTRA_ATTACK_RUNIC_EMPOWERMENT,100,1);IF(FFT_HasAnyExtraAttack(context.Target) and context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(FFT_EXTRA_ATTACK_RUNIC_EMPOWERMENT_Q,100,1);IF(not FFT_HasAnyExtraAttack(context.Target) and context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(FFT_EXTRA_ATTACK_RUNIC_EMPOWERMENT,100,1)"
 
 // Carve Rune
-new entry "FFT_Passive_CarveRune1"
+new entry "Passive_CarveRune_1"
 	type "PassiveData"
 		data "DisplayName" "hb5226dc3g44d9g4953g8d16gc593362c3a87;2"
 		data "Description" "h052a6d70g8117g4667ga62fg98b912809a27;2"
@@ -27,7 +27,7 @@ new entry "FFT_Passive_CarveRune1"
 		data "Properties" "Highlighted"
 		data "Boosts" "UnlockSpell(Shout_CarveRune_1)"
 
-new entry "FFT_Passive_CarveRune2"
+new entry "Passive_CarveRune_2"
 	type "PassiveData"
 		data "DisplayName" "hb5226dc3g44d9g4953g8d16gc593362c3a87;2"
 		data "Description" "h052a6d70g8117g4667ga62fg98b912809a27;2"
@@ -35,7 +35,6 @@ new entry "FFT_Passive_CarveRune2"
 		data "Properties" "Highlighted"
 		data "Boosts" "UnlockSpell(Shout_CarveRune_2)"
 
-// FFT_Passive_Improved_RuneCarving
 
 // new entry "Passive_RunicEmpowerment"
 // 	type "PassiveData"
