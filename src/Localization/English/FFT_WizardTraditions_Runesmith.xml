@@ -8,7 +8,6 @@
     <!-- Engrave Weapon -->
     <content contentuid="h79246943g1798g4af3ga056gfa31520ade6f" version="1">Engrave Weapon</content>
     <content contentuid="h900117acg8ffbg4cdfgb5fcgf5d9c660b61c" version="1">Engrave Weapon Description</content>
-
     <content contentuid="h2700e14fg41deg4634g81b7g609ce01a0edf" version="1">Engraved Weapon</content>
     <content contentuid="h7098edf3gd688g4c51g9ef8gd71a36a22f7d" version="1">Engraved Weapon Description</content>
     <!-- Carve Rune -->
@@ -20,6 +19,9 @@
     <!-- Runic Empowerment -->
     <content contentuid="h55054833gb9b3g4a7fgbca8g8f95beab1059" version="1">Runic Empowerment</content>
     <content contentuid="h5c0e7f0fgd99bg42d4g8d25g0acb0607a32c" version="1">Runic Empowerment Description</content>
+    <!-- Improved Rune Carving -->
+    <content contentuid="he47a1155g88e0g44e3gba24g41bb8ad297ce" version="1">Runic Improvement</content>
+    <content contentuid="hb72d1844g6d98g4cb6g948dg0aee42fe02b6" version="1">Runic Improvement Description</content>
     <!-- Rune Mastery -->
     <content contentuid="h8cdb64c8g3b43g45aaga6edge12d84291d27" version="1">Rune Mastery</content>
     <content contentuid="h905d93edg53f9g4e0eg8b1fg87fd909cfa69" version="1">Rune Mastery Description</content>

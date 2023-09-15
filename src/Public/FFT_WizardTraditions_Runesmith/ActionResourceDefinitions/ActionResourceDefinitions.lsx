@@ -5,13 +5,28 @@
         <node id="root">
             <children>
                 <node id="ActionResourceDefinition">
-                    <attribute id="Description" type="TranslatedString" handle="hc3cb9a24g2714g46f1gb026g3cf7426738b5" version="2"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hb4557cd6g4b5bg494fgbaeag88df26416060" version="3"/>
-                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h148ff192gea16g4274gaa3agc27febe1242b" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="hc0453594g11fag475agbbccg5b5891d37556" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="9"/>
                     <attribute id="Name" type="FixedString" value="FFT_RunicPower"/>
                     <attribute id="ReplenishType" type="FixedString" value="Rest"/>
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
-                    <attribute id="UUID" type="guid" value="4d1cc9ed-705e-4f05-9d07-028b3b683cd2"/>
+                    <attribute id="UUID" type="guid" value="d364d3e1-182a-46cf-95c3-d2bfcd995dc1"/>
+                    <attribute id="IsSpellResource" type="bool" value="true"/>
+                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="true"/>
+                    <attribute id="IsHidden" type="bool" value="false"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="DisplayName" type="TranslatedString" handle="he47a1155g88e0g44e3gba24g41bb8ad297ce" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="hb72d1844g6d98g4cb6g948dg0aee42fe02b6" version="1"/>
+                    <attribute id="IsSpellResource" type="bool" value="true"/>
+                    <attribute id="MaxLevel" type="uint32" value="9"/>
+                    <attribute id="Name" type="FixedString" value="FFT_RunicImprovement"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+                    <attribute id="UUID" type="guid" value="77688791-6cf7-4073-a968-ea1d93b22ef5"/>
+                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="true"/>
+                    <attribute id="IsHidden" type="bool" value="true"/>
                 </node>
             </children>
         </node>

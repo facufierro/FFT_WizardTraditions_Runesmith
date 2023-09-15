@@ -56,14 +56,99 @@
                 </node>
                 <!-- Runesmith -->
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="2"/>
-                    <attribute id="Name" type="LSString" value="Runesmith"/>
-                    <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_EngraveWeapon;FFT_Passive_RunicEmpowerment"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,2,0)"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(11f331b0-e8b7-473b-9d1f-19e8e4178d7d,2,0)"/>
-                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
                     <attribute id="UUID" type="guid" value="08fec060-01ad-4e48-8786-f6f9df3ae69c"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1)"/>
+                    <!-- <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/> -->
+                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="5b7af857-b284-4d62-ab78-3b5b1953edd1"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/>
+                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
+                    <!-- <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/> -->
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="bd6015b2-0f2d-47ba-a076-4287949354a4"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1)"/>
+                    <!-- <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/> -->
+                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
+                    <!-- <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/> -->
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="274b5de5-0d80-4839-a9af-b63a9daa30c9"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <!-- <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/> -->
+                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
+                    <!-- <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/> -->
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="980169f9-2be4-4e5e-bbf2-840b95f2e619"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1)"/>
+                    <!-- <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/> -->
+                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
+                    <!-- <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/> -->
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="d0f1eaf9-fa04-49b1-99fe-a701be50fbaa"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <!-- <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/> -->
+                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
+                    <!-- <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/> -->
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="f0fb5685-8133-4738-9eca-46ba52a29c06"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1)"/>
+                    <!-- <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/> -->
+                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
+                    <!-- <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/> -->
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="cf6d63fc-d30b-4eb1-afdd-bef11c125a13"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <!-- <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/> -->
+                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
+                    <!-- <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/> -->
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="520dcc68-98f5-476e-8c3c-06e0e452f423"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1);ActionResource(FFT_RunicImprovement,5,2)"/>
+                    <!-- <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/> -->
+                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
+                    <!-- <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/> -->
                 </node>
             </children>
         </node>

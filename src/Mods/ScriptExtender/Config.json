@@ -1,0 +1,8 @@
+{
+    "RequiredVersion": 1,
+    "ModTable": "FFT_WizardTraditions_Runesmith",
+    "FeatureFlags": [
+        "Osiris",
+        "Lua"
+    ]
+}

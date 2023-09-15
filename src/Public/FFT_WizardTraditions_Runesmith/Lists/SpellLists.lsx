@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="10" build="302"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Wizard SLevel 1 expanded"/>
+                    <attribute id="Spells" type="LSString" value="FFT_Shout_CarveRune_BurningHands"/>
+                    <attribute id="UUID" type="guid" value="ff1924f7-4561-4944-b3e9-c4ed54ba4406"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
+

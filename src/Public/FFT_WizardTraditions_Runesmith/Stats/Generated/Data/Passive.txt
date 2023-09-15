@@ -1,5 +1,5 @@
 // Engrave Weapon
-new entry "FFT_Passive_EngraveWeapon"
+new entry "FFT_Passive_WeaponEngraving"
 	type "PassiveData"
 		data "DisplayName" "h79246943g1798g4af3ga056gfa31520ade6f;2"
 		data "Description" "h900117acg8ffbg4cdfgb5fcgf5d9c660b61c;2"
@@ -7,7 +7,6 @@ new entry "FFT_Passive_EngraveWeapon"
 		data "Icon" "Spell_Abjuration_RemoveCurse"
 		data "Properties" "Highlighted"
 		data "Boosts" "UnlockSpell(FFT_Shout_EngraveWeapon)"
-
 //Runic Empowerment
 new entry "FFT_Passive_RunicEmpowerment"
 	type "PassiveData"
@@ -18,30 +17,3 @@ new entry "FFT_Passive_RunicEmpowerment"
 		data "Conditions" "((not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and (HasStringInSpellRoll('WeaponAttack')) and HasUseCosts('ActionPoint', true) and not Tagged('EXTRA_ATTACK_BLOCKED',context.Source) and TurnBased(context.Source)) or (context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and StatusId('INITIAL_ATTACK_TECHNICAL') and TurnBased())) and FFT_HasRunicWeapon() and HasPassive('FFT_Passive_EngraveWeapon',context.Source)"
 		data "StatsFunctors" "IF(FFT_HasAnyExtraAttack(context.Source) and not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(SELF,FFT_EXTRA_ATTACK_RUNIC_EMPOWERMENT_Q,100,1);IF(not FFT_HasAnyExtraAttack(context.Source) and not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(SELF,FFT_EXTRA_ATTACK_RUNIC_EMPOWERMENT,100,1);IF(FFT_HasAnyExtraAttack(context.Target) and context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(FFT_EXTRA_ATTACK_RUNIC_EMPOWERMENT_Q,100,1);IF(not FFT_HasAnyExtraAttack(context.Target) and context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(FFT_EXTRA_ATTACK_RUNIC_EMPOWERMENT,100,1)"
 
-// Carve Rune
-new entry "Passive_CarveRune_1"
-	type "PassiveData"
-		data "DisplayName" "hb5226dc3g44d9g4953g8d16gc593362c3a87;2"
-		data "Description" "h052a6d70g8117g4667ga62fg98b912809a27;2"
-		data "Icon" "Spell_Abjuration_RemoveCurse"
-		data "Properties" "Highlighted"
-		data "Boosts" "UnlockSpell(Shout_CarveRune_1)"
-
-new entry "Passive_CarveRune_2"
-	type "PassiveData"
-		data "DisplayName" "hb5226dc3g44d9g4953g8d16gc593362c3a87;2"
-		data "Description" "h052a6d70g8117g4667ga62fg98b912809a27;2"
-		data "Icon" "Spell_Abjuration_RemoveCurse"
-		data "Properties" "Highlighted"
-		data "Boosts" "UnlockSpell(Shout_CarveRune_2)"
-
-
-// new entry "Passive_RunicEmpowerment"
-// 	type "PassiveData"
-// 		data "DisplayName" "h4c1f2f2dg8a14g4391gaf11g78e249692115;2"
-// 		data "Description" "h5846ba7cg19b5g475cg88dbg2ea9d3793ea6;3"
-// 		data "Icon" "PassiveFeature_WarPriest"
-// 		data "Properties" "Highlighted"
-// 		data "StatsFunctorContext" "OnCast;OnStatusRemoved"
-// 		data "Conditions" "((not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and (HasStringInSpellRoll('WeaponAttack') or HasStringInSpellRoll('UnarmedAttack') or SpellId('Target_CommandersStrike') or SpellId('Projectile_ArrowOfSmokepowder')) and HasUseCosts('ActionPoint', true) and not Tagged('EXTRA_ATTACK_BLOCKED',context.Source) and TurnBased(context.Source)) or (context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and StatusId('INITIAL_ATTACK_TECHNICAL') and TurnBased())) and not HasStatus('TAD_MIND_SANCTUARY',context.Source) and HasActionResource('BonusActionPoint', 1, 0, false, false, context.Source)"
-// 		data "StatsFunctors" "IF(FFT_HasAnyExtraAttack(context.Source) and not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(SELF,EXTRA_ATTACK_Q,100,1);IF(not FFT_HasAnyExtraAttack(context.Source) and not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(SELF,EXTRA_ATTACK,100,1);IF(FFT_HasAnyExtraAttack(context.Target) and context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(EXTRA_ATTACK_Q,100,1);IF(not FFT_HasAnyExtraAttack(context.Target) and context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(EXTRA_ATTACK,100,1)"
