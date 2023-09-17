@@ -17,3 +17,11 @@ new entry "FFT_Passive_RunicEmpowerment"
 		data "Conditions" "((not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and (HasStringInSpellRoll('WeaponAttack')) and HasUseCosts('ActionPoint', true) and not Tagged('EXTRA_ATTACK_BLOCKED',context.Source) and TurnBased(context.Source)) or (context.HasContextFlag(StatsFunctorContext.OnStatusRemoved) and StatusId('INITIAL_ATTACK_TECHNICAL') and TurnBased())) and FFT_HasRunicWeapon() and HasPassive('FFT_Passive_EngraveWeapon',context.Source)"
 		data "StatsFunctors" "IF(FFT_HasAnyExtraAttack(context.Source) and not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(SELF,FFT_EXTRA_ATTACK_RUNIC_EMPOWERMENT_Q,100,1);IF(not FFT_HasAnyExtraAttack(context.Source) and not context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(SELF,FFT_EXTRA_ATTACK_RUNIC_EMPOWERMENT,100,1);IF(FFT_HasAnyExtraAttack(context.Target) and context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(FFT_EXTRA_ATTACK_RUNIC_EMPOWERMENT_Q,100,1);IF(not FFT_HasAnyExtraAttack(context.Target) and context.HasContextFlag(StatsFunctorContext.OnStatusRemoved)):ApplyStatus(FFT_EXTRA_ATTACK_RUNIC_EMPOWERMENT,100,1)"
 
+// Improved Rune Carving 
+new entry "FFT_Passive_ImprovedRuneCarving"
+	type "PassiveData"
+		data "DisplayName" "he47a1155g88e0g44e3gba24g41bb8ad297ce;2"
+		data "Description" "hb72d1844g6d98g4cb6g948dg0aee42fe02b6;2"
+		data "ExtraDescription" "h74a01e25gb442g45b7g899fg6846bcdbbd9b;1"
+		data "Icon" "Spell_Abjuration_RemoveCurse"
+		data "Properties" "Highlighted"

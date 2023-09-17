@@ -62,8 +62,8 @@
                     <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1)"/>
-                    <!-- <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/> -->
-                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
+                    <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/>
                 </node>
                 <node id="Progression">
@@ -72,9 +72,10 @@
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/>
-                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
-                    <!-- <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/> -->
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/>
                 </node>
                 <node id="Progression">
                     <attribute id="UUID" type="guid" value="bd6015b2-0f2d-47ba-a076-4287949354a4"/>
@@ -83,9 +84,9 @@
                     <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1)"/>
-                    <!-- <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/> -->
-                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
-                    <!-- <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/> -->
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f9ccb1d3-3f73-4979-aa4e-b1783399ee57,1,0,,,,AlwaysPrepared)"/>
                 </node>
                 <node id="Progression">
                     <attribute id="UUID" type="guid" value="274b5de5-0d80-4839-a9af-b63a9daa30c9"/>
@@ -93,9 +94,10 @@
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <!-- <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/> -->
-                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
-                    <!-- <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/> -->
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f9ccb1d3-3f73-4979-aa4e-b1783399ee57,1,0,,,,AlwaysPrepared)"/>
                 </node>
                 <node id="Progression">
                     <attribute id="UUID" type="guid" value="980169f9-2be4-4e5e-bbf2-840b95f2e619"/>
@@ -104,9 +106,9 @@
                     <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1)"/>
-                    <!-- <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/> -->
-                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
-                    <!-- <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/> -->
+                    <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_RunicEmpowerment"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f9ccb1d3-3f73-4979-aa4e-b1783399ee57,1,0,,,,AlwaysPrepared)"/>
                 </node>
                 <node id="Progression">
                     <attribute id="UUID" type="guid" value="d0f1eaf9-fa04-49b1-99fe-a701be50fbaa"/>
@@ -114,9 +116,10 @@
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <!-- <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/> -->
-                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
-                    <!-- <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/> -->
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f9ccb1d3-3f73-4979-aa4e-b1783399ee57,1,0,,,,AlwaysPrepared)"/>
                 </node>
                 <node id="Progression">
                     <attribute id="UUID" type="guid" value="f0fb5685-8133-4738-9eca-46ba52a29c06"/>
@@ -125,19 +128,19 @@
                     <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1)"/>
-                    <!-- <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/> -->
-                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
-                    <!-- <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/> -->
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f9ccb1d3-3f73-4979-aa4e-b1783399ee57,1,0,,,,AlwaysPrepared)"/>
                 </node>
                 <node id="Progression">
                     <attribute id="UUID" type="guid" value="cf6d63fc-d30b-4eb1-afdd-bef11c125a13"/>
                     <attribute id="Name" type="LSString" value="Runesmith"/>
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <!-- <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/> -->
-                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
-                    <!-- <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/> -->
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f9ccb1d3-3f73-4979-aa4e-b1783399ee57,1,0,,,,AlwaysPrepared)"/>
                 </node>
                 <node id="Progression">
                     <attribute id="UUID" type="guid" value="520dcc68-98f5-476e-8c3c-06e0e452f423"/>
@@ -145,10 +148,29 @@
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1);ActionResource(FFT_RunicImprovement,5,2)"/>
-                    <!-- <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/> -->
-                    <!-- <attribute id="PassivesRemoved" type="LSString" value=""/> -->
-                    <!-- <attribute id="Selectors" type="LSString" value="SelectSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,1,0,,,,AlwaysPrepared)"/> -->
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1);ActionResource(FFT_RunicImprovement,5,2);ActionResource(FFT_RunicImprovement,5,3);ActionResource(FFT_RunicImprovement,5,4);ActionResource(FFT_RunicImprovement,5,5);ActionResource(FFT_RunicImprovement,5,6)"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f9ccb1d3-3f73-4979-aa4e-b1783399ee57,1,0,,,,AlwaysPrepared)"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="520dcc68-98f5-476e-8c3c-06e0e452f423"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f9ccb1d3-3f73-4979-aa4e-b1783399ee57,1,0,,,,AlwaysPrepared)"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="520dcc68-98f5-476e-8c3c-06e0e452f423"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1);ActionResource(FFT_RunicImprovement,1,2);ActionResource(FFT_RunicImprovement,1,3);ActionResource(FFT_RunicImprovement,1,4);ActionResource(FFT_RunicImprovement,1,5);ActionResource(FFT_RunicImprovement,1,6)"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f9ccb1d3-3f73-4979-aa4e-b1783399ee57,1,0,,,,AlwaysPrepared)"/>
                 </node>
             </children>
         </node>
