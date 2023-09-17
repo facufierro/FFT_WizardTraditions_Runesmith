@@ -5,11 +5,17 @@
         <node id="root">
             <children>
                 <node id="ProgressionDescription">
-                    <attribute id="Description" type="TranslatedString" handle="h61d148f5g34a1g4f6aga72fgbb2bbf554bb9" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hcd4de09ege9b2g4d3dg8301g68594c0f3890" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h61d148f5g34a1g4f6aga72fgbb2bbf554bb9" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="Runesmith"/>
                     <attribute id="ProgressionTableId" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
                     <attribute id="UUID" type="guid" value="da4b5a01-525c-47a0-9840-ceeb1fc5842d"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9c014787g672bg4089ga987gf385af197b21" version="2"/>
+                    <attribute id="Description" type="TranslatedString" handle="hd29591e9g6e4dg4596g96e8gd3478ae319dd" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="RuneCarving"/>
+                    <attribute id="UUID" type="guid" value="5f013c95-9a28-44cd-9255-45269963705a"/>
                 </node>
             </children>
         </node>

@@ -1,1 +1,2108 @@
-{"Projectile_IceKnife": {"uuid": "5c9636a4-9fb7-4f39-9ba3-537caaec23b5", "spell_name": "IceKnife", "name_handle": "h1815a2a7g67feg4141gb261gdac954cc70c8", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Projectile_IceKnife_2": {"uuid": "2c2531c0-02c6-475e-921a-00c18ceb7218", "spell_name": "IceKnife_2", "name_handle": "h5affd81eg6518g400dga1bagbc3e04fd1b97", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Projectile_IceKnife_3": {"uuid": "8e2a9b16-516e-4d01-be43-f31067d7b7c3", "spell_name": "IceKnife_3", "name_handle": "hb88228cag9f51g4466gafe3ge5fc2ade70f6", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Projectile_IceKnife_4": {"uuid": "6be2dac8-0a3e-41d4-ba60-e7abf9966c42", "spell_name": "IceKnife_4", "name_handle": "hd61c9cddgc755g4a81gadf8g6da6f5dae503", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Projectile_IceKnife_5": {"uuid": "a7760f8b-0273-43b9-97ed-909b4efbe163", "spell_name": "IceKnife_5", "name_handle": "h8e1c90d7gc293g4b37g9c3cgcef9cfcea6c2", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Projectile_IceKnife_6": {"uuid": "c989b02d-a9d9-4fa5-9362-8bb609111d65", "spell_name": "IceKnife_6", "name_handle": "h395af6bcg723bg474aga697gfba60e125513", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Projectile_MagicMissile": {"uuid": "4197b700-116a-48b0-8e69-03388e799a4f", "spell_name": "MagicMissile", "name_handle": "h603ffd04g17e1g446dg8469ge54549c52e81", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_MagicMissile_2": {"uuid": "dac2ab7a-b839-44c5-87c9-3b9b00c1cf42", "spell_name": "MagicMissile_2", "name_handle": "hb5614b3cg5eb8g4157g9dffg804f1416d6a3", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_MagicMissile_3": {"uuid": "d19da5fe-d16e-4845-b24c-882c18302d37", "spell_name": "MagicMissile_3", "name_handle": "hc36fed9ag7722g4b48g8741gb27a9d8818ef", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_MagicMissile_4": {"uuid": "05949ac6-6507-4e83-9bf6-b912dac07583", "spell_name": "MagicMissile_4", "name_handle": "h8c7a2a24g618dg4273ga186gdc4d1742b352", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_MagicMissile_5": {"uuid": "729446fc-4ba1-439d-b91d-b4e5a9415de4", "spell_name": "MagicMissile_5", "name_handle": "h0f950e99gdd37g4383gbae6g62f3f39003b7", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_MagicMissile_6": {"uuid": "1595dc86-0150-4c58-8efa-e5480288e69f", "spell_name": "MagicMissile_6", "name_handle": "h074dcbcfg58c3g4a34gb05bga245d2e7a9fa", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_RayOfSickness": {"uuid": "ec52320a-14d0-4ff9-964c-26c4037abfaa", "spell_name": "RayOfSickness", "name_handle": "h60e91b1cg3bb7g47d3ga78bgfaef93653df4", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Projectile_RayOfSickness_2": {"uuid": "5aa5796a-7d65-41ae-befc-b01020561c19", "spell_name": "RayOfSickness_2", "name_handle": "h4d6ad550g5b64g461fg9c84g25a393b02d95", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Projectile_RayOfSickness_3": {"uuid": "70574a4f-f9b6-4ee8-8c7b-ce61575cabbb", "spell_name": "RayOfSickness_3", "name_handle": "h643c3fdfge542g4904gb730g8fee68684da4", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Projectile_RayOfSickness_4": {"uuid": "f482c1bb-0bdd-4cff-a77b-fa6c24c4fb8a", "spell_name": "RayOfSickness_4", "name_handle": "he9132dcag9ac3g44ddg9bf3geac16eb6f337", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Projectile_RayOfSickness_5": {"uuid": "6959f660-512e-44d0-8428-6f2a071b5f93", "spell_name": "RayOfSickness_5", "name_handle": "hd9371270g0919g4868gbddag1d17c92c3be5", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Projectile_RayOfSickness_6": {"uuid": "6af1e832-35a8-4552-81d5-12288b13786c", "spell_name": "RayOfSickness_6", "name_handle": "hd383d9b9g6a0dg4b3dgb50cgbd1350937106", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Projectile_WitchBolt": {"uuid": "4c699510-71b2-40a6-b341-6fee93cc4eec", "spell_name": "WitchBolt", "name_handle": "h78b0e5e3g48a3g4c46g980bg186698bd1fc2", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_WitchBolt_2": {"uuid": "55f05f25-ff46-4218-93e6-9fd94580c819", "spell_name": "WitchBolt_2", "name_handle": "he9fe4a38ge225g4a04ga12bg823307e8f3b0", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_WitchBolt_3": {"uuid": "1f044012-919c-423e-aab6-1a711e44fd66", "spell_name": "WitchBolt_3", "name_handle": "h5f7dfbb4gfcd1g497bg9469g1c6c11d0b11a", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_WitchBolt_4": {"uuid": "6f710acc-9cff-44bc-a1f2-364d39143485", "spell_name": "WitchBolt_4", "name_handle": "hcc192d46gdc16g453bg991dgb46f0084bc05", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_WitchBolt_5": {"uuid": "6c94bd51-1371-4c26-83ab-ae7b2b869327", "spell_name": "WitchBolt_5", "name_handle": "h22fc2e41gc2e4g4aefgbd01gf298725eedc4", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_WitchBolt_6": {"uuid": "238e76ca-ac6e-4aa7-a6db-6c64b5612695", "spell_name": "WitchBolt_6", "name_handle": "heff62405g6df6g43f7ga871ga8b841711672", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Shout_DisguiseSelf": {"uuid": "1bd0cb72-1f7b-44d3-a267-08e650c368b1", "spell_name": "DisguiseSelf", "name_handle": "h16a80a65g9dcag4486gb20fg60abb8ec7ad3", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Shout_ExpeditiousRetreat": {"uuid": "fd9cd347-5c0a-4e77-9b16-dfa0b0f1fa62", "spell_name": "ExpeditiousRetreat", "name_handle": "h670aafb5gceccg4d15gb725g6dcb06b45ec4", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Shout_ExpeditiousRetreat_2": {"uuid": "e5fd6a8e-1fcf-4d27-82be-8b4550052b89", "spell_name": "ExpeditiousRetreat_2", "name_handle": "h186cee58g4f55g48d5g8e4dgc1a2b1db2c67", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Shout_ExpeditiousRetreat_3": {"uuid": "baad7bca-3b3b-42a6-89c0-49bcd7a7c927", "spell_name": "ExpeditiousRetreat_3", "name_handle": "h5b15a379gcccfg4f94g869dg907c2ee25026", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Shout_ExpeditiousRetreat_4": {"uuid": "5f1da1dd-1b99-431e-8b87-b3d3fcb51356", "spell_name": "ExpeditiousRetreat_4", "name_handle": "h98800963g23dfg458ag86abg97301b19fede", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Shout_ExpeditiousRetreat_5": {"uuid": "24913e2d-c1e4-491f-9d81-d6c8a3031e43", "spell_name": "ExpeditiousRetreat_5", "name_handle": "h62b7df5bg76deg4b4bg8e2bg3c3c8d18bfa2", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Shout_ExpeditiousRetreat_6": {"uuid": "7e158535-abc2-41f9-822b-c55395e8d646", "spell_name": "ExpeditiousRetreat_6", "name_handle": "h30591a97g5ee9g4597ga2deg2ec4614c91ce", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Shout_FalseLife": {"uuid": "d645c7a1-3034-4099-8571-18d468b300f6", "spell_name": "FalseLife", "name_handle": "h6e3db9b4g189ag43dbgbe09g270bc7f604d4", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Shout_FalseLife_2": {"uuid": "82e42fcf-fbcd-47bb-b5cc-2a0f4ee1db5d", "spell_name": "FalseLife_2", "name_handle": "h35220316g0d8ag4403gaaacgd2a910c6cff7", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Shout_FalseLife_3": {"uuid": "720b4ec4-f982-4757-9faa-9c89f10dd668", "spell_name": "FalseLife_3", "name_handle": "h1cfde53bg664ag4bc6ga2c9g5139c32bed5b", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Shout_FalseLife_4": {"uuid": "a5e6e0c3-268e-4724-acc6-347728e8a594", "spell_name": "FalseLife_4", "name_handle": "h91d3b649gdd8bg4645g87f3g15b08b00dc89", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Shout_FalseLife_5": {"uuid": "43f57a4a-ae00-4034-8b03-a2e923ef7f4e", "spell_name": "FalseLife_5", "name_handle": "h015580f6g2fe7g4be7g8eefg757de607a3d0", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Shout_FalseLife_6": {"uuid": "cce1da27-fccc-4732-b127-88dace925b83", "spell_name": "FalseLife_6", "name_handle": "h933243f2g70bfg41abgaa9cg35230d7c66b0", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Shout_FeatherFall": {"uuid": "f3bd52d9-cc05-4ca5-a0b9-dacc6dc71c3b", "spell_name": "FeatherFall", "name_handle": "h023ce330g6847g4c8dgb9f4g6f23fabeace5", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Shout_FeatherFall_2": {"uuid": "920bb2e1-4403-4c91-9863-05909137881d", "spell_name": "FeatherFall_2", "name_handle": "hc4abca68gd347g46fcgb2d5g5deb54634aa3", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Shout_FeatherFall_3": {"uuid": "099986c3-9633-4e14-ad16-1f92b19ee22c", "spell_name": "FeatherFall_3", "name_handle": "h65a70944g4717g4c8cgbf8cg4d4f41227054", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Shout_Shield_Wizard": {"uuid": "d94f0ce0-9a04-4daa-a579-5ea6e81d5ab4", "spell_name": "Shield_Wizard", "name_handle": "h0ac6d230g5fc1g4cfcgbbafgc485f640df5e", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Shout_Shield_Wizard_2": {"uuid": "2c1d3c9b-259f-4d5e-aa69-76a9eaf95b8a", "spell_name": "Shield_Wizard_2", "name_handle": "h2fe60eb6g5e76g4c93gbf0eg6b60513e8e21", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Shout_Shield_Wizard_3": {"uuid": "c9321e04-d689-4912-bd2e-c8b2c942e711", "spell_name": "Shield_Wizard_3", "name_handle": "h1863e236gf939g412fg94a9g9a54c39b6a90", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Shout_Shield_Wizard_4": {"uuid": "d7dc5394-17e1-4aca-a88c-5da521be301d", "spell_name": "Shield_Wizard_4", "name_handle": "h3979490egfa95g49e0g9f63g79fba6521896", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Shout_Shield_Wizard_5": {"uuid": "3a7c625b-49e9-47cf-ab6e-37a7f5bf2022", "spell_name": "Shield_Wizard_5", "name_handle": "he38bcf9cg116dg4e25g8064g82d598ef4ed1", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Shout_Shield_Wizard_6": {"uuid": "575c43bf-088e-49ee-90ae-790e635fede2", "spell_name": "Shield_Wizard_6", "name_handle": "h6f9c4b11gd742g49b7g9ab6gdbfb3ace9b2d", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_CharmPerson": {"uuid": "d182007a-4952-4731-b94e-dcc8b0a9ec78", "spell_name": "CharmPerson", "name_handle": "h931562bcg8b19g499eg8c4egf2aaf30d13f0", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_CharmPerson_2": {"uuid": "6a34a8c8-d147-4256-9dc0-2cc7d7194845", "spell_name": "CharmPerson_2", "name_handle": "h2def973bg1b1dg4ee3g8cefgc13a776e4173", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_CharmPerson_3": {"uuid": "9e8bd62d-fe0a-4c7a-82af-caf327764bf3", "spell_name": "CharmPerson_3", "name_handle": "h28d8b9e9gdec4g43cfga0e2gbedbf86ff9a6", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_CharmPerson_4": {"uuid": "b154cfad-8754-4a14-acd9-6a975626dba7", "spell_name": "CharmPerson_4", "name_handle": "h616152d8gd3e5g4b12g84fagda9e2a91c711", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_CharmPerson_5": {"uuid": "5a151fcf-2e29-4b7d-adc6-2b6b6023efab", "spell_name": "CharmPerson_5", "name_handle": "hd1e3e78bg3035g4f84gbae3g0055edefa216", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_CharmPerson_6": {"uuid": "f164f56e-16b5-4b4c-a861-89cacc12f9f6", "spell_name": "CharmPerson_6", "name_handle": "h0bb80582g3bf1g4265g94bdg5e303ff2f87f", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_FogCloud": {"uuid": "02d25c5b-9cac-4c10-97ad-ccfeabe304f4", "spell_name": "FogCloud", "name_handle": "h347f8380ga63dg474cgbf17g48f771d29c76", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_FogCloud_2": {"uuid": "9208a2e4-6271-43d4-93b3-6ff532e8302e", "spell_name": "FogCloud_2", "name_handle": "h37ef33deg8826g4e76g94f2g3606a0d61dae", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_FogCloud_3": {"uuid": "7377d103-f47d-471f-94d4-28c42e95dedb", "spell_name": "FogCloud_3", "name_handle": "h7f7ef669g8246g4a39g9e1bg5355e48eb0e1", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_FogCloud_4": {"uuid": "1bdaa233-da24-424f-a4ea-85115dc51ec9", "spell_name": "FogCloud_4", "name_handle": "h81461943g2ce9g4f07gbe68gfffcb499c067", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_FogCloud_5": {"uuid": "01410b24-b0bd-417a-a104-6dd6f872e041", "spell_name": "FogCloud_5", "name_handle": "hbe08f3ecg035cg4dfbga868ge7be5fb41d86", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_FogCloud_6": {"uuid": "bfaf2a07-d441-47f0-ac62-db0927f6c6ac", "spell_name": "FogCloud_6", "name_handle": "he7f81fe1ge4afg4d4fg82dcgc7c0b881a51e", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_Grease": {"uuid": "11b85a3a-27c0-4888-b593-1aeedaf26af4", "spell_name": "Grease", "name_handle": "h0a80af58gfdddg46e7ga175g71c512ea1a0f", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_Grease_2": {"uuid": "81e1cfcb-b5fb-43b5-bdb7-6e3675447bc8", "spell_name": "Grease_2", "name_handle": "h333d54fbgc4e8g4b57g8d0bg61de8ded4e6a", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_Grease_3": {"uuid": "1e02ac3e-f992-47c3-bfcc-3e266e9889ba", "spell_name": "Grease_3", "name_handle": "h40b1f384gcb75g4838gbe44g0017ba52bcfb", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_Grease_4": {"uuid": "7cae9895-7daf-4b03-9095-f6d06b22164e", "spell_name": "Grease_4", "name_handle": "hcc9e000agae62g458fgab23g75e9cfefbf68", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_Grease_5": {"uuid": "50d51762-3302-4dee-85b9-577af61d34ad", "spell_name": "Grease_5", "name_handle": "hed4c02c1gd62eg4b11gb6e8gd17e5554690f", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_Grease_6": {"uuid": "7fb33c3b-f751-4c20-bf7b-f662e7b5a65d", "spell_name": "Grease_6", "name_handle": "h283c076fg06a7g44c2ga958g1013edc28f29", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_HideousLaughter": {"uuid": "f4dafab2-d520-40cf-a834-49df16d93999", "spell_name": "HideousLaughter", "name_handle": "h4808010fg3138g4916gb0degb7a4858e22be", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_HideousLaughter_2": {"uuid": "9354a609-21c7-49ad-a1d1-4683f18b8309", "spell_name": "HideousLaughter_2", "name_handle": "h31bdfe13g41f6g458agad50g1c03d826508d", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_HideousLaughter_3": {"uuid": "48f219e9-3407-4e98-a24d-e77408b27029", "spell_name": "HideousLaughter_3", "name_handle": "h07aa57c1g5d57g4602gae4egf24666db4c4a", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_HideousLaughter_4": {"uuid": "4c8225c0-0d88-45a7-b786-1e1ec6b9447d", "spell_name": "HideousLaughter_4", "name_handle": "ha3c842e9g5556g447cg8335g216585b014e9", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_HideousLaughter_5": {"uuid": "76cb738e-3b37-4c39-b544-28d9f9167a49", "spell_name": "HideousLaughter_5", "name_handle": "h52f0961fg9be8g4121g936dg20abb15685f4", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_HideousLaughter_6": {"uuid": "b1304760-c33c-4d75-9e38-28a171eb149a", "spell_name": "HideousLaughter_6", "name_handle": "h31361217g01bbg4de5ga582g42944e6743b1", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_Jump": {"uuid": "f0a3248d-d167-4d39-a260-ffa07ab2705c", "spell_name": "Jump", "name_handle": "h6ae4880cg56a8g4b76gb4cag5d1f6685bf25", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Jump_2": {"uuid": "7d91f631-b98a-4ca2-ac47-1a98c4476a44", "spell_name": "Jump_2", "name_handle": "hf8dba350g0960g4adbg8eb9g11fb3f16ca23", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Jump_3": {"uuid": "9c62c913-5faf-45e1-87b2-f98e46149276", "spell_name": "Jump_3", "name_handle": "h9f182af4ga78fg4a1dg850cga7d68d4b0a56", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Jump_4": {"uuid": "c0da6a06-3027-409b-9648-c26967ba6494", "spell_name": "Jump_4", "name_handle": "heed158f4gae3eg4e8dg800cgc07ec53fa31e", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Jump_5": {"uuid": "c2b4bc4c-5c8d-4b7c-9dfc-22e68f84a930", "spell_name": "Jump_5", "name_handle": "h3a98b10cgb54eg419cg99e4g54974a5df0ac", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Jump_6": {"uuid": "6d525541-9f74-4230-b2f0-ae696cdaff8c", "spell_name": "Jump_6", "name_handle": "h3940d870g2ef5g40dfgbbd0g6979db4dac6d", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Longstrider": {"uuid": "b7749687-0d83-4b5f-8603-c57b9240ed9a", "spell_name": "Longstrider", "name_handle": "h2c1cfb6egba3eg49d1gaee2gd4f6b2d11392", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Longstrider_2": {"uuid": "5fbe3274-b67c-4738-899d-aee65e220748", "spell_name": "Longstrider_2", "name_handle": "hcc92b3dag6b19g440dgbb7cg4b23bf84bca3", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Longstrider_3": {"uuid": "100d7aaf-efca-4f95-8827-209abf740ebb", "spell_name": "Longstrider_3", "name_handle": "h6b7abec5g5137g464bg9a4egb66002f634c5", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Longstrider_4": {"uuid": "cfc71c61-a91c-4530-9a0d-e8f78e750a23", "spell_name": "Longstrider_4", "name_handle": "ha128190bged03g4f85gb1dbg06aa4c83c0f3", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Longstrider_5": {"uuid": "524ce236-3261-491e-b1e4-0fd4a8199993", "spell_name": "Longstrider_5", "name_handle": "h02802ae4ge037g4f83gb3abg9d35b7f5f2a1", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Longstrider_6": {"uuid": "b0491ed2-8c99-4eb0-ac52-dd0ff1da118c", "spell_name": "Longstrider_6", "name_handle": "h70857766g0f21g4cb4gbaefg85a401d46843", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_MageArmor": {"uuid": "5b599514-e748-4141-aa1f-71afd3b50b70", "spell_name": "MageArmor", "name_handle": "hb54a70edg2f93g4acbgbe12geb21e23a5e56", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_MageArmor_2": {"uuid": "4b9bbd5d-1163-40d9-9119-275d9ff16357", "spell_name": "MageArmor_2", "name_handle": "h635a648agb119g4803g86b1gb550c32494aa", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_MageArmor_3": {"uuid": "8e58b586-0d9b-4018-b2a3-b3b583b56b01", "spell_name": "MageArmor_3", "name_handle": "h648c3748g7671g41b7g9458gfc15134a2c64", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_MageArmor_4": {"uuid": "88d4cf00-c2a6-4ca3-85d7-947cc9edddd8", "spell_name": "MageArmor_4", "name_handle": "h2660cc8ag77d3g4f03g9d7ege24d99191091", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_MageArmor_5": {"uuid": "c3cf8c2d-d816-42ce-9cb7-9c2433d00bcb", "spell_name": "MageArmor_5", "name_handle": "heea42e11g6eefg479cg9f2bgb95a108a1345", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_MageArmor_6": {"uuid": "1bb45519-6ede-4227-9a7c-1828bd6d16a8", "spell_name": "MageArmor_6", "name_handle": "h1348b18dge7dag41f5gb37bg7967d782e0f4", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_ProtectionFromEvilAndGood": {"uuid": "fecc3a8b-7e26-488e-9e79-56bd3084b958", "spell_name": "ProtectionFromEvilAndGood", "name_handle": "h0cd19b8eg5c24g43eagbc95g20d50bdbc328", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_ProtectionFromEvilAndGood_2": {"uuid": "6a612293-d224-492f-a506-b6cc3499078f", "spell_name": "ProtectionFromEvilAndGood_2", "name_handle": "h739c45cdg0514g4f25g83b7g7431fb148270", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_ProtectionFromEvilAndGood_3": {"uuid": "ecb38d22-add3-42fe-969d-25e84c76d200", "spell_name": "ProtectionFromEvilAndGood_3", "name_handle": "h64421d73g0c15g4c06gbad9ga25c753d2208", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_ProtectionFromEvilAndGood_4": {"uuid": "7e523c33-2e77-48e6-a609-76f76f58ad02", "spell_name": "ProtectionFromEvilAndGood_4", "name_handle": "haa7ae143g8212g4cb0g8b7bg46534b832c71", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_ProtectionFromEvilAndGood_5": {"uuid": "04514efc-8d92-4fc3-b4b3-b1d6c282e5a9", "spell_name": "ProtectionFromEvilAndGood_5", "name_handle": "h45758ff4g4df3g4419g9bcdg12ab72a1c5e7", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_ProtectionFromEvilAndGood_6": {"uuid": "7d6943d5-79f1-4658-9957-c73929db6c30", "spell_name": "ProtectionFromEvilAndGood_6", "name_handle": "h4930576dg019dg4c34g9400g73a0a5adf914", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_Sleep": {"uuid": "634f9d2a-b719-4435-a2a8-579385dd07f9", "spell_name": "Sleep", "name_handle": "h95d2f1acgab77g48b1gb44egbe73cdd9cd1d", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_Sleep_2": {"uuid": "7b43349e-a84b-42b9-ac8f-fda2fed06c35", "spell_name": "Sleep_2", "name_handle": "h8ccf781egf175g4da1ga5a9g3d62b26e71ad", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_Sleep_3": {"uuid": "1bb3ee99-a2fe-4689-a1e7-4578793daf3d", "spell_name": "Sleep_3", "name_handle": "hab1319e6geccfg49b1gbec0ga81a7d8b70bb", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_Sleep_4": {"uuid": "3fd26e10-d0bb-4e43-9412-28dbb0acbd47", "spell_name": "Sleep_4", "name_handle": "h6dd76ba1g7f32g4796gbc3eg201a1c7209c7", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_Sleep_5": {"uuid": "9bead735-419d-4aa6-9a3b-d73a47a8f6cd", "spell_name": "Sleep_5", "name_handle": "h4cce09f3g54f2g40d3g8765ga9349eb82e25", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_Sleep_6": {"uuid": "0dd2fad0-e5e8-484a-aeea-32cb83838431", "spell_name": "Sleep_6", "name_handle": "hbf6231d4gfc17g4f19g8eefg98fb203d4e39", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Zone_BurningHands": {"uuid": "8d6815f7-ab64-4e1f-921f-8610fd669cea", "spell_name": "BurningHands", "name_handle": "h0ea92d69gec3eg4edfg8a79g6c7690eca9d8", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Zone_BurningHands_2": {"uuid": "d7e76a02-82b6-4df2-9ed5-55101fb800d8", "spell_name": "BurningHands_2", "name_handle": "h831092d8g4c0bg472cg94e6gaa0264dfb08c", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Zone_BurningHands_3": {"uuid": "2a5b9112-7b61-4aeb-9373-b8ddec4b2ed6", "spell_name": "BurningHands_3", "name_handle": "h0794db46g51f7g45dbg805dg5f13e341259b", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Zone_BurningHands_4": {"uuid": "0af1c60f-f440-4b45-82d5-7f27906d3f99", "spell_name": "BurningHands_4", "name_handle": "h8b7562b2gefaag4780g9c18g8f5e0f3b2251", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Zone_BurningHands_5": {"uuid": "6ee7b241-3661-4a88-9674-6ad9cdb9d9ec", "spell_name": "BurningHands_5", "name_handle": "h2ac17b4bg7032g40acg902cgbe2ef1719b2e", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Zone_BurningHands_6": {"uuid": "825d2b06-6577-42af-b6f5-3b416b60c857", "spell_name": "BurningHands_6", "name_handle": "hbee6ce62g86f5g4be1gb7b8g12fc9eaf5b24", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Zone_ColorSpray": {"uuid": "f58020ce-1bfd-4b85-b357-0f4fcbfe7fd7", "spell_name": "ColorSpray", "name_handle": "hc1551ccbg6a79g457fga6ddg928e22ed6f81", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Zone_ColorSpray_2": {"uuid": "aec9b1cc-1e7c-491f-947a-959d1209888a", "spell_name": "ColorSpray_2", "name_handle": "h988bdb17g8c94g476eg980egd577b15ed540", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Zone_ColorSpray_3": {"uuid": "c49de259-d12d-4898-8d14-739e1c6f945f", "spell_name": "ColorSpray_3", "name_handle": "h4f340265g5f0ag460fgaa3egad6e74a85dc4", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Zone_ColorSpray_4": {"uuid": "006f9319-6de7-46bf-b09b-0a0bd9589b54", "spell_name": "ColorSpray_4", "name_handle": "hc908990fgba95g4406gb4d8gab85d9739136", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Zone_ColorSpray_5": {"uuid": "fd197f24-e1b8-48c1-88a2-0dfcb3c3c4de", "spell_name": "ColorSpray_5", "name_handle": "h02124ac7gc00dg4ba3g8f0eg098bc89bc47a", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Zone_ColorSpray_6": {"uuid": "5584e77e-b455-4f3a-919a-9e20132a0d3d", "spell_name": "ColorSpray_6", "name_handle": "h51109e4fgd98dg41efg8119g6c043f5a0633", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Zone_Thunderwave": {"uuid": "631b5698-8c6b-4f6b-9f01-d08f66d24b14", "spell_name": "Thunderwave", "name_handle": "hd346b1a8g83d7g41e6gb665g3533c9e69deb", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Zone_Thunderwave_2": {"uuid": "e3a666ae-abdf-49e0-8910-c367a1540244", "spell_name": "Thunderwave_2", "name_handle": "h2d3b4757gc64dg4615gb42fgaf6fa4bb3b65", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Zone_Thunderwave_3": {"uuid": "d3740700-02f3-420a-86d0-74328739ba30", "spell_name": "Thunderwave_3", "name_handle": "hdb9ec20cg155dg4952gbc14g89171c4130ff", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Zone_Thunderwave_4": {"uuid": "1c973924-893e-4efe-b661-b232ea1fd90d", "spell_name": "Thunderwave_4", "name_handle": "h04dac1e5ge7c1g44f4g901fg543e0a538f7e", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Zone_Thunderwave_5": {"uuid": "50335135-39b9-4dbf-a52a-8de2b5a7d96f", "spell_name": "Thunderwave_5", "name_handle": "h58b9be46g7abcg4563g820age5fcfedb6acf", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Zone_Thunderwave_6": {"uuid": "1bd5e52f-eddf-4605-a56f-1c7f3409840d", "spell_name": "Thunderwave_6", "name_handle": "hf8fb33b8g6266g4247gbb61g0de8d13b6446", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_AcidArrow": {"uuid": "cd0031c2-adc5-4f4f-9b9b-700db43b909d", "spell_name": "AcidArrow", "name_handle": "h84bf1f41g42bfg4c07gbf5egfc6578477a66", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_AcidArrow_3": {"uuid": "adaf3b7c-6e9c-4a7a-a34e-ed85caf93001", "spell_name": "AcidArrow_3", "name_handle": "ha88e85a5g74afg4e64g9c4bga872d6bdd2e2", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_AcidArrow_4": {"uuid": "25364888-ebc6-4bbd-bf07-52f02865ddfd", "spell_name": "AcidArrow_4", "name_handle": "hadfb1c88g0de1g47b0g8acfg25a2e5afa750", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_AcidArrow_5": {"uuid": "ca7291e0-8f8f-4b13-8da0-075696bc098f", "spell_name": "AcidArrow_5", "name_handle": "he392369dgf3a3g4f5ag94e5g64c815ae485e", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_AcidArrow_6": {"uuid": "450b8249-fc55-42dc-b159-15f580e91f56", "spell_name": "AcidArrow_6", "name_handle": "hd500529fg5e3cg4a4egb0adg422dde886256", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_RayOfEnfeeblement": {"uuid": "343d8542-c9e6-498e-a439-1f7d836b8c4f", "spell_name": "RayOfEnfeeblement", "name_handle": "h1bc9d329gdb21g49cfg9f5bg99c74ace4025", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Projectile_RayOfEnfeeblement_3": {"uuid": "be51f39b-67e4-4be6-b257-7f8b7ce67f97", "spell_name": "RayOfEnfeeblement_3", "name_handle": "h5dd7073cg0246g4241ga3f1gab1b53793ead", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Projectile_RayOfEnfeeblement_4": {"uuid": "6cca5aef-37a9-4891-8a3f-c5dfd230fce2", "spell_name": "RayOfEnfeeblement_4", "name_handle": "hdbd4456fg1ad2g406dg906bg2f6d3cee03c6", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Projectile_RayOfEnfeeblement_5": {"uuid": "d565c7fe-d021-49ed-b5a4-a18d19036531", "spell_name": "RayOfEnfeeblement_5", "name_handle": "h65fcf37ag799dg48c0gae59gfdbf20c4418b", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Projectile_RayOfEnfeeblement_6": {"uuid": "7c457dd7-1aaa-4c65-a758-149f56fba54b", "spell_name": "RayOfEnfeeblement_6", "name_handle": "h2322c41fg0d13g4275ga319ga02b3f15c8af", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Projectile_ScorchingRay": {"uuid": "fdca18c8-1e03-45fc-b77a-ce6016252e84", "spell_name": "ScorchingRay", "name_handle": "hcac2f3c0g3a16g4f7aga5b7g6a2693d55bc6", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_ScorchingRay_3": {"uuid": "9ea1b8e0-ec63-45b3-b3f9-b6637db7dda8", "spell_name": "ScorchingRay_3", "name_handle": "h308af277gfd7ag4b0egad47g035cea149fbc", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_ScorchingRay_4": {"uuid": "56308cc6-aef4-41eb-8367-97ba0fa82b9a", "spell_name": "ScorchingRay_4", "name_handle": "hba0f1817ge98fg4f15g8c2bg2caf96a4f258", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_ScorchingRay_5": {"uuid": "bfc6da5e-cf0e-473e-ba48-e7a5ef4466cb", "spell_name": "ScorchingRay_5", "name_handle": "h95e8c418g3e4ag4565gbb06g0fa00ab00c3a", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Projectile_ScorchingRay_6": {"uuid": "92ed844d-6f5e-43fe-8726-1bd179047d5b", "spell_name": "ScorchingRay_6", "name_handle": "hff8e5fa0g37f3g4b6cga2c2g109639c09f6e", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Shout_Blur": {"uuid": "6af57d7d-466b-4c37-ad57-dd92f5ad83f8", "spell_name": "Blur", "name_handle": "hfe75d28cg48efg48a4ga882g76d599a007b5", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Shout_Blur_3": {"uuid": "42ff6591-2cbf-477d-b7b1-c8d3ad49c4e0", "spell_name": "Blur_3", "name_handle": "h8b924b0bg000fg4df4g827fg2136364ca7a3", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Shout_Blur_4": {"uuid": "c94f2e2e-c136-4137-b4dd-1bb562e29963", "spell_name": "Blur_4", "name_handle": "h59154fbcg7a25g4d02g9ed0g508597810770", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Shout_Blur_5": {"uuid": "063a7994-6047-4341-85dc-9435beeb0749", "spell_name": "Blur_5", "name_handle": "hae0895d8g847eg4a74gb3b8gf63d86ea75e9", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Shout_Blur_6": {"uuid": "fae8bcac-974b-49c3-84c5-984b6873802e", "spell_name": "Blur_6", "name_handle": "hbb07e156ge239g4209ga820g2313c7ef586b", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Shout_DetectThoughts": {"uuid": "c9a0f81c-5416-4f96-993a-936085f8a0bc", "spell_name": "DetectThoughts", "name_handle": "h338898cbg0570g4008g9ddageb6bbfb648e1", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Divination"}, "Shout_DetectThoughts_3": {"uuid": "7ac0a084-481d-43c1-beee-344573f6fec8", "spell_name": "DetectThoughts_3", "name_handle": "h701e5ff2g1dacg4d3dgb780g7f32a42b2e15", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Divination"}, "Shout_DetectThoughts_4": {"uuid": "038bee4e-a882-4f4c-8caf-7b7b3f4d0d25", "spell_name": "DetectThoughts_4", "name_handle": "h7d665bf5gef0bg47cag8a87g40771518387a", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Divination"}, "Shout_DetectThoughts_5": {"uuid": "e9750053-667b-40e7-ae48-395cbf6e4fc5", "spell_name": "DetectThoughts_5", "name_handle": "hcee41e67g2eb2g45ecg8594gb08db4204c57", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Divination"}, "Shout_DetectThoughts_6": {"uuid": "ded0b655-7b1b-4db8-85a2-d2b3698b059c", "spell_name": "DetectThoughts_6", "name_handle": "hf8710d07g38ccg4c60gb8bdg4f07da5fbfb2", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Divination"}, "Shout_MirrorImage": {"uuid": "e35a7239-b477-4239-a2a2-d37ed1998b6b", "spell_name": "MirrorImage", "name_handle": "h30e584e7g4dedg4d3egac5bgd0b25f0358f3", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Shout_MirrorImage_3": {"uuid": "ff143374-e91f-4b3f-9ea8-44e02e34b313", "spell_name": "MirrorImage_3", "name_handle": "h37910e85gecd9g4c16ga80dg26ef48f1cf19", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Shout_MirrorImage_4": {"uuid": "313fed2c-e983-4801-80b3-19e7ff9a33df", "spell_name": "MirrorImage_4", "name_handle": "h9960b21dg3e1bg4a4dga7cfga312953c1472", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Shout_MirrorImage_5": {"uuid": "9c0a1fad-34da-4f59-b03e-4ec9f5c8ad2e", "spell_name": "MirrorImage_5", "name_handle": "h7eaa47b1gcf1dg4c2fgad6fgbee976475673", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Shout_MirrorImage_6": {"uuid": "7870266a-b76b-4f23-bf76-dc1c464df10a", "spell_name": "MirrorImage_6", "name_handle": "h2b1dcfe3g9121g4103ga3cagf8b1c363711a", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Shout_SeeInvisibility": {"uuid": "dc9c1de5-7d17-4a9a-8021-027497350bc8", "spell_name": "SeeInvisibility", "name_handle": "h1e01e67fg30b8g43dbgbe94g4611254fc311", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Divination"}, "Shout_SeeInvisibility_3": {"uuid": "ffe546f2-6b9b-47a3-ab9c-1e9fe788969c", "spell_name": "SeeInvisibility_3", "name_handle": "h57d8f756g9c34g4caegabbbgc48a833438f5", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Divination"}, "Shout_SeeInvisibility_4": {"uuid": "6a76f6e1-710f-4635-bbb4-f1e98aebff94", "spell_name": "SeeInvisibility_4", "name_handle": "h1b9322dag517fg4522gba61g7a35d58599dd", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Divination"}, "Shout_SeeInvisibility_5": {"uuid": "2d37e755-4ca4-4d17-ae0a-33f1824071e3", "spell_name": "SeeInvisibility_5", "name_handle": "hda1cbaf0g093bg40e9gadb4g7a7011269341", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Divination"}, "Shout_SeeInvisibility_6": {"uuid": "73fd39c4-04fb-4870-aa15-c3bc5d07dbc5", "spell_name": "SeeInvisibility_6", "name_handle": "h386cceedg2a0bg4e8cg8804g3d27e077a37a", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Divination"}, "Target_ArcaneLock": {"uuid": "748bb36c-7b5b-4d2e-ae2e-c1ae01907d39", "spell_name": "ArcaneLock", "name_handle": "hd6943635g8126g4908g9bc0gea80ccce2e85", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_ArcaneLock_3": {"uuid": "159eed24-da95-41c0-af2a-130b84e9775b", "spell_name": "ArcaneLock_3", "name_handle": "haf3df14fgb4c6g45d5g9411g2d16ef88fe10", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_ArcaneLock_4": {"uuid": "482ac536-7ffc-436d-8fb4-c804577fdca9", "spell_name": "ArcaneLock_4", "name_handle": "h46c613b1g69adg4922ga398g9c7b144c3397", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_ArcaneLock_5": {"uuid": "a5db145e-5f34-4ee0-bc3e-a0c692afcf74", "spell_name": "ArcaneLock_5", "name_handle": "h30aea14eg707fg4111ga579g489d7ab3250f", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_ArcaneLock_6": {"uuid": "de0f54ba-4216-499a-a2c1-48343bde46f6", "spell_name": "ArcaneLock_6", "name_handle": "he60704a0gad23g4c5bga442gbf1bc143d0ec", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Abjuration"}, "Target_Blindness": {"uuid": "9c7e48c1-625b-46ee-94dd-b8b581d21aa7", "spell_name": "Blindness", "name_handle": "habe38df3gbd55g4c20gbc2bg6dd4bfe83384", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Target_Blindness_3": {"uuid": "ac7074f1-1fbc-4610-b549-f2411d52618b", "spell_name": "Blindness_3", "name_handle": "h57f89429g7693g4aebgb904gd764db7a293e", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Target_Blindness_4": {"uuid": "bf0e303e-a13d-4a0d-8ce4-a22b12fe5f77", "spell_name": "Blindness_4", "name_handle": "h07b12f67gd16bg427dg800cg7fe13438a337", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Target_Blindness_5": {"uuid": "9c26fe18-6192-4f03-a0b8-4ea25ce5a792", "spell_name": "Blindness_5", "name_handle": "h3ddeefe4g3a08g4fd7g88afg3ed9bc585e1d", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Target_Blindness_6": {"uuid": "5f33fdeb-6e61-4ccd-a990-392d4e06caca", "spell_name": "Blindness_6", "name_handle": "hc0e1dfc2gec18g441ag847fg8e9fef24afff", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Necromancy"}, "Target_CloudOfDaggers": {"uuid": "3aa24d7b-3f19-4a78-97a8-1ef5b8d17a82", "spell_name": "CloudOfDaggers", "name_handle": "hc97217f9gace3g4936g988cgefe4d2062025", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_CloudOfDaggers_3": {"uuid": "aa66aa93-190f-4a9c-9012-942e24e2afeb", "spell_name": "CloudOfDaggers_3", "name_handle": "hfec37ee8gd9d0g47d6ga80bge8fc9ed82e51", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_CloudOfDaggers_4": {"uuid": "2d19492f-552c-4859-b6f3-b7245603dbb2", "spell_name": "CloudOfDaggers_4", "name_handle": "h1c76adfdga2e4g4544gbfd0ga19fb306396f", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_CloudOfDaggers_5": {"uuid": "48b83432-4fd2-4871-ae55-7715a219fed1", "spell_name": "CloudOfDaggers_5", "name_handle": "h49483fd6g972fg40f8g9e1egc3a6172dc6e6", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_CloudOfDaggers_6": {"uuid": "6bd82db5-72dc-45a4-81a9-e6e0125d95c2", "spell_name": "CloudOfDaggers_6", "name_handle": "h5369598bg8a64g4fb5ga2b6g51da293965fd", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_CrownOfMadness": {"uuid": "16c5f5d8-5d49-494e-a470-5135cdaf349f", "spell_name": "CrownOfMadness", "name_handle": "h9acd26ddgc7dfg4f4dg8729ge1e1d67a523b", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_CrownOfMadness_3": {"uuid": "9e40e555-cd17-4f3f-914d-9bef97351bd5", "spell_name": "CrownOfMadness_3", "name_handle": "h1518e8b9gb468g47f3g8c9fg065b2453c296", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_CrownOfMadness_4": {"uuid": "fd508255-9fca-4f54-873a-afd687f4cd73", "spell_name": "CrownOfMadness_4", "name_handle": "hf717bab5g908fg4efbg9730gf60c279ff852", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_CrownOfMadness_5": {"uuid": "ff2050b2-5e72-4ab9-ae1d-802e31e4a9d3", "spell_name": "CrownOfMadness_5", "name_handle": "h8dfe3f0dg76d1g4f99g86a0gb09e969c4460", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_CrownOfMadness_6": {"uuid": "2bfcf017-81cc-4c85-866b-06f121a1eb64", "spell_name": "CrownOfMadness_6", "name_handle": "hc592f290g6d90g48fbg9c74g510b8d4665f0", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_Darkness": {"uuid": "18af49b2-3811-493b-952b-6404b4ff6f66", "spell_name": "Darkness", "name_handle": "h31c5dbb5g2946g42d3g93b0g252d204a7bdc", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Target_Darkness_3": {"uuid": "56d566e3-fede-42d7-b011-50dba8edbf19", "spell_name": "Darkness_3", "name_handle": "h80c6d8c7ga73bg4633g9464g144d811375d4", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Target_Darkness_4": {"uuid": "a34cfa17-0a88-4fdf-b07e-31cccea3e038", "spell_name": "Darkness_4", "name_handle": "h681912b0g2e03g46f6g945eg3e6a285b02a8", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Target_Darkness_5": {"uuid": "eecc1d20-7caa-4bcf-a325-08e1fb253ea1", "spell_name": "Darkness_5", "name_handle": "h7a11259eg83b3g4557ga0f3gf0a62002e114", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Target_Darkness_6": {"uuid": "8d7a761f-ed9b-43ee-9a66-c89d4cc74da4", "spell_name": "Darkness_6", "name_handle": "h8ed302dagf40ag4c7fga7d0gda671364c7c6", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Target_Darkvision": {"uuid": "cfb605a8-8d6d-4d8e-b3b7-9d971c327d06", "spell_name": "Darkvision", "name_handle": "h6e1bb663g37b9g4a72ga878g3a5b99d1325f", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Darkvision_3": {"uuid": "61491994-f49a-4284-a4af-81c8bd793206", "spell_name": "Darkvision_3", "name_handle": "h25f685b6g3190g4257ga1aeg0e05a6a50156", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Darkvision_4": {"uuid": "ded56c2f-cd94-41e0-b32d-f4788bae995b", "spell_name": "Darkvision_4", "name_handle": "h82a9a896g0826g4b64gb5feg5a011e901a4c", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Darkvision_5": {"uuid": "011b7982-1946-4cbc-a411-bf421ad25580", "spell_name": "Darkvision_5", "name_handle": "h5515a73fg8a8eg48d3gbd99g0031811feb0e", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Darkvision_6": {"uuid": "748ba4e2-484a-48bc-87f7-97cb3270880b", "spell_name": "Darkvision_6", "name_handle": "h036dce49g980fg4783ga450gde17f5030702", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_EnlargeReduce": {"uuid": "09df463a-9e3a-4280-a58f-c2077c46a88e", "spell_name": "EnlargeReduce", "name_handle": "hab81eeb2gd8c1g42aaga404gee71cf004ef2", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_FlamingSphere": {"uuid": "a0f899ca-8b2f-448f-920a-4862ba42d0ec", "spell_name": "FlamingSphere", "name_handle": "hc7b42d71g63e3g4ea2gb396g91ebddab781e", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_FlamingSphere_3": {"uuid": "bcb2e49c-f059-46d6-84a6-b1c7da813afb", "spell_name": "FlamingSphere_3", "name_handle": "h413b0195gfb4bg4267g9781g433ceecc54b0", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_FlamingSphere_4": {"uuid": "29235b71-c35c-49a2-8f30-de7c3115ed07", "spell_name": "FlamingSphere_4", "name_handle": "h71d8fdafg10f5g453cgab07ga7a72d7e6299", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_FlamingSphere_5": {"uuid": "126d550c-9aff-4c85-8683-88a103f09cc7", "spell_name": "FlamingSphere_5", "name_handle": "ha7325818g32ddg4bceg89b7gfff9a6b8e962", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_FlamingSphere_6": {"uuid": "72144609-1b69-4f07-9882-9a478a356d84", "spell_name": "FlamingSphere_6", "name_handle": "h55b96dcbg2ba6g4d5fga6e1gefce10730c24", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_FlamingSphere_Ram_3": {"uuid": "848f287c-b361-473c-8eb9-f34b4b0219d7", "spell_name": "FlamingSphere_Ram_3", "name_handle": "hc779e796gec24g47f7g9416g784a7be52dc4", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_None"}, "Target_FlamingSphere_Ram_4": {"uuid": "cd2724bf-7454-4023-b237-127fce54606a", "spell_name": "FlamingSphere_Ram_4", "name_handle": "hca8b46b3gd783g4783gb90bg48ab3d9f1926", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_None"}, "Target_FlamingSphere_Ram_5": {"uuid": "9aaa4e21-ae1d-4513-a01d-5fc7b7ec4237", "spell_name": "FlamingSphere_Ram_5", "name_handle": "h4ecda40ag5a96g4c1eg8ea0ga8b71140d4b7", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_None"}, "Target_FlamingSphere_Ram_6": {"uuid": "a56568b8-8d1d-4280-935c-16db915330b7", "spell_name": "FlamingSphere_Ram_6", "name_handle": "h055404e4ge2e0g4d65g94ebgaa632be227cc", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_None"}, "Target_HoldPerson": {"uuid": "e107bded-99fa-421c-94a4-80d7d38ff6e1", "spell_name": "HoldPerson", "name_handle": "h28d5d471gce4ag4394g9dfag6db80eafc0e6", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_HoldPerson_3": {"uuid": "63712db2-c07c-4af1-b120-b4b083849bc3", "spell_name": "HoldPerson_3", "name_handle": "h9008bd3bg894bg4cd8g89b9g034c5b616ee0", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_HoldPerson_4": {"uuid": "afe65e4f-e0fb-4405-874e-d2a384cd6492", "spell_name": "HoldPerson_4", "name_handle": "hc7ef5533ge715g45beg8c93gd4774e9348cf", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_HoldPerson_5": {"uuid": "0030fc94-bc0c-4138-a2ce-e378d2b063a5", "spell_name": "HoldPerson_5", "name_handle": "hf6676e5fg4151g48e0gb6e8gd9e1810e6a8e", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_HoldPerson_6": {"uuid": "64ca780e-3e7c-436e-9265-6dac9737d17d", "spell_name": "HoldPerson_6", "name_handle": "h089a7c65ge6bdg49cfg8159g88cfc11a322d", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Enchantment"}, "Target_Invisibility": {"uuid": "1406c243-0f70-4775-ac7c-e6cac264528c", "spell_name": "Invisibility", "name_handle": "h8f7703b9ge63cg4cfdgab77g46f72b35640e", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Target_Invisibility_3": {"uuid": "db2678d8-dbb7-4abc-875d-4e1613efb470", "spell_name": "Invisibility_3", "name_handle": "h694ab4a4gb0beg40aag9bc9g9ea5be03e75a", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Target_Invisibility_4": {"uuid": "413334e3-2874-4572-a97b-8ebd16b2c0b4", "spell_name": "Invisibility_4", "name_handle": "h4fd07221gbb2eg4488g8b56g4b3708bbf8af", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Target_Invisibility_5": {"uuid": "11f64cc3-4b97-4e82-9fd1-038e8dc7509e", "spell_name": "Invisibility_5", "name_handle": "h38d94f01g24afg4e8ag87b5g5e562bcd23ab", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Target_Invisibility_6": {"uuid": "c4cc8734-e8e1-4a95-861c-8a96edbabb4a", "spell_name": "Invisibility_6", "name_handle": "ha1659703gc2d3g43f0ga96dg4ca0a72ec9f6", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Target_Invisibility_Greater_5": {"uuid": "a9ab36a2-3366-4a2f-80ca-ebe11fe601ec", "spell_name": "Invisibility_Greater_5", "name_handle": "ha0fe33e6g302eg4bf3gb8ebgde81d21bd6ce", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_None"}, "Target_Invisibility_Greater_6": {"uuid": "e884cb4f-4e4f-486b-a2f9-cb4660de4f5d", "spell_name": "Invisibility_Greater_6", "name_handle": "hd08b2ed4ga56fg45efgbd73gc065a62063c2", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_None"}, "Target_Knock": {"uuid": "5817d119-732d-4b1a-a4cb-766ab71f9f10", "spell_name": "Knock", "name_handle": "h10d40a6dg6b46g4d26gb833g157d1d39a45a", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Knock_3": {"uuid": "63797b0d-55b9-4ed7-a878-3276e9fc6370", "spell_name": "Knock_3", "name_handle": "h5f3cab2fg5db4g4291gae24ge078d224f81c", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Knock_4": {"uuid": "3cfd4894-894a-428b-971f-c1e2e2b63c20", "spell_name": "Knock_4", "name_handle": "h011210b1g43a1g4199gbff8gacd6113ac59a", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Knock_5": {"uuid": "7c08a131-8948-4cfe-b92d-c65ba7c095b9", "spell_name": "Knock_5", "name_handle": "h8dbc7971ga55ag40ecg86abg9b600bc872eb", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_Knock_6": {"uuid": "c7c1a8cf-38f4-4d9b-b074-6bc3ec889a90", "spell_name": "Knock_6", "name_handle": "h97c9eb54g44bdg4fe4g94a1g709bb18a436c", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_MagicWeapon": {"uuid": "8423e33f-f0c9-4bf6-b2d8-ddf4e5652b90", "spell_name": "MagicWeapon", "name_handle": "hd201a90fg780bg4d37g8e65g2fc58d0865d7", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_MagicWeapon_3": {"uuid": "bf126770-8e53-4e86-a11f-23df3763c603", "spell_name": "MagicWeapon_3", "name_handle": "haba73f43ga26cg40a2gaa39gf55d5916837a", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_MagicWeapon_4": {"uuid": "b6f95c01-b83e-42d5-900c-081d20a4a3a3", "spell_name": "MagicWeapon_4", "name_handle": "hdfe27d58gccb9g4738ga2bbgdf060722cad7", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_MagicWeapon_5": {"uuid": "669469a4-ee7b-4ef3-be4e-630d53f75246", "spell_name": "MagicWeapon_5", "name_handle": "hcd1a6b88g73a6g4d01ga5dcg4792e8fc2e93", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_MagicWeapon_6": {"uuid": "6f278319-e5e3-41bf-9d6e-85467bc01fcd", "spell_name": "MagicWeapon_6", "name_handle": "h8384d3begd982g4e9ag85b6g234734d4c777", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Transmutation"}, "Target_MistyStep": {"uuid": "746d92bf-c70c-48c7-aeaf-b4ef75862627", "spell_name": "MistyStep", "name_handle": "h0f863491gf26bg4402gbdf5g46a3501057d2", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_MistyStep_3": {"uuid": "f17068b8-bf2e-488c-ad49-c840ca68de70", "spell_name": "MistyStep_3", "name_handle": "hdd70f5b8gd479g4e92ga061g9c4307d8e9d7", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_MistyStep_4": {"uuid": "ae51ff8d-2f8e-4923-9603-9dafa87ac340", "spell_name": "MistyStep_4", "name_handle": "h2c5fe8bfg08b1g4103g9644g0df6a3535c0c", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_MistyStep_5": {"uuid": "2804030a-3e8d-4223-ad70-26f49a93ca90", "spell_name": "MistyStep_5", "name_handle": "h7c7f994dgaa81g49b9g9c91gd727e3696361", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_MistyStep_6": {"uuid": "e291645d-c4fa-473a-ba98-e7ab1a7033cd", "spell_name": "MistyStep_6", "name_handle": "h06cdb992gb73fg4093g8571ga88342a7f090", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_PhantasmalForce": {"uuid": "7b168dcf-b88d-4425-90fd-8cf8f4880278", "spell_name": "PhantasmalForce", "name_handle": "ha91d95cbg4423g4ad9ga806g07cdd036b9df", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Target_PhantasmalForce_3": {"uuid": "5ef7065f-185c-4e21-96a7-aeb04826dbc8", "spell_name": "PhantasmalForce_3", "name_handle": "hddf744daga8c7g4772gbd30gf924a86ba9fb", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Target_PhantasmalForce_4": {"uuid": "924491d6-e743-4c28-987b-0471cf452132", "spell_name": "PhantasmalForce_4", "name_handle": "h2089ed6dgb998g4b0bgac95geedba3fe1fe2", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Target_PhantasmalForce_5": {"uuid": "5c577149-352a-4eab-ba9e-ad820a5aa453", "spell_name": "PhantasmalForce_5", "name_handle": "hc2b21f43g4189g4811g82b0g116a2a5f6e94", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Target_PhantasmalForce_6": {"uuid": "6c3715ad-d3c9-440f-ba43-4fd06d36a1e9", "spell_name": "PhantasmalForce_6", "name_handle": "h3380819ag4e7fg4879gaadcg593b5233e125", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Illusion"}, "Target_Shatter": {"uuid": "90c8af32-6f44-4d6d-a26a-ad87ff2bc191", "spell_name": "Shatter", "name_handle": "hd70552ccgd722g4612ga427g9994edb2723f", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Target_Shatter_3": {"uuid": "4973448c-090b-4e9c-ac92-571b74f69396", "spell_name": "Shatter_3", "name_handle": "hd1f81a90gf0e3g45a0ga83fg802cf7854f06", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Target_Shatter_4": {"uuid": "dd34f83f-b201-4d84-b137-ae5f0bd9c1d3", "spell_name": "Shatter_4", "name_handle": "h8474e305g8c05g4df2gbc3bgd1b4e768c7c0", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Target_Shatter_5": {"uuid": "aa34b8bd-88cc-43fa-98aa-d9bd9207f09c", "spell_name": "Shatter_5", "name_handle": "h3a7f56d2gb139g4ed2ga098g3e834d515239", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Target_Shatter_6": {"uuid": "bce6f134-7d97-4367-9c4a-b290644eb848", "spell_name": "Shatter_6", "name_handle": "h099568d5g0e8ag45a6gab83g55880b45bb47", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Target_Web": {"uuid": "daef3921-fffb-4520-8c4e-54ac92659a9b", "spell_name": "Web", "name_handle": "hd8c6768dge4dfg4c28g9cadg52914fe22cd6", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_Web_3": {"uuid": "f16b6a4d-d226-4f10-bf02-87488510a68b", "spell_name": "Web_3", "name_handle": "heb82784fgfd46g451fgaf94g61f24f188677", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_Web_4": {"uuid": "eb0608c4-abb4-4e77-aadd-fbf484a9aaa3", "spell_name": "Web_4", "name_handle": "h4c585fb4g161bg4f3cg8bceg73f5c64d5d57", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_Web_5": {"uuid": "7d458848-46fc-4d93-a928-9cb9e522336c", "spell_name": "Web_5", "name_handle": "h267881d7ga1c9g42c4gb7a1gf85a8860a167", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Target_Web_6": {"uuid": "854c6df9-101d-443f-8347-72e186402faf", "spell_name": "Web_6", "name_handle": "h925965e8g1c61g4a72gb1a1g20f20bb9cdd4", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Conjuration"}, "Zone_GustOfWind": {"uuid": "d5414440-c16c-4be2-8e57-5ecaeb7b1eea", "spell_name": "GustOfWind", "name_handle": "haed2eeefg494bg4f35g9e28g37dec9e89036", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Zone_GustOfWind_3": {"uuid": "884706e6-bf94-4d4c-a221-ae711d2be14c", "spell_name": "GustOfWind_3", "name_handle": "h13f92c78gea86g4181g98ddg4131c842c7bc", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Zone_GustOfWind_4": {"uuid": "0fb3ac51-0295-44b8-bb66-533126095fbf", "spell_name": "GustOfWind_4", "name_handle": "h4e307176g8985g49f3g94b8g1561f4f97687", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Zone_GustOfWind_5": {"uuid": "cc807db6-47a8-4d9f-adb2-3c1932816ba2", "spell_name": "GustOfWind_5", "name_handle": "hc8d59390gc650g4efbga89agf2a5f1e46be1", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}, "Zone_GustOfWind_6": {"uuid": "07c70318-3f84-485e-ae19-3751f8f4d03c", "spell_name": "GustOfWind_6", "name_handle": "h7d5e2418g146ag4d01g9084g1d36c3fc26a4", "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0", "icon": "Icon_Rune_Evocation"}}
+{
+    "Projectile_IceKnife": {
+        "uuid": "711ece6d-0c99-4d67-9cb9-a23717d4991f",
+        "spell_name": "IceKnife",
+        "craft_handle": "ha7b3ac89gee80g4623gb8ecg878c34481bf7",
+        "name_handle": "hc7f18b64gbd91g47d6g87ddg03768f92e0ba",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Projectile_IceKnife_2": {
+        "uuid": "3c10fd9c-1221-4bf9-99af-469b7eae5a2f",
+        "spell_name": "IceKnife_2",
+        "craft_handle": "hd6656f86gc93fg468egbe52gccaab58140f1",
+        "name_handle": "h9cfa77d4gb55cg42c2g8332g8f6b44d28360",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Projectile_IceKnife_3": {
+        "uuid": "22341b79-1eb2-4336-9df8-658fb9e4b9fe",
+        "spell_name": "IceKnife_3",
+        "craft_handle": "h295bc25fg9bc3g419ag95d1g84ea622abe77",
+        "name_handle": "h6e8430a8g3aeag4836g846agdae8a77c01f9",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Projectile_IceKnife_4": {
+        "uuid": "4077e91d-7ab6-494a-a0f0-26647235b382",
+        "spell_name": "IceKnife_4",
+        "craft_handle": "h5601f248gbb6dg43ebg882fg7c6e062da9fe",
+        "name_handle": "hb4631f50g3ba8g440agb9c2ga2beeca87d47",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Projectile_IceKnife_5": {
+        "uuid": "159dd239-1bc3-46eb-9ba9-ffc8d404a1c7",
+        "spell_name": "IceKnife_5",
+        "craft_handle": "h5266bc42g2ba8g465ag96f7g527b3a4831c1",
+        "name_handle": "hfd8167e6gd0f4g467bg8b16gec55debc7ec6",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Projectile_IceKnife_6": {
+        "uuid": "c4b00db9-6fa1-4cf8-95ab-13e5a9e0e195",
+        "spell_name": "IceKnife_6",
+        "craft_handle": "haec11709g0d00g4545gb735g69bc0441c886",
+        "name_handle": "hb872fbabgbdeag432cgaa45g1376d4931c3e",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Projectile_MagicMissile": {
+        "uuid": "6777a9c5-a8d4-4490-a06a-1cfb989dfe6a",
+        "spell_name": "MagicMissile",
+        "craft_handle": "hae0f319ag1533g4161gb883gffdd1a7f2997",
+        "name_handle": "h0f9feb29g5466g444cg8290gd78b8f5e78fc",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_MagicMissile_2": {
+        "uuid": "de8a25ac-1161-4b23-a68d-34a0d70a6f48",
+        "spell_name": "MagicMissile_2",
+        "craft_handle": "h8eceaf0fg9174g4bcfg90c3ge520ceb41b76",
+        "name_handle": "h48f0ce03g8455g4b49ga555gd596bff2160e",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_MagicMissile_3": {
+        "uuid": "8ac51f10-0eee-48cc-b5a1-fa661e96c2c8",
+        "spell_name": "MagicMissile_3",
+        "craft_handle": "h8b492126g356eg4b2dgb63cg7dd87774f07c",
+        "name_handle": "h767179f9gd7ccg41dfg9de5g9658820252ef",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_MagicMissile_4": {
+        "uuid": "d186f40c-e7e6-4a94-83d4-571f15310d40",
+        "spell_name": "MagicMissile_4",
+        "craft_handle": "hb2a76f6eg90c8g4799ga49ag83fdc8a5cfbb",
+        "name_handle": "h39b7392eg8c76g49ffga9e3gdd80a1e9e7c0",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_MagicMissile_5": {
+        "uuid": "b60dc8c0-98e1-4081-bc12-fa5df805437f",
+        "spell_name": "MagicMissile_5",
+        "craft_handle": "ha54ab12cgffd5g449ag8941ge8ebd10d28f7",
+        "name_handle": "hf8062794g9f4eg4105g9866gce97fafbb113",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_MagicMissile_6": {
+        "uuid": "fca6d0fa-620f-44c8-881a-3728177d3c18",
+        "spell_name": "MagicMissile_6",
+        "craft_handle": "h32ba520eg2f79g4a52g9e7fg31f1e5c6ef24",
+        "name_handle": "hfe74dbfag0923g4beagb426g6128239ebe17",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_RayOfSickness": {
+        "uuid": "ae73c98e-0f59-45ee-b948-0724a0fb2707",
+        "spell_name": "RayOfSickness",
+        "craft_handle": "hbf46a9fcg0a8ag4563g8985g6b24bc419b79",
+        "name_handle": "h956ae895g8e24g4d36g921dg00f49010adb5",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Projectile_RayOfSickness_2": {
+        "uuid": "49d621f9-cd39-448c-864d-0f08087ca2e3",
+        "spell_name": "RayOfSickness_2",
+        "craft_handle": "h75055756g9cbbg4889g8c4fga94299b525b9",
+        "name_handle": "h61af6c16g3708g496eg94bdg96ae8fa8abf1",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Projectile_RayOfSickness_3": {
+        "uuid": "df4baade-36f4-4e55-8493-9b7b18abf8ed",
+        "spell_name": "RayOfSickness_3",
+        "craft_handle": "hd5514b1aga7ecg4ce5g92b2g6ff85362782f",
+        "name_handle": "h707ef220g0477g40c8g996bg0005888e6a14",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Projectile_RayOfSickness_4": {
+        "uuid": "12a837f6-85e7-47f7-9e1e-af0e957e5422",
+        "spell_name": "RayOfSickness_4",
+        "craft_handle": "h1658abdbg00b1g4a4ega3a5g2c497d9c55a2",
+        "name_handle": "hf64a4a6bgac26g4486g9dbdg8d627530dd0b",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Projectile_RayOfSickness_5": {
+        "uuid": "111da1d6-e2b8-4ce3-97c9-818f767e361a",
+        "spell_name": "RayOfSickness_5",
+        "craft_handle": "hdd3ba311g1e67g41c9gb998gf061f8ff93c5",
+        "name_handle": "h05d2b282g7d53g48beg9163g240fa3c15637",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Projectile_RayOfSickness_6": {
+        "uuid": "b04a6a61-cdec-4771-b89a-ea128bed2801",
+        "spell_name": "RayOfSickness_6",
+        "craft_handle": "h0307ce0dgb8c7g4a03gb3cfge0dc91040833",
+        "name_handle": "hd8988f32gfd32g40c8ga65eg0524004a187e",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Projectile_WitchBolt": {
+        "uuid": "2945d79e-54be-48e4-b1f2-9ded32dec428",
+        "spell_name": "WitchBolt",
+        "craft_handle": "h441fa90fg8acdg4192gbdd4g36a6bc0290ff",
+        "name_handle": "h7315e983g774bg4a10gaab1g7f433a92ada1",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_WitchBolt_2": {
+        "uuid": "203947a4-242e-4d15-8a26-1b574334f072",
+        "spell_name": "WitchBolt_2",
+        "craft_handle": "hf733beb6g0b99g439dga249g5653a23460f3",
+        "name_handle": "h68ee45d5g12a3g478fg9959g3769d6692edb",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_WitchBolt_3": {
+        "uuid": "e576152a-e1bf-47af-9e1e-c035655265e4",
+        "spell_name": "WitchBolt_3",
+        "craft_handle": "h5a8c6255ga33eg47a2ga443g6405506e15d8",
+        "name_handle": "hb95ce727g1d56g4d3eg82bcga6ec895b2944",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_WitchBolt_4": {
+        "uuid": "0950a141-1b5e-4c97-bddf-bad2ffa9f60e",
+        "spell_name": "WitchBolt_4",
+        "craft_handle": "h1e927703g0fdfg42a6gac4cg9e8b4e009652",
+        "name_handle": "h5644703agb605g4c2cgaedbgdd6e0857f627",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_WitchBolt_5": {
+        "uuid": "f703fd5d-3527-40aa-8420-17b7231aeca3",
+        "spell_name": "WitchBolt_5",
+        "craft_handle": "h1cb4dadbg6d5fg4507g80a4gff87bae7e794",
+        "name_handle": "h57e40e41g9905g40a0g9566g6f8c03f544ee",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_WitchBolt_6": {
+        "uuid": "75b5ea58-911f-4ef2-a28f-19bcd8a4bf71",
+        "spell_name": "WitchBolt_6",
+        "craft_handle": "h094917adg4a9bg4ab7g8de6g2cd698bba34a",
+        "name_handle": "hf35ed950g336bg41c7gb9faga3773006ebae",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Shout_DisguiseSelf": {
+        "uuid": "6367df6a-4dbb-41cb-b21c-9d4cb0516fc2",
+        "spell_name": "DisguiseSelf",
+        "craft_handle": "h486e0831g8367g4a5cgb4d9gb1c3ca8de0e8",
+        "name_handle": "h91bc823cg305fg454fga92ag0c77ebe9b128",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Shout_ExpeditiousRetreat": {
+        "uuid": "be5284ce-3941-419d-919f-7b0c35afda87",
+        "spell_name": "ExpeditiousRetreat",
+        "craft_handle": "h563d2a0bgbf8fg4a2bg9468g74b5946858dc",
+        "name_handle": "hcc9e8a25ga105g40fagad6eg2c98f0c93300",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Shout_ExpeditiousRetreat_2": {
+        "uuid": "bb9cc3a7-0558-4343-97e3-15b7a51cd7c4",
+        "spell_name": "ExpeditiousRetreat_2",
+        "craft_handle": "h0247649ag869fg406ega9bfge413ab4844ed",
+        "name_handle": "he41bb392ga641g4aeag8948g19481e4b6fa7",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Shout_ExpeditiousRetreat_3": {
+        "uuid": "2349c107-8d13-4601-b314-756b4aa4da14",
+        "spell_name": "ExpeditiousRetreat_3",
+        "craft_handle": "hdb991811g6f26g4b9fg9130g6ed0d14e0096",
+        "name_handle": "h6d406ac5ga7dbg43ffg8d3agff928a2208af",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Shout_ExpeditiousRetreat_4": {
+        "uuid": "413e076a-9288-4a14-8aff-44bf79f5d4c2",
+        "spell_name": "ExpeditiousRetreat_4",
+        "craft_handle": "h830a9831g08e2g43f2ga71dgb8f905d3727e",
+        "name_handle": "heedb6d39ge876g4b8dgb21ag2e9d163055fb",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Shout_ExpeditiousRetreat_5": {
+        "uuid": "466f527d-78cb-4d1e-9697-0f5b136dd6b0",
+        "spell_name": "ExpeditiousRetreat_5",
+        "craft_handle": "hf883474cgc9ffg44c5g91b6g950b8c4f0726",
+        "name_handle": "h0292f2afgcec1g46e5g9e66g8e14370ac3c9",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Shout_ExpeditiousRetreat_6": {
+        "uuid": "859f5903-a47f-4935-b307-24ed4e6e262e",
+        "spell_name": "ExpeditiousRetreat_6",
+        "craft_handle": "hd749a3d5gb119g4666gb217gb0a5acd73562",
+        "name_handle": "hb54af15dg4c79g45bfg8be7gd534f88eafc7",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Shout_FalseLife": {
+        "uuid": "471730d6-01ec-496e-94b6-ce9923380c5c",
+        "spell_name": "FalseLife",
+        "craft_handle": "h98528edeg3a8ag4176g97a7g03173f6bd790",
+        "name_handle": "hf0cd32adgca8bg4749g937fg8c377dcd9611",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Shout_FalseLife_2": {
+        "uuid": "25cc97e7-b1a7-4132-907a-37c42eb3dc54",
+        "spell_name": "FalseLife_2",
+        "craft_handle": "hc2e62b19g5a93g4281g8501g832c92d5855f",
+        "name_handle": "hc856c8fdg7d28g4aa1gb15dgf37741a35b5b",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Shout_FalseLife_3": {
+        "uuid": "09fb7db7-89f7-4110-8f06-18eb3bee612b",
+        "spell_name": "FalseLife_3",
+        "craft_handle": "hf728f433gf63ag4b01g8ceag58b9cc94f83b",
+        "name_handle": "h49796b1agb26cg49f9gb5efg5672c1907ab0",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Shout_FalseLife_4": {
+        "uuid": "1fcf154f-8459-423f-9ed4-3b998df17f2e",
+        "spell_name": "FalseLife_4",
+        "craft_handle": "hab32d36cg2f46g43c6gb8e8g4e576e448ffd",
+        "name_handle": "h499fefb6g87b9g43c9g9f86gb8e76b2b2345",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Shout_FalseLife_5": {
+        "uuid": "12d6a022-ba64-410d-8058-9936c0b4a372",
+        "spell_name": "FalseLife_5",
+        "craft_handle": "he88d18a8g26c2g4c34g9163g3399669f96bf",
+        "name_handle": "h7d012cccg6ac6g4b45gae04g65129d0b34cf",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Shout_FalseLife_6": {
+        "uuid": "9c7fd4d3-be67-421c-8d03-44fae2f7499e",
+        "spell_name": "FalseLife_6",
+        "craft_handle": "h76e3612fgddf4g4163g835bg8b1409498753",
+        "name_handle": "h74e1c32dg1843g40c4g8ce2gf3ec5ac16a2b",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Shout_FeatherFall": {
+        "uuid": "9d8c0836-9a12-4e30-a02b-d65bba0705e0",
+        "spell_name": "FeatherFall",
+        "craft_handle": "h9f6e1fefg0988g426egb88dge79f30c5ff48",
+        "name_handle": "h67b38c05gd2bcg4ba9g814bg1d84ff0a88d7",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Shout_FeatherFall_2": {
+        "uuid": "27c4f63a-716a-438a-b9ab-93ca323c8095",
+        "spell_name": "FeatherFall_2",
+        "craft_handle": "hc549b1abg08fbg496dgb3ebg9f561ae7a977",
+        "name_handle": "h50fc100fg726eg4f68gbee8g3346f2cfb84e",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Shout_FeatherFall_3": {
+        "uuid": "af9421ad-c0c9-4b8c-8f43-fc06e68cc323",
+        "spell_name": "FeatherFall_3",
+        "craft_handle": "hf98b917egedb5g4dcfg9ecbgf59b748f7b75",
+        "name_handle": "h8e7c6cd9gdfb5g47cdgaa1cgbb04c81d26b1",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Shout_Shield_Wizard": {
+        "uuid": "69d83b85-42a2-49cc-91fd-e8356ccde91e",
+        "spell_name": "Shield_Wizard",
+        "craft_handle": "he8830dfcg894bg4985g91aeg62edf319f092",
+        "name_handle": "hfcc186b9gf9aag4a11g8b07gb529c4e85e00",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Shout_Shield_Wizard_2": {
+        "uuid": "85ea096b-4cf5-4eb4-ad56-15de78d344fe",
+        "spell_name": "Shield_Wizard_2",
+        "craft_handle": "h030a8eefg3df5g4400gaab5gffc1c9a89bff",
+        "name_handle": "hb16c9049gf9b4g4b6bgbc2cg9e81419ec48c",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Shout_Shield_Wizard_3": {
+        "uuid": "10315285-01f7-4cc1-ab0b-fd29537060ad",
+        "spell_name": "Shield_Wizard_3",
+        "craft_handle": "ha895c904g6e9dg49c1g8bf1g07d2f558ffa4",
+        "name_handle": "h99ddbe84g971ag4798gb237g67318b02f62f",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Shout_Shield_Wizard_4": {
+        "uuid": "3e7071a4-49d5-4a15-9b1f-153e974cf8ee",
+        "spell_name": "Shield_Wizard_4",
+        "craft_handle": "h414c5c9eg858eg41a2ga7abg1476c0f4f3bd",
+        "name_handle": "h8302f6bfg2fb7g433dg8112g949b1de7d877",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Shout_Shield_Wizard_5": {
+        "uuid": "78e18486-79c9-48aa-9c7e-0b7d43addfd1",
+        "spell_name": "Shield_Wizard_5",
+        "craft_handle": "h42288c58gedf9g4fc5g9decg0ff73261d7d7",
+        "name_handle": "h07595a2bg2b00g43aaga14bgebf236a58b38",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Shout_Shield_Wizard_6": {
+        "uuid": "4bca2958-ca98-4207-afb6-29e057c7f9b7",
+        "spell_name": "Shield_Wizard_6",
+        "craft_handle": "h314291bag942eg488bga127g24293b283fb3",
+        "name_handle": "hc9e72ba2g1d30g40a2g9c48g4236bb76250c",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_CharmPerson": {
+        "uuid": "211dba37-60a6-4b12-88b7-4a19cc0a9de3",
+        "spell_name": "CharmPerson",
+        "craft_handle": "h28f0533eg4c50g47afga706ge9a43eeb1292",
+        "name_handle": "h68f8f0b0g21b0g4512g998dg3b1612721155",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_CharmPerson_2": {
+        "uuid": "ab9b689d-4e92-4e05-a5d3-a98fc6b2570e",
+        "spell_name": "CharmPerson_2",
+        "craft_handle": "hb44198a7g5e10g495dgb935g032b07ceaf8a",
+        "name_handle": "h0dcf2b03gabf9g4906g8c55g895fe2fb9897",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_CharmPerson_3": {
+        "uuid": "70fd1063-10a4-4895-aab5-d3b2ce4901df",
+        "spell_name": "CharmPerson_3",
+        "craft_handle": "h7b6d29b1gdaeeg4b3dga591gff598b05b59c",
+        "name_handle": "h2a2b9eddgeb30g489dga1c1g0499cc04e9b8",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_CharmPerson_4": {
+        "uuid": "db914180-b4e8-4964-930f-f422e85984c4",
+        "spell_name": "CharmPerson_4",
+        "craft_handle": "ha4f71241g0667g448ag8883gf305d76622db",
+        "name_handle": "hd1a23da1g8c7cg45a4g80d5g387dcb4cb186",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_CharmPerson_5": {
+        "uuid": "4890a5dc-4694-47c0-a643-3aef1fa867a9",
+        "spell_name": "CharmPerson_5",
+        "craft_handle": "h966d8478g7331g480cg82e8g572ffc62e17a",
+        "name_handle": "h4ceb2ec1g9f2ag49dagbcbfg0eec7bbf5caf",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_CharmPerson_6": {
+        "uuid": "4bd4bbad-1036-4e69-9b50-f6a789839134",
+        "spell_name": "CharmPerson_6",
+        "craft_handle": "h57e146f5g4035g4723g8bcag7bff3a348439",
+        "name_handle": "hb425cc30g29deg43f5g93a7g7640ec613f23",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_FogCloud": {
+        "uuid": "d99d21e6-983e-494d-b2ed-607f1b88e4f7",
+        "spell_name": "FogCloud",
+        "craft_handle": "h17626464gd13dg4b4dgba39g38e1e925a20c",
+        "name_handle": "hc8011e22g6b30g4bc9gad26g9f6d88f9c577",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_FogCloud_2": {
+        "uuid": "62b567aa-e358-4b62-9356-e63985994fed",
+        "spell_name": "FogCloud_2",
+        "craft_handle": "h04c66e68gcc15g4366g84eegfc6b19d43c9b",
+        "name_handle": "hd8e710efg5ce0g459ag8c49g03486810937a",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_FogCloud_3": {
+        "uuid": "8dffbc24-8d3e-4cd4-9dda-e36336d8a76e",
+        "spell_name": "FogCloud_3",
+        "craft_handle": "h935960a3ga14ag4755gb4b8g4c32b5975921",
+        "name_handle": "h015a2426gd26ag4614gb4f0g81c7cf5c2655",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_FogCloud_4": {
+        "uuid": "7df60efc-3999-40fa-b235-e83b364365d3",
+        "spell_name": "FogCloud_4",
+        "craft_handle": "h220df480g4b35g40b4ga57bg2bac3b09406d",
+        "name_handle": "hd96fadbcg3b21g4b0bg8ae5g3421854d03b8",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_FogCloud_5": {
+        "uuid": "3f50bca7-8c1e-488b-a2c3-48ff21a08f77",
+        "spell_name": "FogCloud_5",
+        "craft_handle": "h8699c249g5e01g4f68g9858g70b27d74ad76",
+        "name_handle": "h1e75fff8g4506g4b0egaef8g5a138a007a8b",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_FogCloud_6": {
+        "uuid": "e9bb6098-c11b-46bb-bb93-4bf881b7d6f9",
+        "spell_name": "FogCloud_6",
+        "craft_handle": "h9546525egaef6g40a1ga535g91e4fbbe4532",
+        "name_handle": "h62a8303dgb33fg47a7gb143gb1d5878827bc",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_Grease": {
+        "uuid": "d76e2e78-3a87-4755-9b39-9048f24ae766",
+        "spell_name": "Grease",
+        "craft_handle": "hf27f8116ga971g4068gb89bg345e781404fd",
+        "name_handle": "hcf777c33gcdf0g42a1g86ccgb3bed9e791af",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_Grease_2": {
+        "uuid": "a49566c6-7e24-4746-9b91-40e87683a302",
+        "spell_name": "Grease_2",
+        "craft_handle": "ha38f2423gbd40g49d5g8fa4gcfdb9810e10d",
+        "name_handle": "h1c754f7eg82cbg4229gaf14g14f99f63d6ca",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_Grease_3": {
+        "uuid": "64874e58-9587-46a5-87fa-d1b977917ec3",
+        "spell_name": "Grease_3",
+        "craft_handle": "haa84fbe8gd5e2g4c51ga5b0ge8a740955796",
+        "name_handle": "h15ebcb8cg7183g4e04gb41cge92bce280d57",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_Grease_4": {
+        "uuid": "cd79e8fb-6fb0-49a5-af52-80144a4fb792",
+        "spell_name": "Grease_4",
+        "craft_handle": "h60b834cegfc3dg44e4g97e0gbbfc10e206bc",
+        "name_handle": "he334bf14g093cg4ab6gb631g560452484002",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_Grease_5": {
+        "uuid": "e43e6fd5-9788-4c6b-a59f-bc6262e2d8b9",
+        "spell_name": "Grease_5",
+        "craft_handle": "h46747d58g1875g4568gb98fgc8c269a83133",
+        "name_handle": "h7f7a1404g4acdg47a6ga35eg928edf3300e6",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_Grease_6": {
+        "uuid": "ce618fb8-ca1f-420b-989f-6f1e7d43adda",
+        "spell_name": "Grease_6",
+        "craft_handle": "h3bbbb8fdg468eg47fbg8101g78ba5efd3b3a",
+        "name_handle": "h897f72dagca27g4bd0gb0a0gd847ec7e6a4e",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_HideousLaughter": {
+        "uuid": "c4a520a1-643e-468c-930d-7cf16fcf267e",
+        "spell_name": "HideousLaughter",
+        "craft_handle": "hb9d86ef7gdca6g4875g87d4g0e1b4f5db3f6",
+        "name_handle": "hcf14dda8gb9acg43ccg8d7dga8a6ddf26d9f",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_HideousLaughter_2": {
+        "uuid": "710fa389-38ad-44a0-8a6e-4e6b4024fa35",
+        "spell_name": "HideousLaughter_2",
+        "craft_handle": "h235394eeg8d12g463ega44cg1937f6d7d172",
+        "name_handle": "h273f7387g8efbg4365gbebdgf29c50654a9b",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_HideousLaughter_3": {
+        "uuid": "fb9cbe41-c2fa-40ec-92c2-358e54075f2a",
+        "spell_name": "HideousLaughter_3",
+        "craft_handle": "hc0510472g089cg44c6ga55cg84ca95dc0c50",
+        "name_handle": "h02fc18c0ga427g4f93ga3c4g57de7bbe5195",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_HideousLaughter_4": {
+        "uuid": "511c01d3-45cc-42e2-b0d8-89a15121e9dd",
+        "spell_name": "HideousLaughter_4",
+        "craft_handle": "h5affd0bag4f01g4da9gad5cg3c270a65cf32",
+        "name_handle": "h8250180bg43f3g4605g8b34g59335995fb8f",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_HideousLaughter_5": {
+        "uuid": "d538cee7-dfe9-41c3-8b59-f80838b41386",
+        "spell_name": "HideousLaughter_5",
+        "craft_handle": "he5da7384g8950g4a34g8287g12bbb29eb44d",
+        "name_handle": "h353681afge7b7g4c70gbe5agbc25c8913d61",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_HideousLaughter_6": {
+        "uuid": "d8da3a00-be2b-4a83-8c0e-1a3c3f194667",
+        "spell_name": "HideousLaughter_6",
+        "craft_handle": "hd18427f9g4c1bg4a4eg8b69g5dc472134ff8",
+        "name_handle": "h4aefa316gf80ag463cg96cbgbee372059ada",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_Jump": {
+        "uuid": "5f6e58cf-d70e-490b-8812-e415c2d6c39e",
+        "spell_name": "Jump",
+        "craft_handle": "h73b8b9dfg5962g46dbga0f4g395b03d165c1",
+        "name_handle": "hca6b1c9bga67dg41d2g935ege1641bf7607e",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Jump_2": {
+        "uuid": "594a218f-d7b1-4504-ac94-de42ba90004a",
+        "spell_name": "Jump_2",
+        "craft_handle": "hfd7be4eegec5fg41cdga238gd6ab313c51ed",
+        "name_handle": "h06826249g8f99g4c77g9622gc3062ee37c2e",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Jump_3": {
+        "uuid": "e67b2696-c56b-4549-aa48-5230280f7a37",
+        "spell_name": "Jump_3",
+        "craft_handle": "h8ab7c855g5b4cg4faeg865bg1f7774e355bb",
+        "name_handle": "h5504b64cg3a4dg4061g8ce2g741963e8b556",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Jump_4": {
+        "uuid": "2a1f670a-bb89-4c3b-bdf5-bd01b2acfa86",
+        "spell_name": "Jump_4",
+        "craft_handle": "h9581c8afg96eeg4dffg9b08g3398a6824368",
+        "name_handle": "ha03e7183g83eeg43d7g908cgf329cf06b990",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Jump_5": {
+        "uuid": "6f720a92-5e26-4319-92f8-1f31eacd9c7a",
+        "spell_name": "Jump_5",
+        "craft_handle": "h2ff4453cgf5b4g4e98g91eeg928759086c5b",
+        "name_handle": "hbc41982dgde90g4953g8509g99aa9c45fdc1",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Jump_6": {
+        "uuid": "12da2def-37d1-497c-9342-877de03b5328",
+        "spell_name": "Jump_6",
+        "craft_handle": "ha3b13319g0d1cg4ffag8a9dgb21393550540",
+        "name_handle": "h9cc2f166ge9d9g4344gac24g29f8ff597ea0",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Longstrider": {
+        "uuid": "14723943-c8db-4e91-923f-f65d1937b934",
+        "spell_name": "Longstrider",
+        "craft_handle": "h8806e77fg0b9dg46bdgae6agfbbf228bbad1",
+        "name_handle": "hde6f2f08g0096g4735g82f3gd5ec7cbe8440",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Longstrider_2": {
+        "uuid": "377b9a70-089a-4743-a371-ae9f43c91d95",
+        "spell_name": "Longstrider_2",
+        "craft_handle": "hf5a67c39g319cg4590g81bfgc5139432e93a",
+        "name_handle": "h8978aaa9g6bfdg4b5dg8f1ag1130008cbbac",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Longstrider_3": {
+        "uuid": "e26e47d5-dec3-43a6-8178-d7160fdeda47",
+        "spell_name": "Longstrider_3",
+        "craft_handle": "heb088340ge393g436cgbcddga5e73c466ddc",
+        "name_handle": "hd350152bgab69g4ebfg9a17g211afa10dc7f",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Longstrider_4": {
+        "uuid": "38a083e1-e700-4212-aa45-476c6e9e7a9c",
+        "spell_name": "Longstrider_4",
+        "craft_handle": "he593210fg5947g4eabg9717g5d00e25ce387",
+        "name_handle": "h04e14e77gf6c1g4c85g9cf2ga6b3e2411f14",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Longstrider_5": {
+        "uuid": "e870c08f-e295-4b12-bba8-445b5897d92a",
+        "spell_name": "Longstrider_5",
+        "craft_handle": "hd50287d4gf624g4f0cg82fdga8ac994a5a3f",
+        "name_handle": "h0c23e3bdg34e2g4b43gb2b6g4c92db41b38b",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Longstrider_6": {
+        "uuid": "1041ae9c-440b-4aae-b4d8-b67b3c16057d",
+        "spell_name": "Longstrider_6",
+        "craft_handle": "hfe002267g880bg4587g9b73g751ba86f8143",
+        "name_handle": "h3a974f3bgc309g4466g9de8g251815c56552",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_MageArmor": {
+        "uuid": "86f47705-99d9-4418-a478-32d546b7fb22",
+        "spell_name": "MageArmor",
+        "craft_handle": "h66ec9a6bge572g4610gb3a4g4e86ab66b2f5",
+        "name_handle": "hdd157868g1a7cg45d5g8b2agca2405e954d5",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_MageArmor_2": {
+        "uuid": "8bb2afaf-c633-41da-8360-cb8cd7f833c5",
+        "spell_name": "MageArmor_2",
+        "craft_handle": "hfe81786bgb149g47d7gb1bbgb8e032be30c7",
+        "name_handle": "h1d586f64g7438g48d6g8818gc7cdf9601aba",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_MageArmor_3": {
+        "uuid": "d895e197-e3b1-4c8c-82e4-5da3800cf7b1",
+        "spell_name": "MageArmor_3",
+        "craft_handle": "h15d04ebag07a2g442fgafb6gfc921a84a730",
+        "name_handle": "h5bef76acg9240g47efgabd7g0297fea7eefc",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_MageArmor_4": {
+        "uuid": "ece1ac2e-d749-4f9c-99d1-dde186d331cc",
+        "spell_name": "MageArmor_4",
+        "craft_handle": "hd0d26b05gff16g4647gae21ge3c36c92c682",
+        "name_handle": "ha874779fg47e2g45aeg8fedg661adf4febdf",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_MageArmor_5": {
+        "uuid": "e36b647c-c0c7-4c72-999e-c683f27aabb1",
+        "spell_name": "MageArmor_5",
+        "craft_handle": "he83d706fg00beg4252ga4degce1e9b38c6db",
+        "name_handle": "h86ef700egbd9bg45d1g90c4g219f22c67929",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_MageArmor_6": {
+        "uuid": "8eff9280-62c6-4cf2-9cd0-a36124324aa7",
+        "spell_name": "MageArmor_6",
+        "craft_handle": "h038e208fg8ab4g4207gb7e7g35b6e0303e53",
+        "name_handle": "hd71435edg4e5bg4818ga6f7g7ab5bbc6e33d",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_ProtectionFromEvilAndGood": {
+        "uuid": "b50d12f6-b282-441f-9e99-77eb95d708bc",
+        "spell_name": "ProtectionFromEvilAndGood",
+        "craft_handle": "h9bf987ecg6754g40cdg8855g4e8161d5ccfa",
+        "name_handle": "h37122f44gea26g4f37g8f04g01c56ba31bdf",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_ProtectionFromEvilAndGood_2": {
+        "uuid": "e5fdd9cf-2062-4a08-8bf7-871dd7a417e4",
+        "spell_name": "ProtectionFromEvilAndGood_2",
+        "craft_handle": "h76fe4308g1cc9g4de2g92ccga3bf8a43c2a9",
+        "name_handle": "hbd1bd4d5g4015g4fedg9dfagdd43a82fa2a9",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_ProtectionFromEvilAndGood_3": {
+        "uuid": "d84a08cc-58c9-489e-81a0-4c2aafa5e829",
+        "spell_name": "ProtectionFromEvilAndGood_3",
+        "craft_handle": "hb57e4b83gaaf3g4e6cgb10bga52ec59b517b",
+        "name_handle": "hc07fd5d9gc4d2g4133gb0c3g759ee8f54fe9",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_ProtectionFromEvilAndGood_4": {
+        "uuid": "d784ce0d-c98c-4a1e-9c9a-12245ee5110b",
+        "spell_name": "ProtectionFromEvilAndGood_4",
+        "craft_handle": "hd5dc82b3gb828g47c6g9a22gcb18326dbb5f",
+        "name_handle": "h1298ce58gcf4eg43ffg860dgd09cc74d1427",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_ProtectionFromEvilAndGood_5": {
+        "uuid": "b5bfd985-6e6a-411c-a584-544f07443e38",
+        "spell_name": "ProtectionFromEvilAndGood_5",
+        "craft_handle": "h384c6489g30d8g4bf7g8f0ag00abc3864764",
+        "name_handle": "hb06b2e44g8e8ag4ae0gb3f1g87ddd9c55b6c",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_ProtectionFromEvilAndGood_6": {
+        "uuid": "8707bdd4-e95c-48b5-9a65-8d2631ff8649",
+        "spell_name": "ProtectionFromEvilAndGood_6",
+        "craft_handle": "ha3cfcdcfg3d57g43d2g9113g33f5f51f6b54",
+        "name_handle": "h54ca0098gb471g43cagb328g94211aa69704",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_Sleep": {
+        "uuid": "bfe00628-8d36-4fa2-b8b2-d82ba489b386",
+        "spell_name": "Sleep",
+        "craft_handle": "hd0d4a3d5gdca1g425fgaeb5g7932e14bdd6e",
+        "name_handle": "h1d4e9c64g4d39g4ebdga8d4gb9feaf43f65d",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_Sleep_2": {
+        "uuid": "5c59e5d8-5347-4684-ab23-d1a33bbf08f2",
+        "spell_name": "Sleep_2",
+        "craft_handle": "h095c7c53g9af9g4f96g9edegb2ca2d6082e8",
+        "name_handle": "h842bf386g8adbg4033g8f2bg8303a992a0b3",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_Sleep_3": {
+        "uuid": "ed32b7d0-b76e-43b6-aaef-2bc69ce96a8a",
+        "spell_name": "Sleep_3",
+        "craft_handle": "ha00c5507ga3ddg4c68g93d7g482766c1f43f",
+        "name_handle": "h45833406g29f5g49fbga912ge2447fb36bc9",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_Sleep_4": {
+        "uuid": "c065e74c-f174-4352-8989-1a9a3643ab21",
+        "spell_name": "Sleep_4",
+        "craft_handle": "h358454e7gf319g466eg8928g0314c0c93c9c",
+        "name_handle": "haf4293e8g0c15g4621g821eg80e8ea5f156b",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_Sleep_5": {
+        "uuid": "ee6aa1d9-2139-4b00-a0e8-076dbbecaae1",
+        "spell_name": "Sleep_5",
+        "craft_handle": "hb95339d8g9560g46f7g914bgca34479c7bf6",
+        "name_handle": "h467ba9ccge526g4ca3gbf37g1b84cc9473d1",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_Sleep_6": {
+        "uuid": "d5ac07d4-695b-4194-95f7-12e5879ca0a0",
+        "spell_name": "Sleep_6",
+        "craft_handle": "hdda08865g32d5g4ca9gb136g1d50fddc4e89",
+        "name_handle": "h075f1b37g4420g4a61gb043g77cd5780aef9",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Zone_BurningHands": {
+        "uuid": "7978342f-b55b-46e4-8432-67f0ef637401",
+        "spell_name": "BurningHands",
+        "craft_handle": "hce5ceeecg3d0cg4efdgab8cge17a9a52ec95",
+        "name_handle": "hf9405a7cgfd6dg45aagae15g5af520592c57",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Zone_BurningHands_2": {
+        "uuid": "dc3b068c-4ab5-444f-96dc-798674742a33",
+        "spell_name": "BurningHands_2",
+        "craft_handle": "he8ef0d41g2c77g4ed5g8c9fgdafc5497169e",
+        "name_handle": "h19fc31bbg13a9g4653gaf68g09b217ebe827",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Zone_BurningHands_3": {
+        "uuid": "36a0d524-67d9-48f5-bac0-476ded05d8ba",
+        "spell_name": "BurningHands_3",
+        "craft_handle": "hb20a3142g4d18g4a10ga45cgdc2f3cc56e5c",
+        "name_handle": "h4a267bb9g565dg4521g96e9g1805949908eb",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Zone_BurningHands_4": {
+        "uuid": "d978c219-bff9-400d-9bbb-939f6bdb0ec4",
+        "spell_name": "BurningHands_4",
+        "craft_handle": "hf9d7d9c6g4cedg43e2ga29dg0ff61aa5e79c",
+        "name_handle": "h76064656g39e0g46f4g8fb7gd6cd3ea5293c",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Zone_BurningHands_5": {
+        "uuid": "a28065a9-7ec1-4c54-a8b3-fb89923125b4",
+        "spell_name": "BurningHands_5",
+        "craft_handle": "he0b98cfbg8ca5g46aegba70gddb48989c331",
+        "name_handle": "h137d0836gb895g4356g9251g59011cb3ad7b",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Zone_BurningHands_6": {
+        "uuid": "8bdc7226-b47b-48dd-869a-c6add94451f2",
+        "spell_name": "BurningHands_6",
+        "craft_handle": "h82a37dc8gc42cg41a1g89a4g2db29e718a2f",
+        "name_handle": "h6c6c3a70geea0g4f83gbacdg2ca4ed6ebb7c",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Zone_ColorSpray": {
+        "uuid": "d7f93a1e-5a58-4537-8d74-3848f0d41472",
+        "spell_name": "ColorSpray",
+        "craft_handle": "hff7ff31bg0857g4ad4g93f4gc6b4d22b5bb7",
+        "name_handle": "hb97824bcg569bg48bdgafc0g06b82bbffe47",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Zone_ColorSpray_2": {
+        "uuid": "15ee83d6-b61a-464a-8c5e-d72727f6293d",
+        "spell_name": "ColorSpray_2",
+        "craft_handle": "h4303b3cfgcf83g49f7g958agcc2e49c26070",
+        "name_handle": "h79e6d607g7f22g47d1gbd6bg95b2696303a8",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Zone_ColorSpray_3": {
+        "uuid": "328ea6ff-946b-4fab-b5b9-88ee17d4dfbf",
+        "spell_name": "ColorSpray_3",
+        "craft_handle": "h834cbf95g5f0bg4064gb5e6g09c8e93312ec",
+        "name_handle": "h8f12ab27g3a21g4eb9gbed7g43d6004fbc2a",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Zone_ColorSpray_4": {
+        "uuid": "cbc5f89c-066c-44f3-b292-156b30dfa069",
+        "spell_name": "ColorSpray_4",
+        "craft_handle": "h7b49180ag4281g460cg9857g36a4c163d463",
+        "name_handle": "h808d2adfga8f8g4d91g96dagfb345e3f278d",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Zone_ColorSpray_5": {
+        "uuid": "b0b93983-f677-46c3-9aca-2531d3649b84",
+        "spell_name": "ColorSpray_5",
+        "craft_handle": "h2197b842g1dedg4edag9a84g3112d897d968",
+        "name_handle": "h7d5a64d8ge006g41edg8935ged367dbf0836",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Zone_ColorSpray_6": {
+        "uuid": "337c0007-b6c2-457b-b3a2-54385576e7b7",
+        "spell_name": "ColorSpray_6",
+        "craft_handle": "hd7563d63ga9fag4ff5g8b18g5102f9178172",
+        "name_handle": "h0deda3cdg7539g4e6fgb022ge722d407e36a",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Zone_Thunderwave": {
+        "uuid": "9b09f9f7-d327-49ec-96d3-4219d20c0d41",
+        "spell_name": "Thunderwave",
+        "craft_handle": "h4c1fd767gcbeeg4a50g8869gbeee8441a26b",
+        "name_handle": "h31d1ffd2g4c95g4d8egba60g09855d0b7b7a",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Zone_Thunderwave_2": {
+        "uuid": "1b6f3c58-b841-4120-89cb-f2c772306e23",
+        "spell_name": "Thunderwave_2",
+        "craft_handle": "h7955b664g43b0g4b8egb61cgb24981ac5bba",
+        "name_handle": "h83431184g3b96g4e33g80c7g43ca10e8368a",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Zone_Thunderwave_3": {
+        "uuid": "2471cf4c-9fa4-4d8c-8599-5a4e65764a3e",
+        "spell_name": "Thunderwave_3",
+        "craft_handle": "h9c7c3a4fg5c20g442bga749gc1a158a8d181",
+        "name_handle": "hdff5bc14gac7ag4030g9781g0e67182375c1",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Zone_Thunderwave_4": {
+        "uuid": "f0b3642a-f363-4e4e-9f9a-7cf18b298a20",
+        "spell_name": "Thunderwave_4",
+        "craft_handle": "h618df6e2g0babg40e0gbee1g4d9334123c21",
+        "name_handle": "h589cc655g3b31g4662g928cgb54f426ddf1b",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Zone_Thunderwave_5": {
+        "uuid": "8ad28fcb-2f63-449f-892b-316f5bc6a57b",
+        "spell_name": "Thunderwave_5",
+        "craft_handle": "h1acf389cg75c9g4cf0g9acfg5a94a0d36d70",
+        "name_handle": "h6629b9feg28c3g4d19gaa91g3f6392086ab9",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Zone_Thunderwave_6": {
+        "uuid": "0acbbf35-134a-4cb0-8b51-e28ba0ffd5d9",
+        "spell_name": "Thunderwave_6",
+        "craft_handle": "h46096e3fg09abg455cg8eeegf336f0f440e4",
+        "name_handle": "h21197950gcd06g47fcg9945g95ef03f711b5",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_AcidArrow": {
+        "uuid": "7e0f5905-808c-4686-a08f-d589c4f06463",
+        "spell_name": "AcidArrow",
+        "craft_handle": "hcbea7682gf46fg4877gb104gf2d16aa7a876",
+        "name_handle": "h72fb2e39gc93dg45c4gb3f6gaa099bb94b82",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_AcidArrow_3": {
+        "uuid": "3a5f3505-f5d2-41db-897b-a8715b3ff0fd",
+        "spell_name": "AcidArrow_3",
+        "craft_handle": "h109c432agfbb3g4016gb4aegd3fbe3dd7bec",
+        "name_handle": "h29306577g916cg432fgbebbg2ea6326b829c",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_AcidArrow_4": {
+        "uuid": "42e52e75-ca4a-4bda-bd56-b3432a685afd",
+        "spell_name": "AcidArrow_4",
+        "craft_handle": "h05e31990g77d2g4f2bga2f2g9179a7513f4a",
+        "name_handle": "h8191c7d1gd50eg481ega4e8g27a2a0edfb76",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_AcidArrow_5": {
+        "uuid": "699e0a6a-5751-49e5-bf60-2bf4dd8193a0",
+        "spell_name": "AcidArrow_5",
+        "craft_handle": "hff2d165cgabf4g487ega3c0g93c09a4536f2",
+        "name_handle": "h245b0b9cg1b70g4f17g9fbdg0d23d0aea052",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_AcidArrow_6": {
+        "uuid": "0dcba4bb-68f5-4a9b-8062-839189b409c0",
+        "spell_name": "AcidArrow_6",
+        "craft_handle": "h2d5e493egba6fg49d1ga629g1f8076a92b66",
+        "name_handle": "hf5cdb04cga5a0g4bbcga94ag5717eb1f2054",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_RayOfEnfeeblement": {
+        "uuid": "775d956d-b658-4988-9ebb-7b31ebea8b83",
+        "spell_name": "RayOfEnfeeblement",
+        "craft_handle": "h08f73c5ag4d69g4c06g968fgff32fa1eb378",
+        "name_handle": "h678da81ag9ad6g46efgb2adg145d1f8dd341",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Projectile_RayOfEnfeeblement_3": {
+        "uuid": "57253a5d-599c-4a09-a073-d2086c7fb200",
+        "spell_name": "RayOfEnfeeblement_3",
+        "craft_handle": "hde923808g071fg4ae4g890ag6ef3a10dfc55",
+        "name_handle": "h46762a2dg15e3g441dgb9bcg95c0dda2a301",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Projectile_RayOfEnfeeblement_4": {
+        "uuid": "66144599-f87a-40fd-b000-adfdcc220002",
+        "spell_name": "RayOfEnfeeblement_4",
+        "craft_handle": "hc9546be4gc42fg4b17g9f5ag072378f039fd",
+        "name_handle": "ha0061d01g3d9fg4605ga657g1dff407222e2",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Projectile_RayOfEnfeeblement_5": {
+        "uuid": "088204cf-f3d8-4500-893d-aa46c674db1d",
+        "spell_name": "RayOfEnfeeblement_5",
+        "craft_handle": "h90d80fd4gfe67g433ag8f12ge0442f279d72",
+        "name_handle": "h5404fcd1g6986g4854g982agb71ce562006d",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Projectile_RayOfEnfeeblement_6": {
+        "uuid": "42cf8821-3b2a-4752-ae58-c9e83e49d47e",
+        "spell_name": "RayOfEnfeeblement_6",
+        "craft_handle": "h2162c8f5gb9b4g4ac3g8370g41f1b364ffd5",
+        "name_handle": "h8dd27ecdgc9f4g4c37gb807gbac46405925b",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Projectile_ScorchingRay": {
+        "uuid": "3da9a3ec-3785-490a-8fce-3abd536f844a",
+        "spell_name": "ScorchingRay",
+        "craft_handle": "heac9f2ddg13b1g4431gb814gd6bd1f9be672",
+        "name_handle": "h2944a662gc868g4bbbgb4a9gd045accac10d",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_ScorchingRay_3": {
+        "uuid": "9d0aaf2d-993d-4c39-a629-060a87ef7480",
+        "spell_name": "ScorchingRay_3",
+        "craft_handle": "h8625d442ga16dg4af8g9127gf8835314d967",
+        "name_handle": "h560236d1ge41dg4f71g99f0g2839f6beef3d",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_ScorchingRay_4": {
+        "uuid": "47079bee-f4c9-4948-b157-c585f4bfbb51",
+        "spell_name": "ScorchingRay_4",
+        "craft_handle": "h2298b122g841bg404bgb160g3e7c2da9b808",
+        "name_handle": "had58999fg8700g4616gb2fcg93f0cd2aaced",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_ScorchingRay_5": {
+        "uuid": "9691c5e5-23ba-43f0-bdfc-a022b150833c",
+        "spell_name": "ScorchingRay_5",
+        "craft_handle": "h72f5a722gae8fg4b71ga71ag5112a7bc6278",
+        "name_handle": "h70c46216gdd60g4848g988fg8ab112ac96e2",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Projectile_ScorchingRay_6": {
+        "uuid": "411bc2f4-b255-4874-b6ab-6255ddfb6c67",
+        "spell_name": "ScorchingRay_6",
+        "craft_handle": "h0cff69ddg70f0g4671g8417g2782c0c150d6",
+        "name_handle": "h5e57c3cdgcc82g4500g8222g46d2d1ad87f8",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Shout_Blur": {
+        "uuid": "8d3c8bd3-7451-44e0-8235-3f8a1f8a149d",
+        "spell_name": "Blur",
+        "craft_handle": "hdc37c105g729fg4a1eg9641g74cd5dce2797",
+        "name_handle": "h9490e4deg7366g4ca9g8426g10289b00b566",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Shout_Blur_3": {
+        "uuid": "cdbb5fea-1b00-4b00-a59c-1dfd7adc2c2f",
+        "spell_name": "Blur_3",
+        "craft_handle": "h2632a771g42ecg4539g8eb6gc7077c0f531e",
+        "name_handle": "h9d3e7b9egdbb0g4662ga0c1g68b55ea8b0dc",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Shout_Blur_4": {
+        "uuid": "ed72c23c-aff1-4434-9598-437b1e498fdb",
+        "spell_name": "Blur_4",
+        "craft_handle": "h0879b5d0gdafbg41fdg92e1ge32af21e2ac3",
+        "name_handle": "h0b64286eg77b9g40dbga9eage1c805f770f8",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Shout_Blur_5": {
+        "uuid": "9a27952a-e058-40db-bca3-5bafa90b9d0e",
+        "spell_name": "Blur_5",
+        "craft_handle": "h832f3396gb9a9g4b15gbdc7gad1885ad5b54",
+        "name_handle": "h978932fagd205g4109gb5c9g28ef0db85df0",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Shout_Blur_6": {
+        "uuid": "25cb4cfb-4b86-4feb-8ff6-82745447449b",
+        "spell_name": "Blur_6",
+        "craft_handle": "h9961672cg2decg48f4ga8e6g378be65c765f",
+        "name_handle": "ha86e60abg19cbg4f80g94bbg57361de51bb0",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Shout_DetectThoughts": {
+        "uuid": "85a90a09-b612-413f-8743-4c76dbf40689",
+        "spell_name": "DetectThoughts",
+        "craft_handle": "h819a9f70g52c8g498bg8e21gf25c9fea1182",
+        "name_handle": "h92219518g9c36g4674gae88g3e6e6be124fc",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Divination",
+        "craft_icon": "FFT_Icon_CarveRune_Divination"
+    },
+    "Shout_DetectThoughts_3": {
+        "uuid": "1b3247b4-7748-4378-a2dc-1fa1adf7f024",
+        "spell_name": "DetectThoughts_3",
+        "craft_handle": "h13f88fdbg534ag47ebgafa8gaeca950c08bc",
+        "name_handle": "hec0ca4dfg656eg4fc4g9c11g1d81d3dd406e",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Divination",
+        "craft_icon": "FFT_Icon_CarveRune_Divination"
+    },
+    "Shout_DetectThoughts_4": {
+        "uuid": "ce815119-9245-4d25-b3f6-c8799654a61a",
+        "spell_name": "DetectThoughts_4",
+        "craft_handle": "h5f65f8a3gb6dbg47d5gb145g58322e61695f",
+        "name_handle": "h82115b06g5b63g40b2ga49ag298daa658f93",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Divination",
+        "craft_icon": "FFT_Icon_CarveRune_Divination"
+    },
+    "Shout_DetectThoughts_5": {
+        "uuid": "3f91bdca-fb81-4ef3-9d2b-57eb34e16091",
+        "spell_name": "DetectThoughts_5",
+        "craft_handle": "hfd4385b9g7f1dg4f88gb991g1e3403c89ac3",
+        "name_handle": "hf01e3e70g656cg4919gb106gf1dbb62bceca",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Divination",
+        "craft_icon": "FFT_Icon_CarveRune_Divination"
+    },
+    "Shout_DetectThoughts_6": {
+        "uuid": "a3fd7123-8800-4076-bd5f-2d192b7b2b64",
+        "spell_name": "DetectThoughts_6",
+        "craft_handle": "hd19ca0a9gc811g4e34g84c0gab3f2b7845d3",
+        "name_handle": "h283f76bfg0f0ag4b7fga3a4g82d1682cf197",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Divination",
+        "craft_icon": "FFT_Icon_CarveRune_Divination"
+    },
+    "Shout_MirrorImage": {
+        "uuid": "bbb24bb7-ab4e-403d-94e3-66b948ad8af4",
+        "spell_name": "MirrorImage",
+        "craft_handle": "h78c04379gc921g4cccg81f6g4201e8591834",
+        "name_handle": "h15435dffg5b7ag47b6g8325g4b49920b4700",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Shout_MirrorImage_3": {
+        "uuid": "23f4b25d-7781-4cb4-a306-1b65a67749e0",
+        "spell_name": "MirrorImage_3",
+        "craft_handle": "hda798243gff49g4c9eg9713gbfddc9693184",
+        "name_handle": "h51a75be8g2ea9g4024g8e90g7b0a3cdc7c05",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Shout_MirrorImage_4": {
+        "uuid": "88f79b8b-7f6b-47ae-af44-9ef3e441e47a",
+        "spell_name": "MirrorImage_4",
+        "craft_handle": "h720392b6g996dg4250gb96bgdba97ffb63f1",
+        "name_handle": "hd6d65b28g59f0g49b1ga3cega8fae5c7158d",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Shout_MirrorImage_5": {
+        "uuid": "39e953cd-e42e-4f98-ade6-8347e45c4652",
+        "spell_name": "MirrorImage_5",
+        "craft_handle": "h9239333bg80c5g4d60gb5dbgddc80510c62a",
+        "name_handle": "h2f2810f0g8646g457bg991bg22eab7517e40",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Shout_MirrorImage_6": {
+        "uuid": "b6e41315-4236-4d2a-83ae-cb29ee1e36ca",
+        "spell_name": "MirrorImage_6",
+        "craft_handle": "h5c0f748eg7b77g4957gb1f5gddca185fe487",
+        "name_handle": "he09bfa3cg8f18g48abga04bg4e940363906e",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Shout_SeeInvisibility": {
+        "uuid": "19e6c0e6-aa62-4d90-a2e8-626815f152fa",
+        "spell_name": "SeeInvisibility",
+        "craft_handle": "h6532c9ccga66fg4baag85b2gd0aabaff5658",
+        "name_handle": "h48885277g9453g42e5g8dfcg4cb6bf2fb9ca",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Divination",
+        "craft_icon": "FFT_Icon_CarveRune_Divination"
+    },
+    "Shout_SeeInvisibility_3": {
+        "uuid": "2a48b149-ee30-4e0e-bae1-e264ba785d6a",
+        "spell_name": "SeeInvisibility_3",
+        "craft_handle": "h9c63a23ag5360g499agab5bgeef0065bcd6a",
+        "name_handle": "hd0ad49d9g700bg470bg91e7gb2bdf811f5e3",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Divination",
+        "craft_icon": "FFT_Icon_CarveRune_Divination"
+    },
+    "Shout_SeeInvisibility_4": {
+        "uuid": "743b049e-5d79-43ff-8884-c30f90806ded",
+        "spell_name": "SeeInvisibility_4",
+        "craft_handle": "h1314e60cg14f7g4ceeg82cag0281a5a431a9",
+        "name_handle": "h448c346agfdccg4cbdg821bg56500fce3a9b",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Divination",
+        "craft_icon": "FFT_Icon_CarveRune_Divination"
+    },
+    "Shout_SeeInvisibility_5": {
+        "uuid": "fb9c202d-b7ee-4007-bb21-ce0ffa408bb8",
+        "spell_name": "SeeInvisibility_5",
+        "craft_handle": "hb006b359g9c55g40aegbd90g583eb65523d6",
+        "name_handle": "ha9de1b63gab97g431agbcd8g7496e294e931",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Divination",
+        "craft_icon": "FFT_Icon_CarveRune_Divination"
+    },
+    "Shout_SeeInvisibility_6": {
+        "uuid": "3580b7f8-46e2-4bb7-bf79-19393397f2be",
+        "spell_name": "SeeInvisibility_6",
+        "craft_handle": "h7b2ab0dag7815g49c7gb73fg5cffbd0190cc",
+        "name_handle": "h35df64acg7647g48ebgaa55g664fcf1635b7",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Divination",
+        "craft_icon": "FFT_Icon_CarveRune_Divination"
+    },
+    "Target_ArcaneLock": {
+        "uuid": "7cb734ba-fd2b-413a-8870-84c6f34ea86c",
+        "spell_name": "ArcaneLock",
+        "craft_handle": "h6be03235g2e7cg4421g815bg58bd7268954f",
+        "name_handle": "hc454bde4g6b4eg437cg8106g8fb552751b89",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_ArcaneLock_3": {
+        "uuid": "bdafe90f-b8b9-422e-b8e2-3c036c701497",
+        "spell_name": "ArcaneLock_3",
+        "craft_handle": "ha8df63d3gcabcg47aega4c2gbb8ee3359cae",
+        "name_handle": "h4b2d18e1g6639g4593g865egd4bd7427e38a",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_ArcaneLock_4": {
+        "uuid": "b005b58a-2a82-45ae-914f-bf7e7de41bed",
+        "spell_name": "ArcaneLock_4",
+        "craft_handle": "h6cd2a0d6g0e45g4ea4gba3cg36cddab0bd22",
+        "name_handle": "haa1254bfgd8e3g44d5gb28age5875a25ee65",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_ArcaneLock_5": {
+        "uuid": "b7591073-cb49-4200-b76c-5a6e4f06b078",
+        "spell_name": "ArcaneLock_5",
+        "craft_handle": "hd40daee4gaea1g44dcg8326g2bec86e9d8e6",
+        "name_handle": "ha8bfcb3ag9ac7g40ccgb736gaf76b322f474",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_ArcaneLock_6": {
+        "uuid": "ea961433-df5b-412a-ac26-069dd1a17455",
+        "spell_name": "ArcaneLock_6",
+        "craft_handle": "hd47644e2g1bfcg4bf5gb347gf5dcd0412295",
+        "name_handle": "h55fda0a5gef79g4aedg9930gdfa0eaab8480",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Abjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Abjuration"
+    },
+    "Target_Blindness": {
+        "uuid": "98d945ad-7f72-41af-93a8-5080c5193b24",
+        "spell_name": "Blindness",
+        "craft_handle": "hd07e15dcgb855g4d9egb986g6f62be725468",
+        "name_handle": "h507936d7g99dbg4ab5gbb7bg5864ea164ddf",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Target_Blindness_3": {
+        "uuid": "000d361c-1c70-41a4-9ddd-f90602a8804c",
+        "spell_name": "Blindness_3",
+        "craft_handle": "h238c697ag35a8g4c5bg9b06gf4ae82381546",
+        "name_handle": "h1a68aa83g0576g4bc7g891agc5ef2ef76eef",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Target_Blindness_4": {
+        "uuid": "7ec96d48-4985-486c-8e80-2f8a522b8685",
+        "spell_name": "Blindness_4",
+        "craft_handle": "h9f5904f9g51d6g414eg9817g45d5e81723d4",
+        "name_handle": "h452eae5eg6f51g4f5dg8a3ag305d6c0da17a",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Target_Blindness_5": {
+        "uuid": "0682b341-6a1e-42ea-bbf1-9e4cc30876f6",
+        "spell_name": "Blindness_5",
+        "craft_handle": "h123a464cgcae6g4f29g9701gf9580627b07f",
+        "name_handle": "h65d78af0g5cdfg4c8cgabddgc72e4634a06e",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Target_Blindness_6": {
+        "uuid": "37a71d2b-67e7-489d-8dbc-0ad88980e258",
+        "spell_name": "Blindness_6",
+        "craft_handle": "h0fb65473g19c8g436aga375g773072fe6caa",
+        "name_handle": "h1a95f774gc0aeg4fc4g96dcg2f17a6ec37a6",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Necromancy",
+        "craft_icon": "FFT_Icon_CarveRune_Necromancy"
+    },
+    "Target_CloudOfDaggers": {
+        "uuid": "2b45ae5f-f333-4dba-b99a-7469a3cf5ff8",
+        "spell_name": "CloudOfDaggers",
+        "craft_handle": "h2f76b76cg4bc2g4d03ga268ge1e2fe6e66de",
+        "name_handle": "he0bb36bcge618g4aeegb2deg61bbf976eece",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_CloudOfDaggers_3": {
+        "uuid": "9929963e-2be9-459a-a64a-538d20485d71",
+        "spell_name": "CloudOfDaggers_3",
+        "craft_handle": "h1400213bg9356g4d30g93cbg065549d818df",
+        "name_handle": "h04ff8164g55ffg41b7g9426gb3d39d4dfbb9",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_CloudOfDaggers_4": {
+        "uuid": "97fc0089-78b0-45f0-b887-05dde1ce09b3",
+        "spell_name": "CloudOfDaggers_4",
+        "craft_handle": "h7e72d46cg08e5g404fg986fg95d227993ddc",
+        "name_handle": "hd9c411d1g24f2g4edfg88f4gd78e4e6885af",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_CloudOfDaggers_5": {
+        "uuid": "67baddb9-380c-4827-94ae-4546b50873c5",
+        "spell_name": "CloudOfDaggers_5",
+        "craft_handle": "h7e3b8412g60dbg43a6g970agf5644801068e",
+        "name_handle": "ha8292de7g2d17g49abg9dfeg9c688c74f7c6",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_CloudOfDaggers_6": {
+        "uuid": "d8ede239-d4de-4f74-ba9f-94bb00b07b18",
+        "spell_name": "CloudOfDaggers_6",
+        "craft_handle": "h9880b46cgb930g4672g9b09g712d2252646d",
+        "name_handle": "h0b67ee7cg9b2dg4a6cg95eag76407e7898ca",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_CrownOfMadness": {
+        "uuid": "2c1a0ca0-d1f2-4f7c-8838-345b7511c0c0",
+        "spell_name": "CrownOfMadness",
+        "craft_handle": "h44d411cdg757bg4bc8g8253g72350942541d",
+        "name_handle": "h3c8ac022g8261g49ccgbda3g29a804b93235",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_CrownOfMadness_3": {
+        "uuid": "0deed122-a66d-4212-bc4f-e342f2ee6dba",
+        "spell_name": "CrownOfMadness_3",
+        "craft_handle": "h3e115088g88fdg46c4ga670gb65382daf3b4",
+        "name_handle": "he319bd0egf5f0g4b31g83b7gdf9a9b19e72a",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_CrownOfMadness_4": {
+        "uuid": "8fea0ce4-6e87-444c-b9b7-b476bee51b54",
+        "spell_name": "CrownOfMadness_4",
+        "craft_handle": "hc5b254d5gb21ag4da9gb42bgec35a5f95c10",
+        "name_handle": "h41f01373gf0c4g4745g8809gfdfc35dfd639",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_CrownOfMadness_5": {
+        "uuid": "dbb4a6b4-52cd-4c7d-9df1-0d3f9d804bcc",
+        "spell_name": "CrownOfMadness_5",
+        "craft_handle": "hdd03da64g74afg4194gbec7gdf21b3b34ad1",
+        "name_handle": "hc563d287g41e4g455cg9120gb94ce082e78b",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_CrownOfMadness_6": {
+        "uuid": "ba5dfe39-2763-44b9-914d-990897e4cb70",
+        "spell_name": "CrownOfMadness_6",
+        "craft_handle": "h40a5be3dge9aeg4b39g94bbg92a25f209739",
+        "name_handle": "hb939a348g5969g466cg995dg6e6a1363aef0",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_Darkness": {
+        "uuid": "1c954179-48af-4b22-81e9-5cfb0347c3c8",
+        "spell_name": "Darkness",
+        "craft_handle": "h66f60dddga93cg4d1fga8efg6a9f6f921ca8",
+        "name_handle": "h7f68ce58g1d0ag40cdg9300g34a5283ea840",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Target_Darkness_3": {
+        "uuid": "124a1eca-c765-43f5-934f-4a3f54ac4d7a",
+        "spell_name": "Darkness_3",
+        "craft_handle": "h1d135725gc423g4f4ega5dbg6b0f26eb5a27",
+        "name_handle": "h4f227543g6a27g42c5g95cegaac83c7d4972",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Target_Darkness_4": {
+        "uuid": "478f606b-660f-4d69-b673-430802e29def",
+        "spell_name": "Darkness_4",
+        "craft_handle": "h90ffd18dga00bg4a54g94c8g6613abbd67b4",
+        "name_handle": "h52daddc0g1775g46f7g8a81ge44a61727337",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Target_Darkness_5": {
+        "uuid": "e8302fed-b8d8-4837-bb18-9760c78cba27",
+        "spell_name": "Darkness_5",
+        "craft_handle": "h8438557ag7dbcg4a34g8171g8ab675870861",
+        "name_handle": "h5aa0fac0g63bcg4623g8af6g6a721b848693",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Target_Darkness_6": {
+        "uuid": "a7d56c07-de0d-4f04-b143-09be2d139c90",
+        "spell_name": "Darkness_6",
+        "craft_handle": "h2106569bge8ebg41e6g877bgdac235f05961",
+        "name_handle": "h51217cceg51ebg4192g857agc84e0b8aa550",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Target_Darkvision": {
+        "uuid": "c3d4b732-02f4-4a62-abed-d2f4be927896",
+        "spell_name": "Darkvision",
+        "craft_handle": "h24e38231gb88dg45b0g9f54g0b3e27d1c5a7",
+        "name_handle": "hc25816dfg3932g4e75g9c12g51226d897992",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Darkvision_3": {
+        "uuid": "528f315f-d496-401d-819c-f870057bfb1c",
+        "spell_name": "Darkvision_3",
+        "craft_handle": "h171ac3c7gbf4bg4af2g8081g3b1fc3dccdf3",
+        "name_handle": "hc0a4861eg3cabg402dg9969g9f33e03215b6",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Darkvision_4": {
+        "uuid": "4531ac92-84cc-4462-8156-e92bc1baa1b0",
+        "spell_name": "Darkvision_4",
+        "craft_handle": "hf2a59f41ge8c6g4d24g8b19gcc83392a2bd1",
+        "name_handle": "h2152b797g0515g4ae2ga819g4eda67ef0097",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Darkvision_5": {
+        "uuid": "b3fc2f75-ab29-43be-b5b4-a5c36ddfbe7e",
+        "spell_name": "Darkvision_5",
+        "craft_handle": "h4995e04ege1e1g4e51g84e1g883b04e9de57",
+        "name_handle": "h45fd0961g56f0g4b8bgb7cdg9dac9dae31f1",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Darkvision_6": {
+        "uuid": "ed414c03-447b-4096-a59e-f9e251169164",
+        "spell_name": "Darkvision_6",
+        "craft_handle": "h34213d51g6ae8g4978g94f4gd8492e2ea3d2",
+        "name_handle": "hfacb3161g5b8ag4dceg8cc1ge360237df06f",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_EnlargeReduce": {
+        "uuid": "9fe498ce-852a-4982-a38a-f4216ec10d57",
+        "spell_name": "EnlargeReduce",
+        "craft_handle": "h069283a2gfd63g4eedgb45cg58007d21cbdc",
+        "name_handle": "h48f3f10eg5d5dg418fgb118g6aae5b34971a",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_FlamingSphere": {
+        "uuid": "0971c3b8-a157-43f2-b0d4-b9539f0d98a7",
+        "spell_name": "FlamingSphere",
+        "craft_handle": "h05166f17g886dg46bfgad76g3bb02a2378fd",
+        "name_handle": "h8e25dc76gca33g486aga4d2g0556c8c66697",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_FlamingSphere_3": {
+        "uuid": "54b392a2-cfd7-4132-b902-0229a6218d03",
+        "spell_name": "FlamingSphere_3",
+        "craft_handle": "h9fde455eg22a1g430ag94d7gebd1e5ff6c88",
+        "name_handle": "h9b7ef547g6087g4987g9af9ge01a0da192be",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_FlamingSphere_4": {
+        "uuid": "ba0585df-31a7-416a-be1a-3454616d1b9a",
+        "spell_name": "FlamingSphere_4",
+        "craft_handle": "hf6814c98g85dfg44b7gbecfgc2c48dafefbe",
+        "name_handle": "h7906afb6gbed3g4856g8e94g469ca1afcba7",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_FlamingSphere_5": {
+        "uuid": "86872dce-2c73-4e7e-9c5b-8ce902c10fb2",
+        "spell_name": "FlamingSphere_5",
+        "craft_handle": "h394d1252g6615g421fga429g496ff515fb7f",
+        "name_handle": "ha8563ae8g6393g4f9agbf0ega4a961cf3006",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_FlamingSphere_6": {
+        "uuid": "92dc8d3e-4188-463a-87c9-f1b3a5c77393",
+        "spell_name": "FlamingSphere_6",
+        "craft_handle": "hca0ec05fgd5f3g4808g9515g68fe36b7445d",
+        "name_handle": "h8a579246gb0e3g425cg98e9g19cba217854b",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_HoldPerson": {
+        "uuid": "8bc17dd3-20c6-43fb-932d-656aac41a8ca",
+        "spell_name": "HoldPerson",
+        "craft_handle": "heeb8fe51g46b4g41adga6aeg3ad4d7ca6615",
+        "name_handle": "hb5402e4dg3df4g48c6g94a6g1852951d88b5",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_HoldPerson_3": {
+        "uuid": "848e3074-6d9b-4614-8ee2-56fc7030e56c",
+        "spell_name": "HoldPerson_3",
+        "craft_handle": "h6ae8d205g5b0ag4dbcg8325g4259722da85b",
+        "name_handle": "h7bf9762eg5850g4664gbf74gd66171759bd4",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_HoldPerson_4": {
+        "uuid": "2c0c0468-1612-4c70-a4f1-4657cb0a052b",
+        "spell_name": "HoldPerson_4",
+        "craft_handle": "hb48fea92g3dd4g4706g92d5g7d2e63396ff9",
+        "name_handle": "h13861946g405fg4a4dga737g0707d1677734",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_HoldPerson_5": {
+        "uuid": "c97e28de-1ed5-4758-aafb-403c744d8ece",
+        "spell_name": "HoldPerson_5",
+        "craft_handle": "hfc0ebb8fg50dbg4ac7g8c17g44c356105f03",
+        "name_handle": "h2d291602g9fd1g472dga86ag53261294d97e",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_HoldPerson_6": {
+        "uuid": "a090e04e-e000-48f6-a853-fc34179251be",
+        "spell_name": "HoldPerson_6",
+        "craft_handle": "h95bfe138g3aa4g417dgb5f4gf7b4eeac3fb4",
+        "name_handle": "h2d6a76e1g2648g43f0gb51dg7fd20c52fdc8",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Enchantment",
+        "craft_icon": "FFT_Icon_CarveRune_Enchantment"
+    },
+    "Target_Invisibility": {
+        "uuid": "eb4b8afe-edc6-4247-a785-528f1c90066f",
+        "spell_name": "Invisibility",
+        "craft_handle": "h20d6088dg5224g4f81g9e19gcf9502be3e43",
+        "name_handle": "h3e0bb8dbg442ag44f6g995dg1a9de9458511",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Target_Invisibility_3": {
+        "uuid": "010e76c2-74a9-4f24-8bc2-6838d584f6c9",
+        "spell_name": "Invisibility_3",
+        "craft_handle": "hf09dae2bgb90ag4f48g8f81ga542034ede51",
+        "name_handle": "h7385bd54g4e83g4d97ga32ag369ad6bc29d1",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Target_Invisibility_4": {
+        "uuid": "f8727179-118c-4c30-8faf-bb5e04a15eb0",
+        "spell_name": "Invisibility_4",
+        "craft_handle": "hb33a6d3cg87f8g47fbg8519g4bc1a2fccec5",
+        "name_handle": "h02cc87ddg8abbg4330g8c83gc2ec2f63123e",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Target_Invisibility_5": {
+        "uuid": "b30e8b33-9073-48a6-b0c1-1a2441d9f61d",
+        "spell_name": "Invisibility_5",
+        "craft_handle": "ha519bfacg32feg42d0gb446gf687e0985615",
+        "name_handle": "h61d9cbcbgac2eg4799g8e50gfd825168ebef",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Target_Invisibility_6": {
+        "uuid": "4183f68e-b921-4f84-ad0e-d37c94994860",
+        "spell_name": "Invisibility_6",
+        "craft_handle": "hf56abd78g28d8g4304gb12ag14de37eda415",
+        "name_handle": "h67988a36g4be8g415bg8cefgd9f033b5fcad",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Target_Knock": {
+        "uuid": "ec6bee91-8b1c-462c-ab3d-9847607c8ab0",
+        "spell_name": "Knock",
+        "craft_handle": "h3070aa44g8751g417fg858cg94933dfe4f32",
+        "name_handle": "h47284528gcffag40e8g9a92g14377ee06c9d",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Knock_3": {
+        "uuid": "5523e239-463b-4bab-8d3c-ca78cbf93532",
+        "spell_name": "Knock_3",
+        "craft_handle": "h1380b877g6b90g4de9g8aa4g987cf0e3cf8b",
+        "name_handle": "h302d6035g70dag4ae8g8aafg0166505c2087",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Knock_4": {
+        "uuid": "dba516a9-c66a-49c8-a859-59cd646412d7",
+        "spell_name": "Knock_4",
+        "craft_handle": "hb7a6757dgb4a3g4bf2gbb73ga2b04e319f17",
+        "name_handle": "h520754b5ga0f4g4c25gbdc5gfef6a1ea9f38",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Knock_5": {
+        "uuid": "780f2357-9180-4f75-84a3-cdcd4ca6bd35",
+        "spell_name": "Knock_5",
+        "craft_handle": "h4e779406g35b1g4fdeg83b4gbf33a9125cf9",
+        "name_handle": "h09041920gbe31g4ff2gaa42g7a4ecd2121dd",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_Knock_6": {
+        "uuid": "34cb44e5-1f10-40e2-ba32-9d6d5a3eaf7a",
+        "spell_name": "Knock_6",
+        "craft_handle": "h8464aa8cg25e4g4b44g839ag448066bfbe4e",
+        "name_handle": "hafec9ae4g16f0g47bcgbfd5gb54073783ef7",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_MagicWeapon": {
+        "uuid": "c46803a5-9348-44db-8c7b-cde6a2f78a39",
+        "spell_name": "MagicWeapon",
+        "craft_handle": "he7f21ef0g5564g4bc1g8375gb4e7a082c89a",
+        "name_handle": "h5e8ae92cgfde2g4591gb064ge41ff8d4ccd9",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_MagicWeapon_3": {
+        "uuid": "c82f5bfb-6e01-4765-aba9-15d77afdca3f",
+        "spell_name": "MagicWeapon_3",
+        "craft_handle": "hbc78ae89g3111g458agb69ag346b26a17225",
+        "name_handle": "h1ae45955g97e5g4697ga36ag882a5688d482",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_MagicWeapon_4": {
+        "uuid": "6f89d6ec-6f09-4c79-bd55-63a20d84c168",
+        "spell_name": "MagicWeapon_4",
+        "craft_handle": "h4aba8476gcf51g447cg8fa2gd6883bf66f46",
+        "name_handle": "hd13832e6g5d00g46f5g983dgf1ae33036aa1",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_MagicWeapon_5": {
+        "uuid": "f3bf51da-8212-4728-8f75-6750464e1f27",
+        "spell_name": "MagicWeapon_5",
+        "craft_handle": "h0d64ea3egd7fcg4abagac83ga6fe57d60132",
+        "name_handle": "hd128d837g6bebg4debgb267gbe3b03ffdcca",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_MagicWeapon_6": {
+        "uuid": "7c1dbe56-dd21-41f2-bb0d-c31f8ba0bee5",
+        "spell_name": "MagicWeapon_6",
+        "craft_handle": "hc9045f65gdd48g4313g81b9ge7f215b8169b",
+        "name_handle": "hcb9aa700g8fb4g4f8fgb60dg400b99658bf2",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Transmutation",
+        "craft_icon": "FFT_Icon_CarveRune_Transmutation"
+    },
+    "Target_MistyStep": {
+        "uuid": "49ba99cb-4afc-4165-be2f-0cd73b5db436",
+        "spell_name": "MistyStep",
+        "craft_handle": "hd2d067b1g820ag4556g8404g681b5c5fc474",
+        "name_handle": "hc5492648gd7cfg4581g81beg267090789f48",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_MistyStep_3": {
+        "uuid": "2cb102cf-13e3-41e8-a171-11d1ab98c7ed",
+        "spell_name": "MistyStep_3",
+        "craft_handle": "h8f518135gcfcdg4f32gbec0gf0e5d7fe12ed",
+        "name_handle": "he0fd6e6bg5839g4249gab90g0ebe4d9b0c7c",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_MistyStep_4": {
+        "uuid": "f56b762f-ea1a-447c-bc4d-396222d99092",
+        "spell_name": "MistyStep_4",
+        "craft_handle": "h90378114g6dabg4f3bg8ec7g66530d9948d5",
+        "name_handle": "h8a6f1d16g6f8eg48e0g9b53g5c8e3e3ac955",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_MistyStep_5": {
+        "uuid": "6565a13f-0381-48a7-89b6-e3f4db61108e",
+        "spell_name": "MistyStep_5",
+        "craft_handle": "hb104a02fgcbfcg4ed8g9824g3d3a2d27e629",
+        "name_handle": "hf2f0adbfg4bb1g4e34g955egc0553a9fb551",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_MistyStep_6": {
+        "uuid": "031b7b39-290e-4329-b7d4-116d829835da",
+        "spell_name": "MistyStep_6",
+        "craft_handle": "h67871a0cgdd21g4713g886bg98e7374eae19",
+        "name_handle": "ha8ff50d2g6bb1g49f5g8783g08189137fb1f",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_PhantasmalForce": {
+        "uuid": "0fdf96cd-6f2b-48ba-b07a-218b4dfc1059",
+        "spell_name": "PhantasmalForce",
+        "craft_handle": "h335cebdag6322g4b1cgbafbga09c5b8c5f02",
+        "name_handle": "h13261b4fge896g4387gbb63gf63bca62b50e",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Target_PhantasmalForce_3": {
+        "uuid": "ed5533c1-4332-483a-9226-e4415893f671",
+        "spell_name": "PhantasmalForce_3",
+        "craft_handle": "hd6dcc92fg8d3dg49fbgb91dg53a3514b5a9c",
+        "name_handle": "h961c6323g162dg42f7g967bg1ab3e725287a",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Target_PhantasmalForce_4": {
+        "uuid": "f05009df-095a-4548-9b80-a7b2a8be9988",
+        "spell_name": "PhantasmalForce_4",
+        "craft_handle": "h6e5be860g80bcg4ab1gbbe9g388c7cd23814",
+        "name_handle": "hc1a68c7cg5899g4ba9g8cb3g8c76e67898f4",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Target_PhantasmalForce_5": {
+        "uuid": "565a9141-18c7-46bd-a776-75befc10244e",
+        "spell_name": "PhantasmalForce_5",
+        "craft_handle": "he518f0cfge051g481ag89e6g28e288c7b072",
+        "name_handle": "h5bee1f38g4943g4365g8e23g847dacb81ea2",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Target_PhantasmalForce_6": {
+        "uuid": "9f44d5d0-9345-4162-bd48-8e7dbc579bf3",
+        "spell_name": "PhantasmalForce_6",
+        "craft_handle": "hd1ff1ae6g8466g4612gad67g7a79550a9eed",
+        "name_handle": "h6728a548g0d41g441agb62dg597dd775af9c",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Illusion",
+        "craft_icon": "FFT_Icon_CarveRune_Illusion"
+    },
+    "Target_Shatter": {
+        "uuid": "ecd662c1-6c96-4a30-b0a3-3e6de89a2b1f",
+        "spell_name": "Shatter",
+        "craft_handle": "h96c398a5g340eg4303gb1a6ga04cf8d920cd",
+        "name_handle": "h1c8c6087g4565g41dcg827dgcdb9717d0778",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Target_Shatter_3": {
+        "uuid": "0ba56787-6d7f-4752-9849-2265bde83442",
+        "spell_name": "Shatter_3",
+        "craft_handle": "h0b657f63gf704g4df4gab60g2276049e36d1",
+        "name_handle": "h74114d4dg994ag4a47gb42eg96a5b54bc97a",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Target_Shatter_4": {
+        "uuid": "125cc5e7-c81d-4ff6-a97f-61bc048e8c4f",
+        "spell_name": "Shatter_4",
+        "craft_handle": "h8b9548e2g17bbg448ag8900g74ada4f1350f",
+        "name_handle": "h8d54b7ccg63a2g42d7gb63ag19999d2034a7",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Target_Shatter_5": {
+        "uuid": "7c42f877-aa23-4992-84e5-42a7994214fd",
+        "spell_name": "Shatter_5",
+        "craft_handle": "hdc73de44g8f30g4044g8d8eg7a2c941c2a34",
+        "name_handle": "hc231a50fg6b16g4079gbe29ga08358336e93",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Target_Shatter_6": {
+        "uuid": "04ff75e8-7c89-4f70-be7a-ba777dec01d9",
+        "spell_name": "Shatter_6",
+        "craft_handle": "h97003c84g8e19g4546gbb77g34e89663206f",
+        "name_handle": "h9fa8ccc9gc80dg40ecg9d21gf2a5f8c04939",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Target_Web": {
+        "uuid": "55ae7d61-0268-4c81-83de-0065281cbf53",
+        "spell_name": "Web",
+        "craft_handle": "h3913e56egd799g47begb2c3g6ad71b2f4789",
+        "name_handle": "hc3acd47fg0fceg44a8ga317g0a6dafbd7594",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_Web_3": {
+        "uuid": "a554feeb-a0ba-42ea-b72d-8b4ec32c09b7",
+        "spell_name": "Web_3",
+        "craft_handle": "h546a6b75gab22g48e4gba80gfa1b9f183195",
+        "name_handle": "h21b6499bg9099g4a2eg884bgd63888d6b139",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_Web_4": {
+        "uuid": "97df6907-0034-4e15-a0ef-2c42b7e58087",
+        "spell_name": "Web_4",
+        "craft_handle": "h330f7332g4db9g471ega03eg57928c298f17",
+        "name_handle": "h70a42f2eg09eag443bg955fgbd84bf9c5dc9",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_Web_5": {
+        "uuid": "ee8250e6-85b7-44a9-bb54-a8a9bc022118",
+        "spell_name": "Web_5",
+        "craft_handle": "h6f595588g4c6cg40d3ga47eg44029429708d",
+        "name_handle": "h798b7a55g31eeg4b23g9fc0ge5ff91eec441",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Target_Web_6": {
+        "uuid": "3816ca9a-2eff-4cb2-b475-cfc6133ec844",
+        "spell_name": "Web_6",
+        "craft_handle": "h44636002gf0acg4825gaccaged4e3cba36b8",
+        "name_handle": "h250e6ddcge10fg4826g96a7gdf6113428276",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Conjuration",
+        "craft_icon": "FFT_Icon_CarveRune_Conjuration"
+    },
+    "Zone_GustOfWind": {
+        "uuid": "008bdfaf-0d89-4ff2-a261-3844f8c31266",
+        "spell_name": "GustOfWind",
+        "craft_handle": "h61812b51g21adg4c59g9e6cgc617751188c7",
+        "name_handle": "h057884e4g66ebg4cc0g8a2ag7069b699cb29",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Zone_GustOfWind_3": {
+        "uuid": "78d683de-da47-4a5b-87cf-fad0cef9211f",
+        "spell_name": "GustOfWind_3",
+        "craft_handle": "h242ba0efgbbd3g408bg8ff5g9c1f95f2b271",
+        "name_handle": "h708f4fd1gcb02g4b22ga573g73145738acc1",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Zone_GustOfWind_4": {
+        "uuid": "7e0f9e17-dddd-4745-8953-8c2fb27ed95d",
+        "spell_name": "GustOfWind_4",
+        "craft_handle": "h4dd40cc3ge4bdg4154ga68bgddc73bf13c6c",
+        "name_handle": "h8b7fd06eg6876g49ffgbaeeg5e27160f8819",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Zone_GustOfWind_5": {
+        "uuid": "d560c5b3-dc92-422d-bdd3-14ef5dac9682",
+        "spell_name": "GustOfWind_5",
+        "craft_handle": "hd0e6a110gf3d6g48e9g97a3gfc817b4ff37b",
+        "name_handle": "hd08d4a57g8165g4903g87c9g6b0e469c6977",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    },
+    "Zone_GustOfWind_6": {
+        "uuid": "3d02beba-0609-4332-8ae2-381a00425e5c",
+        "spell_name": "GustOfWind_6",
+        "craft_handle": "h91c3d242gcab4g4574gbc4bg761bd1819335",
+        "name_handle": "h79ed13b5g9890g4e93g960eg3da692d02e7b",
+        "description_handle": "hf6a98759g56ecg4f67ga178g2755251aaca0",
+        "icon": "FFT_Icon_Rune_Evocation",
+        "craft_icon": "FFT_Icon_CarveRune_Evocation"
+    }
+}

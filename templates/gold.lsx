@@ -8,9 +8,9 @@
 					<attribute id="MapKey" type="FixedString" value="1c3c9c74-34a1-4685-989e-410dc080be6f" />
 					<attribute id="Name" type="LSString" value="LOOT_Gold_A" />
 					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="ReadinessFlags" type="uint32" value="152" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="ParentTemplateId" type="FixedString" value="c9e45e5a-f089-480b-ab3a-7f5f76dccc3b" />
-					<attribute id="ReadinessFlags" type="uint32" value="152" />
 					<attribute id="VisualTemplate" type="FixedString" value="2a50ed5c-e9e8-2b97-7723-c74b58a0f841" />
 					<attribute id="PhysicsTemplate" type="FixedString" value="317686ab-7144-51ab-1242-e34dd52579cb" />
 					<attribute id="CastShadow" type="bool" value="False" />

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+<version major="4" minor="0" revision="9" build="307"/>
+<region id="PassiveLists">
+<node id="root">
+<children>
+<node id="PassiveList">
+<attribute id="Passives" type="LSString" value="FFT_Passive_RuneCarving_IceKnife,FFT_Passive_RuneCarving_MagicMissile,FFT_Passive_RuneCarving_RayOfSickness,FFT_Passive_RuneCarving_WitchBolt,FFT_Passive_RuneCarving_DisguiseSelf,FFT_Passive_RuneCarving_ExpeditiousRetreat,FFT_Passive_RuneCarving_FalseLife,FFT_Passive_RuneCarving_FeatherFall,FFT_Passive_RuneCarving_Shield_Wizard,FFT_Passive_RuneCarving_CharmPerson,FFT_Passive_RuneCarving_FogCloud,FFT_Passive_RuneCarving_Grease,FFT_Passive_RuneCarving_HideousLaughter,FFT_Passive_RuneCarving_Jump,FFT_Passive_RuneCarving_Longstrider,FFT_Passive_RuneCarving_MageArmor,FFT_Passive_RuneCarving_ProtectionFromEvilAndGood,FFT_Passive_RuneCarving_Sleep,FFT_Passive_RuneCarving_BurningHands,FFT_Passive_RuneCarving_ColorSpray,FFT_Passive_RuneCarving_Thunderwave"/>
+<attribute id="UUID" type="guid" value="7e214b32-011c-449f-a4b2-3083b1cf3861"/>
+</node>
+</children>
+</node>
+</region>
+</save>
+

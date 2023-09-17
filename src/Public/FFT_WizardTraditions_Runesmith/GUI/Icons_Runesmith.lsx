@@ -60,57 +60,56 @@
                     <attribute id="V2" type="float" value="0.03125" />
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="FFT_Icon_RuneCarving_Abjuration" />
+                    <attribute id="MapKey" type="FixedString" value="FFT_Icon_RuneCarving" />
                     <attribute id="U1" type="float" value="0.0" />
                     <attribute id="U2" type="float" value="0.03125" />
                     <attribute id="V1" type="float" value="0.03125" />
                     <attribute id="V2" type="float" value="0.0625" />
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="FFT_Icon_RuneCarving_Conjuration" />
+                    <attribute id="MapKey" type="FixedString" value="FFT_Icon_WeaponEngraving" />
                     <attribute id="U1" type="float" value="0.03125" />
                     <attribute id="U2" type="float" value="0.0625" />
                     <attribute id="V1" type="float" value="0.03125" />
                     <attribute id="V2" type="float" value="0.0625" />
                 </node>
-                <!-- next row -->
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="FFT_Icon_RuneCarving_Divination" />
+                    <attribute id="MapKey" type="FixedString" value="FFT_Icon_RunicEmpowerment" />
                     <attribute id="U1" type="float" value="0.0625" />
                     <attribute id="U2" type="float" value="0.09375" />
                     <attribute id="V1" type="float" value="0.03125" />
                     <attribute id="V2" type="float" value="0.0625" />
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="FFT_Icon_RuneCarving_Enchantment" />
+                    <attribute id="MapKey" type="FixedString" value="FFT_Icon_ImprovedRuneCarving" />
                     <attribute id="U1" type="float" value="0.09375" />
                     <attribute id="U2" type="float" value="0.125" />
                     <attribute id="V1" type="float" value="0.03125" />
                     <attribute id="V2" type="float" value="0.0625" />
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="FFT_Icon_RuneCarving_Evocation" />
+                    <attribute id="MapKey" type="FixedString" value="FFT_Icon_1" />
                     <attribute id="U1" type="float" value="0.125" />
                     <attribute id="U2" type="float" value="0.15625" />
                     <attribute id="V1" type="float" value="0.03125" />
                     <attribute id="V2" type="float" value="0.0625" />
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="FFT_Icon_RuneCarving_Illusion" />
+                    <attribute id="MapKey" type="FixedString" value="FFT_Icon_2" />
                     <attribute id="U1" type="float" value="0.0" />
                     <attribute id="U2" type="float" value="0.03125" />
                     <attribute id="V1" type="float" value="0.03125" />
                     <attribute id="V2" type="float" value="0.0625" />
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="FFT_Icon_RuneCarving_Necromancy" />
+                    <attribute id="MapKey" type="FixedString" value="FFT_Icon_3" />
                     <attribute id="U1" type="float" value="0.15625" />
                     <attribute id="U2" type="float" value="0.1875" />
                     <attribute id="V1" type="float" value="0.03125" />
                     <attribute id="V2" type="float" value="0.0625" />
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="FFT_Icon_RuneCarving_Transmutation" />
+                    <attribute id="MapKey" type="FixedString" value="FFT_Icon_4" />
                     <attribute id="U1" type="float" value="0.1875" />
                     <attribute id="U2" type="float" value="0.21875" />
                     <attribute id="V1" type="float" value="0.03125" />
