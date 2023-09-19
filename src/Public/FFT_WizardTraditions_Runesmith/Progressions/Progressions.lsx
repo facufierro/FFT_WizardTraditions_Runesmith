@@ -1,179 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-<version major="4" minor="0" revision="9" build="330"/>
-<region id="Progressions">
-<node id="root">
-<children>
-<node id="Progression">
-<attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1)"/>
-<attribute id="Level" type="uint8" value="2"/>
-<attribute id="Name" type="LSString" value="Wizard"/>
-<attribute id="ProgressionType" type="uint8" value="0"/>
-<attribute id="TableUUID" type="guid" value="d18eda7e-4b7d-490d-9952-cd33a3c60479"/>
-<attribute id="UUID" type="guid" value="d6184c47-5b99-4e63-95ac-02f8ce4ccda1"/>
-<children>
-<node id="SubClasses">
-<children>
-<!-- Abjuration School ID -->
-<node id="SubClass">
-<attribute id="Object" type="guid" value="e6a0eb75-7a01-4f40-8563-24ba2615e99b"/>
-</node>
-<!-- Conjuration School ID -->
-<node id="SubClass">
-<attribute id="Object" type="guid" value="c059dca1-c17d-4dce-8260-83ede5070eac"/>
-</node>
-<!-- Divination School ID -->
-<node id="SubClass">
-<attribute id="Object" type="guid" value="fbb8347b-20e3-4846-ba91-0552cd12fc5f"/>
-</node>
-<!-- Enchantment School ID -->
-<node id="SubClass">
-<attribute id="Object" type="guid" value="7a3feb8d-dda7-46ec-9029-1f302f537432"/>
-</node>
-<!-- Evocation School ID -->
-<node id="SubClass">
-<attribute id="Object" type="guid" value="46d31950-6917-444e-ac87-706702825215"/>
-</node>
-<!-- Illusion School ID -->
-<node id="SubClass">
-<attribute id="Object" type="guid" value="7577b0e1-a517-4f82-8f72-05a227dc5e88"/>
-</node>
-<!-- Necromancy School ID -->
-<node id="SubClass">
-<attribute id="Object" type="guid" value="436c9e1a-3a39-48dd-b753-7cee1bd19c00"/>
-</node>
-<!-- Transmutation School ID -->
-<node id="SubClass">
-<attribute id="Object" type="guid" value="a12f2924-30b4-4185-9db9-2c5b383ff449"/>
-</node>
-<!-- Runesmith School ID -->
-<node id="SubClass">
-<attribute id="Object" type="guid" value="440bfc05-aba4-4b25-a577-172acf5cf0a9"/>
-</node>
-</children>
-</node>
-</children>
-</node>
-<!-- Runesmith -->
-<node id="Progression">
-<attribute id="UUID" type="guid" value="08fec060-01ad-4e48-8786-f6f9df3ae69c"/>
-<attribute id="Name" type="LSString" value="Runesmith"/>
-<attribute id="Level" type="uint8" value="2"/>
-<attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
-<attribute id="ProgressionType" type="uint8" value="1"/>
-<attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1);ActionResource(FFT_RuneCharge_IceKnife,5,0);ActionResource(FFT_RuneCharge_IceKnife_2,5,0);ActionResource(FFT_RuneCharge_IceKnife_3,5,0);ActionResource(FFT_RuneCharge_IceKnife_4,5,0);ActionResource(FFT_RuneCharge_IceKnife_5,5,0);ActionResource(FFT_RuneCharge_IceKnife_6,5,0);ActionResource(FFT_RuneCharge_MagicMissile,5,0);ActionResource(FFT_RuneCharge_MagicMissile_2,5,0);ActionResource(FFT_RuneCharge_MagicMissile_3,5,0);ActionResource(FFT_RuneCharge_MagicMissile_4,5,0);ActionResource(FFT_RuneCharge_MagicMissile_5,5,0);ActionResource(FFT_RuneCharge_MagicMissile_6,5,0);ActionResource(FFT_RuneCharge_RayOfSickness,5,0);ActionResource(FFT_RuneCharge_RayOfSickness_2,5,0);ActionResource(FFT_RuneCharge_RayOfSickness_3,5,0);ActionResource(FFT_RuneCharge_RayOfSickness_4,5,0);ActionResource(FFT_RuneCharge_RayOfSickness_5,5,0);ActionResource(FFT_RuneCharge_RayOfSickness_6,5,0);ActionResource(FFT_RuneCharge_WitchBolt,5,0);ActionResource(FFT_RuneCharge_WitchBolt_2,5,0);ActionResource(FFT_RuneCharge_WitchBolt_3,5,0);ActionResource(FFT_RuneCharge_WitchBolt_4,5,0);ActionResource(FFT_RuneCharge_WitchBolt_5,5,0);ActionResource(FFT_RuneCharge_WitchBolt_6,5,0);ActionResource(FFT_RuneCharge_DisguiseSelf,5,0);ActionResource(FFT_RuneCharge_ExpeditiousRetreat,5,0);ActionResource(FFT_RuneCharge_ExpeditiousRetreat_2,5,0);ActionResource(FFT_RuneCharge_ExpeditiousRetreat_3,5,0);ActionResource(FFT_RuneCharge_ExpeditiousRetreat_4,5,0);ActionResource(FFT_RuneCharge_ExpeditiousRetreat_5,5,0);ActionResource(FFT_RuneCharge_ExpeditiousRetreat_6,5,0);ActionResource(FFT_RuneCharge_FalseLife,5,0);ActionResource(FFT_RuneCharge_FalseLife_2,5,0);ActionResource(FFT_RuneCharge_FalseLife_3,5,0);ActionResource(FFT_RuneCharge_FalseLife_4,5,0);ActionResource(FFT_RuneCharge_FalseLife_5,5,0);ActionResource(FFT_RuneCharge_FalseLife_6,5,0);ActionResource(FFT_RuneCharge_FeatherFall,5,0);ActionResource(FFT_RuneCharge_FeatherFall_2,5,0);ActionResource(FFT_RuneCharge_FeatherFall_3,5,0);ActionResource(FFT_RuneCharge_Shield_Wizard,5,0);ActionResource(FFT_RuneCharge_Shield_Wizard_2,5,0);ActionResource(FFT_RuneCharge_Shield_Wizard_3,5,0);ActionResource(FFT_RuneCharge_Shield_Wizard_4,5,0);ActionResource(FFT_RuneCharge_Shield_Wizard_5,5,0);ActionResource(FFT_RuneCharge_Shield_Wizard_6,5,0);ActionResource(FFT_RuneCharge_CharmPerson,5,0);ActionResource(FFT_RuneCharge_CharmPerson_2,5,0);ActionResource(FFT_RuneCharge_CharmPerson_3,5,0);ActionResource(FFT_RuneCharge_CharmPerson_4,5,0);ActionResource(FFT_RuneCharge_CharmPerson_5,5,0);ActionResource(FFT_RuneCharge_CharmPerson_6,5,0);ActionResource(FFT_RuneCharge_FogCloud,5,0);ActionResource(FFT_RuneCharge_FogCloud_2,5,0);ActionResource(FFT_RuneCharge_FogCloud_3,5,0);ActionResource(FFT_RuneCharge_FogCloud_4,5,0);ActionResource(FFT_RuneCharge_FogCloud_5,5,0);ActionResource(FFT_RuneCharge_FogCloud_6,5,0);ActionResource(FFT_RuneCharge_Grease,5,0);ActionResource(FFT_RuneCharge_Grease_2,5,0);ActionResource(FFT_RuneCharge_Grease_3,5,0);ActionResource(FFT_RuneCharge_Grease_4,5,0);ActionResource(FFT_RuneCharge_Grease_5,5,0);ActionResource(FFT_RuneCharge_Grease_6,5,0);ActionResource(FFT_RuneCharge_HideousLaughter,5,0);ActionResource(FFT_RuneCharge_HideousLaughter_2,5,0);ActionResource(FFT_RuneCharge_HideousLaughter_3,5,0);ActionResource(FFT_RuneCharge_HideousLaughter_4,5,0);ActionResource(FFT_RuneCharge_HideousLaughter_5,5,0);ActionResource(FFT_RuneCharge_HideousLaughter_6,5,0);ActionResource(FFT_RuneCharge_Jump,5,0);ActionResource(FFT_RuneCharge_Jump_2,5,0);ActionResource(FFT_RuneCharge_Jump_3,5,0);ActionResource(FFT_RuneCharge_Jump_4,5,0);ActionResource(FFT_RuneCharge_Jump_5,5,0);ActionResource(FFT_RuneCharge_Jump_6,5,0);ActionResource(FFT_RuneCharge_Longstrider,5,0);ActionResource(FFT_RuneCharge_Longstrider_2,5,0);ActionResource(FFT_RuneCharge_Longstrider_3,5,0);ActionResource(FFT_RuneCharge_Longstrider_4,5,0);ActionResource(FFT_RuneCharge_Longstrider_5,5,0);ActionResource(FFT_RuneCharge_Longstrider_6,5,0);ActionResource(FFT_RuneCharge_MageArmor,5,0);ActionResource(FFT_RuneCharge_MageArmor_2,5,0);ActionResource(FFT_RuneCharge_MageArmor_3,5,0);ActionResource(FFT_RuneCharge_MageArmor_4,5,0);ActionResource(FFT_RuneCharge_MageArmor_5,5,0);ActionResource(FFT_RuneCharge_MageArmor_6,5,0);ActionResource(FFT_RuneCharge_ProtectionFromEvilAndGood,5,0);ActionResource(FFT_RuneCharge_ProtectionFromEvilAndGood_2,5,0);ActionResource(FFT_RuneCharge_ProtectionFromEvilAndGood_3,5,0);ActionResource(FFT_RuneCharge_ProtectionFromEvilAndGood_4,5,0);ActionResource(FFT_RuneCharge_ProtectionFromEvilAndGood_5,5,0);ActionResource(FFT_RuneCharge_ProtectionFromEvilAndGood_6,5,0);ActionResource(FFT_RuneCharge_Sleep,5,0);ActionResource(FFT_RuneCharge_Sleep_2,5,0);ActionResource(FFT_RuneCharge_Sleep_3,5,0);ActionResource(FFT_RuneCharge_Sleep_4,5,0);ActionResource(FFT_RuneCharge_Sleep_5,5,0);ActionResource(FFT_RuneCharge_Sleep_6,5,0);ActionResource(FFT_RuneCharge_BurningHands,5,0);ActionResource(FFT_RuneCharge_BurningHands_2,5,0);ActionResource(FFT_RuneCharge_BurningHands_3,5,0);ActionResource(FFT_RuneCharge_BurningHands_4,5,0);ActionResource(FFT_RuneCharge_BurningHands_5,5,0);ActionResource(FFT_RuneCharge_BurningHands_6,5,0);ActionResource(FFT_RuneCharge_ColorSpray,5,0);ActionResource(FFT_RuneCharge_ColorSpray_2,5,0);ActionResource(FFT_RuneCharge_ColorSpray_3,5,0);ActionResource(FFT_RuneCharge_ColorSpray_4,5,0);ActionResource(FFT_RuneCharge_ColorSpray_5,5,0);ActionResource(FFT_RuneCharge_ColorSpray_6,5,0);ActionResource(FFT_RuneCharge_Thunderwave,5,0);ActionResource(FFT_RuneCharge_Thunderwave_2,5,0);ActionResource(FFT_RuneCharge_Thunderwave_3,5,0);ActionResource(FFT_RuneCharge_Thunderwave_4,5,0);ActionResource(FFT_RuneCharge_Thunderwave_5,5,0);ActionResource(FFT_RuneCharge_Thunderwave_6,5,0);ActionResource(FFT_RuneCharge_AcidArrow,5,0);ActionResource(FFT_RuneCharge_AcidArrow_3,5,0);ActionResource(FFT_RuneCharge_AcidArrow_4,5,0);ActionResource(FFT_RuneCharge_AcidArrow_5,5,0);ActionResource(FFT_RuneCharge_AcidArrow_6,5,0);ActionResource(FFT_RuneCharge_RayOfEnfeeblement,5,0);ActionResource(FFT_RuneCharge_RayOfEnfeeblement_3,5,0);ActionResource(FFT_RuneCharge_RayOfEnfeeblement_4,5,0);ActionResource(FFT_RuneCharge_RayOfEnfeeblement_5,5,0);ActionResource(FFT_RuneCharge_RayOfEnfeeblement_6,5,0);ActionResource(FFT_RuneCharge_ScorchingRay,5,0);ActionResource(FFT_RuneCharge_ScorchingRay_3,5,0);ActionResource(FFT_RuneCharge_ScorchingRay_4,5,0);ActionResource(FFT_RuneCharge_ScorchingRay_5,5,0);ActionResource(FFT_RuneCharge_ScorchingRay_6,5,0);ActionResource(FFT_RuneCharge_Blur,5,0);ActionResource(FFT_RuneCharge_Blur_3,5,0);ActionResource(FFT_RuneCharge_Blur_4,5,0);ActionResource(FFT_RuneCharge_Blur_5,5,0);ActionResource(FFT_RuneCharge_Blur_6,5,0);ActionResource(FFT_RuneCharge_DetectThoughts,5,0);ActionResource(FFT_RuneCharge_DetectThoughts_3,5,0);ActionResource(FFT_RuneCharge_DetectThoughts_4,5,0);ActionResource(FFT_RuneCharge_DetectThoughts_5,5,0);ActionResource(FFT_RuneCharge_DetectThoughts_6,5,0);ActionResource(FFT_RuneCharge_MirrorImage,5,0);ActionResource(FFT_RuneCharge_MirrorImage_3,5,0);ActionResource(FFT_RuneCharge_MirrorImage_4,5,0);ActionResource(FFT_RuneCharge_MirrorImage_5,5,0);ActionResource(FFT_RuneCharge_MirrorImage_6,5,0);ActionResource(FFT_RuneCharge_SeeInvisibility,5,0);ActionResource(FFT_RuneCharge_SeeInvisibility_3,5,0);ActionResource(FFT_RuneCharge_SeeInvisibility_4,5,0);ActionResource(FFT_RuneCharge_SeeInvisibility_5,5,0);ActionResource(FFT_RuneCharge_SeeInvisibility_6,5,0);ActionResource(FFT_RuneCharge_ArcaneLock,5,0);ActionResource(FFT_RuneCharge_ArcaneLock_3,5,0);ActionResource(FFT_RuneCharge_ArcaneLock_4,5,0);ActionResource(FFT_RuneCharge_ArcaneLock_5,5,0);ActionResource(FFT_RuneCharge_ArcaneLock_6,5,0);ActionResource(FFT_RuneCharge_Blindness,5,0);ActionResource(FFT_RuneCharge_Blindness_3,5,0);ActionResource(FFT_RuneCharge_Blindness_4,5,0);ActionResource(FFT_RuneCharge_Blindness_5,5,0);ActionResource(FFT_RuneCharge_Blindness_6,5,0);ActionResource(FFT_RuneCharge_CloudOfDaggers,5,0);ActionResource(FFT_RuneCharge_CloudOfDaggers_3,5,0);ActionResource(FFT_RuneCharge_CloudOfDaggers_4,5,0);ActionResource(FFT_RuneCharge_CloudOfDaggers_5,5,0);ActionResource(FFT_RuneCharge_CloudOfDaggers_6,5,0);ActionResource(FFT_RuneCharge_CrownOfMadness,5,0);ActionResource(FFT_RuneCharge_CrownOfMadness_3,5,0);ActionResource(FFT_RuneCharge_CrownOfMadness_4,5,0);ActionResource(FFT_RuneCharge_CrownOfMadness_5,5,0);ActionResource(FFT_RuneCharge_CrownOfMadness_6,5,0);ActionResource(FFT_RuneCharge_Darkness,5,0);ActionResource(FFT_RuneCharge_Darkness_3,5,0);ActionResource(FFT_RuneCharge_Darkness_4,5,0);ActionResource(FFT_RuneCharge_Darkness_5,5,0);ActionResource(FFT_RuneCharge_Darkness_6,5,0);ActionResource(FFT_RuneCharge_Darkvision,5,0);ActionResource(FFT_RuneCharge_Darkvision_3,5,0);ActionResource(FFT_RuneCharge_Darkvision_4,5,0);ActionResource(FFT_RuneCharge_Darkvision_5,5,0);ActionResource(FFT_RuneCharge_Darkvision_6,5,0);ActionResource(FFT_RuneCharge_EnlargeReduce,5,0);ActionResource(FFT_RuneCharge_FlamingSphere,5,0);ActionResource(FFT_RuneCharge_FlamingSphere_3,5,0);ActionResource(FFT_RuneCharge_FlamingSphere_4,5,0);ActionResource(FFT_RuneCharge_FlamingSphere_5,5,0);ActionResource(FFT_RuneCharge_FlamingSphere_6,5,0);ActionResource(FFT_RuneCharge_HoldPerson,5,0);ActionResource(FFT_RuneCharge_HoldPerson_3,5,0);ActionResource(FFT_RuneCharge_HoldPerson_4,5,0);ActionResource(FFT_RuneCharge_HoldPerson_5,5,0);ActionResource(FFT_RuneCharge_HoldPerson_6,5,0);ActionResource(FFT_RuneCharge_Invisibility,5,0);ActionResource(FFT_RuneCharge_Invisibility_3,5,0);ActionResource(FFT_RuneCharge_Invisibility_4,5,0);ActionResource(FFT_RuneCharge_Invisibility_5,5,0);ActionResource(FFT_RuneCharge_Invisibility_6,5,0);ActionResource(FFT_RuneCharge_Knock,5,0);ActionResource(FFT_RuneCharge_Knock_3,5,0);ActionResource(FFT_RuneCharge_Knock_4,5,0);ActionResource(FFT_RuneCharge_Knock_5,5,0);ActionResource(FFT_RuneCharge_Knock_6,5,0);ActionResource(FFT_RuneCharge_MagicWeapon,5,0);ActionResource(FFT_RuneCharge_MagicWeapon_3,5,0);ActionResource(FFT_RuneCharge_MagicWeapon_4,5,0);ActionResource(FFT_RuneCharge_MagicWeapon_5,5,0);ActionResource(FFT_RuneCharge_MagicWeapon_6,5,0);ActionResource(FFT_RuneCharge_MistyStep,5,0);ActionResource(FFT_RuneCharge_MistyStep_3,5,0);ActionResource(FFT_RuneCharge_MistyStep_4,5,0);ActionResource(FFT_RuneCharge_MistyStep_5,5,0);ActionResource(FFT_RuneCharge_MistyStep_6,5,0);ActionResource(FFT_RuneCharge_PhantasmalForce,5,0);ActionResource(FFT_RuneCharge_PhantasmalForce_3,5,0);ActionResource(FFT_RuneCharge_PhantasmalForce_4,5,0);ActionResource(FFT_RuneCharge_PhantasmalForce_5,5,0);ActionResource(FFT_RuneCharge_PhantasmalForce_6,5,0);ActionResource(FFT_RuneCharge_Shatter,5,0);ActionResource(FFT_RuneCharge_Shatter_3,5,0);ActionResource(FFT_RuneCharge_Shatter_4,5,0);ActionResource(FFT_RuneCharge_Shatter_5,5,0);ActionResource(FFT_RuneCharge_Shatter_6,5,0);ActionResource(FFT_RuneCharge_Web,5,0);ActionResource(FFT_RuneCharge_Web_3,5,0);ActionResource(FFT_RuneCharge_Web_4,5,0);ActionResource(FFT_RuneCharge_Web_5,5,0);ActionResource(FFT_RuneCharge_Web_6,5,0);ActionResource(FFT_RuneCharge_GustOfWind,5,0);ActionResource(FFT_RuneCharge_GustOfWind_3,5,0);ActionResource(FFT_RuneCharge_GustOfWind_4,5,0);ActionResource(FFT_RuneCharge_GustOfWind_5,5,0);ActionResource(FFT_RuneCharge_GustOfWind_6,5,0)"/>
-<attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/>
-<attribute id="PassivesRemoved" type="LSString" value=""/>
-<attribute id="Selectors" type="LSString" value="SelectSpells(11f331b0-e8b7-473b-9d1f-19e8e4178d7d,2,0);AddSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,,,,AlwaysPrepared)"/>
-</node>
-<node id="Progression">
-<attribute id="UUID" type="guid" value="5b7af857-b284-4d62-ab78-3b5b1953edd1"/>
-<attribute id="Name" type="LSString" value="Runesmith"/>
-<attribute id="Level" type="uint8" value="3"/>
-<attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
-<attribute id="ProgressionType" type="uint8" value="1"/>
-<attribute id="Boosts" type="LSString" value=""/>
-<attribute id="PassivesAdded" type="LSString" value=""/>
-<attribute id="PassivesRemoved" type="LSString" value=""/>
-<!-- <attribute id="Selectors" type="LSString" value="SelectSpells(80c6b070-c3a6-4864-84ca-e78626784eb4,2,0);SelectPassives(7e214b32-011c-449f-a4b2-3083b1cf3861,2,RuneCarving)"/> -->
-</node>
-<node id="Progression">
-<attribute id="UUID" type="guid" value="bd6015b2-0f2d-47ba-a076-4287949354a4"/>
-<attribute id="Name" type="LSString" value="Runesmith"/>
-<attribute id="Level" type="uint8" value="4"/>
-<attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
-<attribute id="ProgressionType" type="uint8" value="1"/>
-<attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1)"/>
-<attribute id="PassivesAdded" type="LSString" value=""/>
-<attribute id="PassivesRemoved" type="LSString" value=""/>
-<!-- <attribute id="Selectors" type="LSString" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,,,,AlwaysPrepared);SelectSpells(80c6b070-c3a6-4864-84ca-e78626784eb4,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving)"/> -->
-</node>
-<node id="Progression">
-<attribute id="UUID" type="guid" value="274b5de5-0d80-4839-a9af-b63a9daa30c9"/>
-<attribute id="Name" type="LSString" value="Runesmith"/>
-<attribute id="Level" type="uint8" value="5"/>
-<attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
-<attribute id="ProgressionType" type="uint8" value="1"/>
-<attribute id="Boosts" type="LSString" value=""/>
-<attribute id="PassivesAdded" type="LSString" value=""/>
-<attribute id="PassivesRemoved" type="LSString" value=""/>
-<!-- <attribute id="Selectors" type="LSString" value="SelectSpells(22755771-ca11-49f4-b772-13d8b8fecd93,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/> -->
-</node>
-<node id="Progression">
-<attribute id="UUID" type="guid" value="980169f9-2be4-4e5e-bbf2-840b95f2e619"/>
-<attribute id="Name" type="LSString" value="Runesmith"/>
-<attribute id="Level" type="uint8" value="6"/>
-<attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
-<attribute id="ProgressionType" type="uint8" value="1"/>
-<attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1)"/>
-<attribute id="PassivesAdded" type="LSString" value="FFT_Passive_RunicEmpowerment"/>
-<attribute id="PassivesRemoved" type="LSString" value=""/>
-<!-- <attribute id="Selectors" type="LSString" value="SelectSpells(22755771-ca11-49f4-b772-13d8b8fecd93,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/> -->
-</node>
-<node id="Progression">
-<attribute id="UUID" type="guid" value="d0f1eaf9-fa04-49b1-99fe-a701be50fbaa"/>
-<attribute id="Name" type="LSString" value="Runesmith"/>
-<attribute id="Level" type="uint8" value="7"/>
-<attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
-<attribute id="ProgressionType" type="uint8" value="1"/>
-<attribute id="Boosts" type="LSString" value=""/>
-<attribute id="PassivesAdded" type="LSString" value=""/>
-<attribute id="PassivesRemoved" type="LSString" value=""/>
-<!-- <attribute id="Selectors" type="LSString" value="SelectSpells(820b1220-0385-426d-ae15-458dc8a6f5c0,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/> -->
-</node>
-<node id="Progression">
-<attribute id="UUID" type="guid" value="f0fb5685-8133-4738-9eca-46ba52a29c06"/>
-<attribute id="Name" type="LSString" value="Runesmith"/>
-<attribute id="Level" type="uint8" value="8"/>
-<attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
-<attribute id="ProgressionType" type="uint8" value="1"/>
-<attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1)"/>
-<attribute id="PassivesAdded" type="LSString" value=""/>
-<attribute id="PassivesRemoved" type="LSString" value=""/>
-<!-- <attribute id="Selectors" type="LSString" value="SelectSpells(820b1220-0385-426d-ae15-458dc8a6f5c0,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/> -->
-</node>
-<node id="Progression">
-<attribute id="UUID" type="guid" value="cf6d63fc-d30b-4eb1-afdd-bef11c125a13"/>
-<attribute id="Name" type="LSString" value="Runesmith"/>
-<attribute id="Level" type="uint8" value="9"/>
-<attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
-<attribute id="Boosts" type="LSString" value=""/>
-<attribute id="ProgressionType" type="uint8" value="1"/>
-<attribute id="PassivesRemoved" type="LSString" value=""/>
-<!-- <attribute id="Selectors" type="LSString" value="SelectSpells(f781a25e-d288-43b4-bf5d-3d8d98846687,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/> -->
-</node>
-<node id="Progression">
-<attribute id="UUID" type="guid" value="520dcc68-98f5-476e-8c3c-06e0e452f423"/>
-<attribute id="Name" type="LSString" value="Runesmith"/>
-<attribute id="Level" type="uint8" value="10"/>
-<attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
-<attribute id="ProgressionType" type="uint8" value="1"/>
-<attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1);ActionResource(FFT_RunicImprovement,5,2);ActionResource(FFT_RunicImprovement,5,3);ActionResource(FFT_RunicImprovement,5,4);ActionResource(FFT_RunicImprovement,5,5);ActionResource(FFT_RunicImprovement,5,6)"/>
-<attribute id="PassivesRemoved" type="LSString" value=""/>
-<!-- <attribute id="Selectors" type="LSString" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,,,,AlwaysPrepared);SelectSpells(f781a25e-d288-43b4-bf5d-3d8d98846687,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/> -->
-</node>
-<node id="Progression">
-<attribute id="UUID" type="guid" value="520dcc68-98f5-476e-8c3c-06e0e452f423"/>
-<attribute id="Name" type="LSString" value="Runesmith"/>
-<attribute id="Level" type="uint8" value="11"/>
-<attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
-<attribute id="ProgressionType" type="uint8" value="1"/>
-<attribute id="Boosts" type="LSString" value=""/>
-<attribute id="PassivesRemoved" type="LSString" value=""/>
-<!-- <attribute id="Selectors" type="LSString" value="SelectSpells(bc917f22-7f71-4a25-9a77-7d2f91a96a65,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/> -->
-</node>
-<node id="Progression">
-<attribute id="UUID" type="guid" value="520dcc68-98f5-476e-8c3c-06e0e452f423"/>
-<attribute id="Name" type="LSString" value="Runesmith"/>
-<attribute id="Level" type="uint8" value="12"/>
-<attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
-<attribute id="ProgressionType" type="uint8" value="1"/>
-<attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,1);ActionResource(FFT_RunicImprovement,1,1);ActionResource(FFT_RunicImprovement,1,2);ActionResource(FFT_RunicImprovement,1,3);ActionResource(FFT_RunicImprovement,1,4);ActionResource(FFT_RunicImprovement,1,5);ActionResource(FFT_RunicImprovement,1,6)"/>
-<attribute id="PassivesRemoved" type="LSString" value=""/>
-<!-- <attribute id="Selectors" type="LSString" value="SelectSpells(bc917f22-7f71-4a25-9a77-7d2f91a96a65,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/> -->
-</node>
-</children>
-</node>
-</region>
+    <version major="4" minor="0" revision="9" build="330"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1)"/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="Wizard"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="d18eda7e-4b7d-490d-9952-cd33a3c60479"/>
+                    <attribute id="UUID" type="guid" value="d6184c47-5b99-4e63-95ac-02f8ce4ccda1"/>
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <!-- Abjuration School ID -->
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="e6a0eb75-7a01-4f40-8563-24ba2615e99b"/>
+                                </node>
+                                <!-- Conjuration School ID -->
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="c059dca1-c17d-4dce-8260-83ede5070eac"/>
+                                </node>
+                                <!-- Divination School ID -->
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="fbb8347b-20e3-4846-ba91-0552cd12fc5f"/>
+                                </node>
+                                <!-- Enchantment School ID -->
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="7a3feb8d-dda7-46ec-9029-1f302f537432"/>
+                                </node>
+                                <!-- Evocation School ID -->
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="46d31950-6917-444e-ac87-706702825215"/>
+                                </node>
+                                <!-- Illusion School ID -->
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="7577b0e1-a517-4f82-8f72-05a227dc5e88"/>
+                                </node>
+                                <!-- Necromancy School ID -->
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="436c9e1a-3a39-48dd-b753-7cee1bd19c00"/>
+                                </node>
+                                <!-- Transmutation School ID -->
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="a12f2924-30b4-4185-9db9-2c5b383ff449"/>
+                                </node>
+                                <!-- Runesmith School ID -->
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="440bfc05-aba4-4b25-a577-172acf5cf0a9"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <!-- Runesmith -->
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="08fec060-01ad-4e48-8786-f6f9df3ae69c"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,2,0);ActionResource(FFT_RunicImprovement,2,1)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(11f331b0-e8b7-473b-9d1f-19e8e4178d7d,2,0);AddSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,,,,AlwaysPrepared)"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="5b7af857-b284-4d62-ab78-3b5b1953edd1"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1)"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(80c6b070-c3a6-4864-84ca-e78626784eb4,2,0);SelectPassives(7e214b32-011c-449f-a4b2-3083b1cf3861,2,RuneCarving)"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="bd6015b2-0f2d-47ba-a076-4287949354a4"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_RuneCarving"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,,,,AlwaysPrepared);SelectSpells(80c6b070-c3a6-4864-84ca-e78626784eb4,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving)"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="274b5de5-0d80-4839-a9af-b63a9daa30c9"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1)"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(22755771-ca11-49f4-b772-13d8b8fecd93,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="980169f9-2be4-4e5e-bbf2-840b95f2e619"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_RunicEmpowerment"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(22755771-ca11-49f4-b772-13d8b8fecd93,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="d0f1eaf9-fa04-49b1-99fe-a701be50fbaa"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1)"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(820b1220-0385-426d-ae15-458dc8a6f5c0,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="f0fb5685-8133-4738-9eca-46ba52a29c06"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1)"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(820b1220-0385-426d-ae15-458dc8a6f5c0,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="cf6d63fc-d30b-4eb1-afdd-bef11c125a13"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1)"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f781a25e-d288-43b4-bf5d-3d8d98846687,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="c73c1031-5f12-4f8c-8f0b-5bfd6bcc7113"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_ImprovedRuneCarving"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1);ActionResource(FFT_RunicImprovement,10,2);ActionResource(FFT_RunicImprovement,10,3);ActionResource(FFT_RunicImprovement,10,4);ActionResource(FFT_RunicImprovement,10,5);ActionResource(FFT_RunicImprovement,10,6)"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f781a25e-d288-43b4-bf5d-3d8d98846687,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="6d3d8a6a-dc36-4876-9160-b6194368f0e1"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1);ActionResource(FFT_RunicImprovement,1,2);ActionResource(FFT_RunicImprovement,1,3);ActionResource(FFT_RunicImprovement,1,4);ActionResource(FFT_RunicImprovement,1,5);ActionResource(FFT_RunicImprovement,1,6)"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(bc917f22-7f71-4a25-9a77-7d2f91a96a65,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="c1ba0096-9450-41af-b0cc-53ae92e17af4"/>
+                    <attribute id="Name" type="LSString" value="Runesmith"/>
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1);ActionResource(FFT_RunicImprovement,1,2);ActionResource(FFT_RunicImprovement,1,3);ActionResource(FFT_RunicImprovement,1,4);ActionResource(FFT_RunicImprovement,1,5);ActionResource(FFT_RunicImprovement,1,6)"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(bc917f22-7f71-4a25-9a77-7d2f91a96a65,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/>
+                </node>
+            </children>
+        </node>
+    </region>
 </save>
 

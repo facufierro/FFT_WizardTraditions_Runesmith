@@ -8,7 +8,7 @@
 <!-- Engrave Weapon -->
 <content contentuid="h79246943g1798g4af3ga056gfa31520ade6f" version="1">Engrave Weapon</content>
 <content contentuid="h900117acg8ffbg4cdfgb5fcgf5d9c660b61c" version="1">You can engrave your weapon with a rune of power. The weapon will return to your hand if thrown and will use Intelligence instead of Strength or Dexterity for Attack Rolls and Damage Rolls.</content>
-<content contentuid="h2700e14fg41deg4634g81b7g609ce01a0edf" version="1">Magically Engraved Weapon</content>
+<content contentuid="h2700e14fg41deg4634g81b7g609ce01a0edf" version="1">Rune Engraved Weapon</content>
 <content contentuid="h7098edf3gd688g4c51g9ef8gd71a36a22f7d" version="1">This weapon will return to your hand if thrown and will use Intelligence instead of Strength or Dexterity for Attack Rolls and Damage Rolls.</content>
 <!-- Carve Rune -->
 <content contentuid="h9c014787g672bg4089ga987gf385af197b21" version="1">Rune Carving</content>
@@ -28,6 +28,7 @@
 <content contentuid="h8cdb64c8g3b43g45aaga6edge12d84291d27" version="1">Rune Mastery</content>
 <content contentuid="h905d93edg53f9g4e0eg8b1fg87fd909cfa69" version="1">Rune Mastery Description</content>
 <!-- Runes -->
+<content contentuid="h091eb332gb440g44c6gaea6g101824420327" version="1">Rune</content>
 <content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
 <content contentuid="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1">5 Uses</content>
 <!-- RuneNames -->

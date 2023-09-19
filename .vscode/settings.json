@@ -61,12 +61,12 @@
     },
     "python.formatting.provider": "none",
     "workbench.colorCustomizations": {
-        "commandCenter.border": "#e7e7e799",
-        "titleBar.activeBackground": "#786b04",
-        "titleBar.activeForeground": "#e7e7e7",
-        "titleBar.inactiveBackground": "#786b0499",
-        "titleBar.inactiveForeground": "#e7e7e799",
-        "sash.hoverBorder": "#a99706"
+        "commandCenter.border": "#15202b99",
+        "titleBar.activeBackground": "#dac308",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#dac30899",
+        "titleBar.inactiveForeground": "#15202b99",
+        "sash.hoverBorder": "#f7df1e"
     },
-    "peacock.color": "#786b04",
+    "peacock.color": "#dac308",
 }
