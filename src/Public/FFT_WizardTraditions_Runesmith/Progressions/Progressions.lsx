@@ -75,7 +75,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1)"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(80c6b070-c3a6-4864-84ca-e78626784eb4,2,0);SelectPassives(7e214b32-011c-449f-a4b2-3083b1cf3861,2,RuneCarving)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(80c6b070-c3a6-4864-84ca-e78626784eb4,2,0)"/>
                 </node>
                 <node id="Progression">
                     <attribute id="UUID" type="guid" value="bd6015b2-0f2d-47ba-a076-4287949354a4"/>
@@ -86,7 +86,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1)"/>
                     <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_RuneCarving"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,,,,AlwaysPrepared);SelectSpells(80c6b070-c3a6-4864-84ca-e78626784eb4,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,,,,AlwaysPrepared);SelectSpells(80c6b070-c3a6-4864-84ca-e78626784eb4,2,0)"/>
                 </node>
                 <node id="Progression">
                     <attribute id="UUID" type="guid" value="274b5de5-0d80-4839-a9af-b63a9daa30c9"/>
@@ -97,7 +97,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1)"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(22755771-ca11-49f4-b772-13d8b8fecd93,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(22755771-ca11-49f4-b772-13d8b8fecd93,2,0));AddSpells(f9ccb1d3-3f73-4979-aa4e-b1783399ee57,,,,AlwaysPrepared)"/>
                 </node>
                 <node id="Progression">
                     <attribute id="UUID" type="guid" value="980169f9-2be4-4e5e-bbf2-840b95f2e619"/>
@@ -108,7 +108,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1)"/>
                     <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_RunicEmpowerment"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(22755771-ca11-49f4-b772-13d8b8fecd93,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(22755771-ca11-49f4-b772-13d8b8fecd93,2,0))"/>
                 </node>
                 <node id="Progression">
                     <attribute id="UUID" type="guid" value="d0f1eaf9-fa04-49b1-99fe-a701be50fbaa"/>
@@ -119,7 +119,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1)"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(820b1220-0385-426d-ae15-458dc8a6f5c0,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(820b1220-0385-426d-ae15-458dc8a6f5c0,2,0))"/>
                 </node>
                 <node id="Progression">
                     <attribute id="UUID" type="guid" value="f0fb5685-8133-4738-9eca-46ba52a29c06"/>
@@ -130,7 +130,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1)"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(820b1220-0385-426d-ae15-458dc8a6f5c0,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(820b1220-0385-426d-ae15-458dc8a6f5c0,2,0))"/>
                 </node>
                 <node id="Progression">
                     <attribute id="UUID" type="guid" value="cf6d63fc-d30b-4eb1-afdd-bef11c125a13"/>
@@ -140,7 +140,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1)"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(f781a25e-d288-43b4-bf5d-3d8d98846687,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f781a25e-d288-43b4-bf5d-3d8d98846687,2,0))"/>
                 </node>
                 <node id="Progression">
                     <attribute id="UUID" type="guid" value="c73c1031-5f12-4f8c-8f0b-5bfd6bcc7113"/>
@@ -151,7 +151,7 @@
                     <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_ImprovedRuneCarving"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1);ActionResource(FFT_RunicImprovement,10,2);ActionResource(FFT_RunicImprovement,10,3);ActionResource(FFT_RunicImprovement,10,4);ActionResource(FFT_RunicImprovement,10,5);ActionResource(FFT_RunicImprovement,10,6)"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(f781a25e-d288-43b4-bf5d-3d8d98846687,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,,,,AlwaysPrepared);SelectSpells(f781a25e-d288-43b4-bf5d-3d8d98846687,2,0)    "/>
                 </node>
                 <node id="Progression">
                     <attribute id="UUID" type="guid" value="6d3d8a6a-dc36-4876-9160-b6194368f0e1"/>
@@ -161,7 +161,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1);ActionResource(FFT_RunicImprovement,1,2);ActionResource(FFT_RunicImprovement,1,3);ActionResource(FFT_RunicImprovement,1,4);ActionResource(FFT_RunicImprovement,1,5);ActionResource(FFT_RunicImprovement,1,6)"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(bc917f22-7f71-4a25-9a77-7d2f91a96a65,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(bc917f22-7f71-4a25-9a77-7d2f91a96a65,2,0))"/>
                 </node>
                 <node id="Progression">
                     <attribute id="UUID" type="guid" value="c1ba0096-9450-41af-b0cc-53ae92e17af4"/>
@@ -171,7 +171,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1);ActionResource(FFT_RunicImprovement,1,2);ActionResource(FFT_RunicImprovement,1,3);ActionResource(FFT_RunicImprovement,1,4);ActionResource(FFT_RunicImprovement,1,5);ActionResource(FFT_RunicImprovement,1,6)"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(bc917f22-7f71-4a25-9a77-7d2f91a96a65,2,0);SelectPassives(1fbc9fb4-1eaf-444c-849c-7ed940d12ca8,2,RuneCarving))"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(bc917f22-7f71-4a25-9a77-7d2f91a96a65,2,0))"/>
                 </node>
             </children>
         </node>
