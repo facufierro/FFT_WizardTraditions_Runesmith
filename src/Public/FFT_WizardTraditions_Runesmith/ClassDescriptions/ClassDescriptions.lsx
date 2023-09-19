@@ -20,6 +20,7 @@
                     <attribute id="SoundClassType" type="FixedString" value="Wizard"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="4"/>
                     <attribute id="UUID" type="guid" value="440bfc05-aba4-4b25-a577-172acf5cf0a9"/>
+                   
                 </node>
             </children>
         </node>

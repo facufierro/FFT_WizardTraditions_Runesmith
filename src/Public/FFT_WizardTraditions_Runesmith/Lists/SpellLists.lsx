@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-<version major="4" minor="0" revision="10" build="302"/>
-<region id="SpellLists">
-<node id="root">
-<children>
-<node id="SpellList">
-<attribute id="Comment" type="LSString" value="Runesmith Rune Carving"/>
-<attribute id="Spells" type="LSString" value="FFT_Shout_CarveRune_IceKnife;FFT_Shout_CarveRune_MagicMissile;FFT_Shout_CarveRune_RayOfSickness;FFT_Shout_CarveRune_WitchBolt;FFT_Shout_CarveRune_DisguiseSelf;FFT_Shout_CarveRune_ExpeditiousRetreat;FFT_Shout_CarveRune_FalseLife;FFT_Shout_CarveRune_FeatherFall;FFT_Shout_CarveRune_Shield_Wizard;FFT_Shout_CarveRune_CharmPerson;FFT_Shout_CarveRune_FogCloud;FFT_Shout_CarveRune_Grease;FFT_Shout_CarveRune_HideousLaughter;FFT_Shout_CarveRune_Jump;FFT_Shout_CarveRune_Longstrider;FFT_Shout_CarveRune_MageArmor;FFT_Shout_CarveRune_ProtectionFromEvilAndGood;FFT_Shout_CarveRune_Sleep;FFT_Shout_CarveRune_BurningHands;FFT_Shout_CarveRune_ColorSpray;FFT_Shout_CarveRune_Thunderwave"/>
-<attribute id="UUID" type="guid" value="ff1924f7-4561-4944-b3e9-c4ed54ba4406"/>
-</node>
-<node id="SpellList">
-<attribute id="Comment" type="LSString" value="Runesmith Rune Carving"/>
-<attribute id="Spells" type="LSString" value="FFT_Shout_CarveRune_IceKnife;FFT_Shout_CarveRune_MagicMissile;FFT_Shout_CarveRune_RayOfSickness;FFT_Shout_CarveRune_WitchBolt;FFT_Shout_CarveRune_DisguiseSelf;FFT_Shout_CarveRune_ExpeditiousRetreat;FFT_Shout_CarveRune_FalseLife;FFT_Shout_CarveRune_FeatherFall;FFT_Shout_CarveRune_Shield_Wizard;FFT_Shout_CarveRune_CharmPerson;FFT_Shout_CarveRune_FogCloud;FFT_Shout_CarveRune_Grease;FFT_Shout_CarveRune_HideousLaughter;FFT_Shout_CarveRune_Jump;FFT_Shout_CarveRune_Longstrider;FFT_Shout_CarveRune_MageArmor;FFT_Shout_CarveRune_ProtectionFromEvilAndGood;FFT_Shout_CarveRune_Sleep;FFT_Shout_CarveRune_BurningHands;FFT_Shout_CarveRune_ColorSpray;FFT_Shout_CarveRune_Thunderwave;FFT_Shout_CarveRune_AcidArrow;FFT_Shout_CarveRune_RayOfEnfeeblement;FFT_Shout_CarveRune_ScorchingRay;FFT_Shout_CarveRune_Blur;FFT_Shout_CarveRune_DetectThoughts;FFT_Shout_CarveRune_MirrorImage;FFT_Shout_CarveRune_SeeInvisibility;FFT_Shout_CarveRune_ArcaneLock;FFT_Shout_CarveRune_Blindness;FFT_Shout_CarveRune_CloudOfDaggers;FFT_Shout_CarveRune_CrownOfMadness;FFT_Shout_CarveRune_Darkness;FFT_Shout_CarveRune_Darkvision;FFT_Shout_CarveRune_EnlargeReduce;FFT_Shout_CarveRune_FlamingSphere;FFT_Shout_CarveRune_HoldPerson;FFT_Shout_CarveRune_Invisibility;FFT_Shout_CarveRune_Knock;FFT_Shout_CarveRune_MagicWeapon;FFT_Shout_CarveRune_MistyStep;FFT_Shout_CarveRune_PhantasmalForce;FFT_Shout_CarveRune_Shatter;FFT_Shout_CarveRune_Web;FFT_Shout_CarveRune_GustOfWind"/>
-<attribute id="UUID" type="guid" value="f9ccb1d3-3f73-4979-aa4e-b1783399ee57"/>
-</node>
-</children>
-</node>
-</region>
+    <version major="4" minor="0" revision="10" build="302"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Runesmith Rune Carving"/>
+                    <attribute id="Spells" type="LSString" value="FFT_Shout_CarveRune_1"/>
+                    <attribute id="UUID" type="guid" value="ff1924f7-4561-4944-b3e9-c4ed54ba4406"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Runesmith Rune Carving"/>
+                    <attribute id="Spells" type="LSString" value="FFT_Shout_CarveRune_2"/>
+                    <attribute id="UUID" type="guid" value="f9ccb1d3-3f73-4979-aa4e-b1783399ee57"/>
+                </node>
+            </children>
+        </node>
+    </region>
 </save>
 

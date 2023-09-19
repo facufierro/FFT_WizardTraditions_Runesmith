@@ -59,6 +59,7 @@
                     <attribute id="V1" type="float" value="0" />
                     <attribute id="V2" type="float" value="0.03125" />
                 </node>
+                <!-- Second Row -->
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="FFT_Icon_RuneCarving" />
                     <attribute id="U1" type="float" value="0.0" />

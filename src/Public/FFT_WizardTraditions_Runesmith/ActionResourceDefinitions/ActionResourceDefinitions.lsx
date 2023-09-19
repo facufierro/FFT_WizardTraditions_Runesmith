@@ -1,34 +1,1909 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="0" revision="9" build="312"/>
-    <region id="ActionResourceDefinitions">
-        <node id="root">
-            <children>
-                <node id="ActionResourceDefinition">
-                    <attribute id="DisplayName" type="TranslatedString" handle="h148ff192gea16g4274gaa3agc27febe1242b" version="1"/>
-                    <attribute id="Description" type="TranslatedString" handle="hc0453594g11fag475agbbccg5b5891d37556" version="1"/>
-                    <attribute id="MaxLevel" type="uint32" value="9"/>
-                    <attribute id="Name" type="FixedString" value="FFT_RunicPower"/>
-                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
-                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
-                    <attribute id="UUID" type="guid" value="d364d3e1-182a-46cf-95c3-d2bfcd995dc1"/>
-                    <attribute id="IsSpellResource" type="bool" value="true"/>
-                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="true"/>
-                    <attribute id="IsHidden" type="bool" value="false"/>
-                </node>
-                <node id="ActionResourceDefinition">
-                    <attribute id="DisplayName" type="TranslatedString" handle="he47a1155g88e0g44e3gba24g41bb8ad297ce" version="1"/>
-                    <attribute id="Description" type="TranslatedString" handle="hb72d1844g6d98g4cb6g948dg0aee42fe02b6" version="1"/>
-                    <attribute id="IsSpellResource" type="bool" value="true"/>
-                    <attribute id="MaxLevel" type="uint32" value="9"/>
-                    <attribute id="Name" type="FixedString" value="FFT_RunicImprovement"/>
-                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
-                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
-                    <attribute id="UUID" type="guid" value="77688791-6cf7-4073-a968-ea1d93b22ef5"/>
-                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="true"/>
-                    <attribute id="IsHidden" type="bool" value="true"/>
-                </node>
-            </children>
-        </node>
-    </region>
+<version major="4" minor="0" revision="9" build="312"/>
+<region id="ActionResourceDefinitions">
+<node id="root">
+<children>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h148ff192gea16g4274gaa3agc27febe1242b" version="1"/>
+<attribute id="Description" type="TranslatedString" handle="hc0453594g11fag475agbbccg5b5891d37556" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RunicPower"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+<attribute id="UUID" type="guid" value="d364d3e1-182a-46cf-95c3-d2bfcd995dc1"/>
+<attribute id="IsSpellResource" type="bool" value="true"/>
+<attribute id="UpdatesSpellPowerLevel" type="bool" value="true"/>
+<attribute id="IsHidden" type="bool" value="false"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="he47a1155g88e0g44e3gba24g41bb8ad297ce" version="1"/>
+<attribute id="Description" type="TranslatedString" handle="hb72d1844g6d98g4cb6g948dg0aee42fe02b6" version="1"/>
+<attribute id="IsSpellResource" type="bool" value="true"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RunicImprovement"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="77688791-6cf7-4073-a968-ea1d93b22ef5"/>
+<attribute id="UpdatesSpellPowerLevel" type="bool" value="true"/>
+<attribute id="IsHidden" type="bool" value="true"/>
+</node>
+
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_IceKnife"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="e77c7430-11d2-48c3-823f-09f4f4c1fe5b"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_IceKnife_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="eca25cc0-c1ac-456d-80e6-4d4f4235a45a"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_IceKnife_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="04719bd2-0acb-440d-8bf4-de69c19580e7"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_IceKnife_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="5a35d925-68f1-4c66-935b-c9ad844ce170"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_IceKnife_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="badd2397-6347-4ceb-b374-7aedea66c6d2"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_IceKnife_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="b832cc79-22d0-40b6-9b02-4d99e9830411"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MagicMissile"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="829426c7-83b3-4d44-8f1e-2d30d33886d5"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MagicMissile_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="0546a0b7-9b16-411b-b573-62c4d0fbed51"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MagicMissile_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="657e342a-fd93-413a-bcf7-32f9454e7ff4"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MagicMissile_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="1e5a4688-8f6d-4561-bd2e-6f049b2085f5"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MagicMissile_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="da5077ee-accb-4d17-8121-e9122097b82b"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MagicMissile_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="4c3d0dc6-187a-421e-a125-f6c44f6223e3"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_RayOfSickness"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="90c12ac1-bedf-4ba7-a115-e926625e8ead"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_RayOfSickness_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="14de4c53-4e07-461d-874e-9186d9746986"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_RayOfSickness_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="deedc205-cdc0-46b2-aa8c-0d496e188027"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_RayOfSickness_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="195a6aaf-1970-42d1-9bdd-1debfec2d52c"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_RayOfSickness_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="90f0d6d4-6dfb-46fd-ab8a-944781840706"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_RayOfSickness_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="6dd0b67a-39b6-4e18-9ab6-a0ec91d82ece"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_WitchBolt"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="9ef88c16-00ed-4d11-9503-0d0e57b88d0d"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_WitchBolt_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="413c25d2-7a42-4bb4-a715-91a0cc6b2f2e"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_WitchBolt_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="9ab96e1b-375d-432e-bfb9-96e33d00b5bb"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_WitchBolt_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="9a6d7c40-44a3-44cd-9e49-975e76e7baa4"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_WitchBolt_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="1b7b4c41-4bc3-4d46-91e4-9c840a43ccf0"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_WitchBolt_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="5490bbb0-f896-4e18-aecf-48211cd2c045"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_DisguiseSelf"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="d3556b62-dd08-4a3c-a206-3ab86730cedd"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ExpeditiousRetreat"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="990fe302-60a5-44ea-8368-53f64ffb1fac"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ExpeditiousRetreat_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="a2a9ac2d-14a9-4efe-8d89-88e6cf171ab6"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ExpeditiousRetreat_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="7b2c9b67-5ec4-47d5-9d4d-6972a8ad9473"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ExpeditiousRetreat_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="5786a4fa-effb-4791-9fed-be15c5f68c3f"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ExpeditiousRetreat_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="8fd7be1f-f5eb-4527-a346-22e521f13733"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ExpeditiousRetreat_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="f5c30750-dc87-4ea3-aa7b-e3155fed6c1e"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FalseLife"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="f4fdbf06-3e54-4673-90ee-b1aae2e8bc65"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FalseLife_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="77d9fed8-3bde-431e-b5bc-8a25e6a87fa0"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FalseLife_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="dfbc86e8-1d96-4648-a5a0-33beeda501bb"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FalseLife_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="897b5c55-db1c-421e-85b7-00b8f87fc1c9"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FalseLife_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="a2c12632-d54f-4d31-b7f4-6735fe516c21"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FalseLife_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="3097475d-37dc-448e-aca2-db7a86f438ea"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FeatherFall"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="78d72365-4db9-4037-a432-e423d1bd0ac8"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FeatherFall_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="337f707e-27f4-491f-8a38-345a52c493b8"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FeatherFall_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="a190b183-18c8-463a-9e0f-d4b5c9b93490"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Shield_Wizard"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="cdab5fb8-6812-4ee9-ab46-2ec9091ae797"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Shield_Wizard_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="ceadcc90-1c8b-4095-8109-3d69c1ee4c1f"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Shield_Wizard_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="83da2928-e9d4-4a08-a11b-febce1b6c123"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Shield_Wizard_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="57564c49-e4b0-4603-90e3-56a74fab85b9"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Shield_Wizard_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="5281cd85-df50-4523-9ac5-687ac51f5c87"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Shield_Wizard_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="e9e2a8b8-f44f-45f1-bd34-f4351301de3d"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_CharmPerson"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="76043bc7-e652-4379-8367-795c80a67f7d"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_CharmPerson_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="83f1a0c2-2817-487a-bb85-e806838ebf39"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_CharmPerson_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="dc86ddf3-557b-4efd-bd09-15e4239307ad"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_CharmPerson_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="12bc4579-4f46-4f62-8480-a4a16b46e6e9"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_CharmPerson_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="2442cbd4-6d8a-43bf-84d9-e076113802a8"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_CharmPerson_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="12de787f-2786-4c6c-b955-11261db0113a"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FogCloud"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="44a55c93-4786-4239-b0a2-534fa96f0696"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FogCloud_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="d8170ac7-4e33-42ff-ae27-116d4446e4df"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FogCloud_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="04c1ce0a-6d93-4194-ae01-625dd2eb5303"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FogCloud_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="ed750b0b-b4d2-46d6-bdbe-0115df498314"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FogCloud_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="b99e81c0-1c7a-4b15-b993-54ccb7e33b67"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FogCloud_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="6465355e-5c17-4573-a3aa-b100794252f0"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Grease"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="6a8c160e-c5c7-4199-b8ce-018fe72c9857"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Grease_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="8b8bcf6b-66b9-4cf9-9bec-fe21a5fdd3f3"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Grease_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="0d04dc0b-57db-4595-9941-98a57baca5e2"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Grease_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="d5be047c-c262-4c9f-966c-fd1e83d3afd6"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Grease_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="7b86b3f6-1c9a-4270-8f2e-4a659db62114"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Grease_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="1cbfd276-da44-4b56-b766-98deb706587c"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_HideousLaughter"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="c841b52a-936f-4c79-9a6e-30e8b21a8670"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_HideousLaughter_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="c29fcccb-b248-4892-a151-1f7e8838bd27"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_HideousLaughter_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="91e1d406-a2f3-40cf-8caf-b21a490fe5c7"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_HideousLaughter_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="32e42f7f-d8e4-4b45-ba76-c1dbd954561d"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_HideousLaughter_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="e9497eb0-81b9-4cbd-a3fb-ee5af1233c17"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_HideousLaughter_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="93e6682d-a983-40ed-9568-933444e0210d"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Jump"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="0f04fba3-1c57-422d-ab7b-0f54e67e0357"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Jump_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="6c36e6e1-9e63-4ef5-8648-b7e25c967dfc"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Jump_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="c385fe98-c3f6-4203-9d05-682dc5e591bc"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Jump_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="e941679b-9e30-42d0-aa24-7bba46dc7667"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Jump_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="5afb63f2-30e9-493b-8bfe-ce4d0d4dd040"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Jump_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="19922672-e354-4d38-bfeb-d9c9cbab30b3"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Longstrider"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="32392bad-6e86-4bc1-94f9-847580cb201e"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Longstrider_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="349ebf8a-1167-4a0e-97b3-9e5c3421d720"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Longstrider_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="6fe5e66d-65f7-4c2a-838b-bd1ffae62a86"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Longstrider_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="84568050-66e4-45c0-bc86-ad01cfb68ab1"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Longstrider_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="435078a0-d4ec-4004-9d8b-0c18220af696"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Longstrider_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="b0e9e0b5-5767-4a5e-b07b-de5f9034d6d8"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MageArmor"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="94822d82-01ed-4d99-8189-23ab401da00e"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MageArmor_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="85dfccf1-bb64-4cbe-883a-06e03d4d3238"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MageArmor_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="7eda1d39-6610-4632-a040-0dc15f4a0aaf"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MageArmor_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="4f6b9e59-6d93-446b-a220-899f976a10a3"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MageArmor_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="280ebfb5-fb45-461a-bf4c-4ae1ae4eb771"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MageArmor_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="f16ddfab-efa6-4fa7-b077-7b70d5b92dc1"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ProtectionFromEvilAndGood"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="abc948be-d80c-48a5-b8be-7748998bb362"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ProtectionFromEvilAndGood_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="f894c61c-5cf7-4b4c-a118-ee13b1058a2c"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ProtectionFromEvilAndGood_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="c1ebea90-de95-41a4-8dcb-848a661fa1aa"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ProtectionFromEvilAndGood_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="166609c0-4496-4132-be93-fba38716a966"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ProtectionFromEvilAndGood_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="a742301c-cf1d-459f-bb89-ebcc786ce35a"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ProtectionFromEvilAndGood_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="c0ff68b0-4350-426d-9b3f-bc860d3e27df"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Sleep"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="e8e119af-e284-4d52-8ce3-6c741162b47a"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Sleep_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="d05bb2d9-3533-486b-a3ca-0a39ca184bb8"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Sleep_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="394f1cd9-a851-4723-9e4e-9d6a1b3ecb52"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Sleep_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="c49f5cee-e7ab-41c1-8629-1b12b57cf7a4"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Sleep_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="76a5e6e4-77c6-4b3f-8291-1b5d9e6fe4e3"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Sleep_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="94e18c99-c354-4d1c-a38d-88d5a9fea8a3"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_BurningHands"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="260a4d9d-362e-4eae-93eb-504ec4d6652e"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_BurningHands_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="1cfc2f2b-e036-4fa4-97e2-7ebfa5fe1c59"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_BurningHands_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="7731f8dc-ea09-4efe-8607-ddc1cbb58532"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_BurningHands_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="405017f6-bc28-4d0d-87a5-569e93146911"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_BurningHands_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="b212ca15-0251-4e62-884f-8cdbde1b34de"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_BurningHands_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="3919abf1-cf34-437e-adc8-ad455a899703"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ColorSpray"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="41b61a4f-ec16-4373-8511-65246be83bb6"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ColorSpray_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="8ad8ca9c-31d3-449c-91ab-390fefa6bfd2"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ColorSpray_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="b665cd63-c34f-43a0-b90c-92e78a929de1"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ColorSpray_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="5fb3a3dd-3fb7-4c66-a931-e1cfda307765"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ColorSpray_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="a5f10a82-a489-4379-a9b7-8f911f7cc508"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ColorSpray_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="15b3d596-5c30-4120-8690-c920c12cd6ad"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Thunderwave"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="3ecb408c-b5ad-45a0-a432-b65e2597f2aa"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Thunderwave_2"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="45ef5314-3fd1-4e37-89cf-f61439bc8e12"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Thunderwave_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="4a8d694f-e4ff-4ab4-9482-bff6a995f072"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Thunderwave_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="05a70558-e35e-483c-b53c-b53f47aa19e0"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Thunderwave_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="d070442e-a264-400e-b1df-9ff2e8bc46c3"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Thunderwave_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="9f1c4951-3940-494f-8d4c-0e41c1f5d73a"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_AcidArrow"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="56e50432-672a-48fc-803c-7992a531c67c"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_AcidArrow_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="e437d07c-baff-4299-94ff-0f30b64671af"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_AcidArrow_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="671c9db2-ef27-44dc-ab47-08f21cd6ac48"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_AcidArrow_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="68cd5637-3b9c-4465-a632-5b8e156bb125"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_AcidArrow_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="794c315e-8e37-4ee3-9c82-0580f15fd059"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_RayOfEnfeeblement"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="5005d5d9-e432-42e9-8eed-b43fc4784681"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_RayOfEnfeeblement_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="c957381a-8b2f-490c-9c7a-7f2c1e6cb67b"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_RayOfEnfeeblement_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="9fc02f42-e1db-464b-a507-d724c2648782"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_RayOfEnfeeblement_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="002e3c6d-0b2e-4ec2-a856-b326cb045998"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_RayOfEnfeeblement_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="ce1e3280-ecb4-488b-ad32-3e61a1ff74ba"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ScorchingRay"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="59bec0ef-2dd8-4512-b5c1-a4e7d91aa52d"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ScorchingRay_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="1a7da488-bccb-422a-a5d7-4f26778d7811"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ScorchingRay_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="e6534c7c-aecf-4d12-afe9-17c766ef5370"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ScorchingRay_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="c8d8126e-8bb7-431e-922c-e619ccf1fc80"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ScorchingRay_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="57a25648-3b6e-40d9-8c59-43c3cf22523e"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Blur"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="22348bb4-a00c-4b54-9e23-6b86f5357789"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Blur_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="ec1d940b-5176-42c9-91ad-1abffe2598cf"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Blur_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="9c8cff94-059b-43d3-821e-a4464a84f236"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Blur_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="a212a328-7cd3-4ee0-84b6-b69316c61130"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Blur_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="e1a80bc5-bb3a-40c3-a569-51081a384e07"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_DetectThoughts"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="eda8d85d-842a-4e89-b1f6-99f61fd121d9"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_DetectThoughts_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="4b55088b-cbc1-4034-a826-d47f072fdfcc"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_DetectThoughts_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="4e7be658-bf27-4b65-80f5-8191dd96eca4"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_DetectThoughts_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="82b49ff4-75f5-4a20-a9fc-c4e2cc0a8af9"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_DetectThoughts_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="a16ff51a-88a8-4368-bcd2-b45b068d4d7e"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MirrorImage"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="f45735e0-827e-49a0-8d0f-da77554d305f"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MirrorImage_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="5ac9d379-9151-4e01-8d16-66b086cb83f0"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MirrorImage_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="8e9722db-202f-4f67-8555-dee592341787"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MirrorImage_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="bab4b8ca-4577-46a4-9e70-683922b9ba44"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MirrorImage_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="f1c36321-e133-4125-af42-21dc74e7e0b8"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_SeeInvisibility"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="d4db9089-0e70-4a27-b457-ce2467983a53"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_SeeInvisibility_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="9b733f32-5533-4290-bf41-a3a67b8496f5"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_SeeInvisibility_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="5df0fd92-5467-4984-a7fe-356c737d2314"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_SeeInvisibility_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="723482a1-809e-4357-8a2b-bd56c5be86f9"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_SeeInvisibility_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="b0fb7d47-4cb2-4f7e-8105-462f03bc28fd"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ArcaneLock"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="70e87f7a-81bb-4485-a91d-b9b187830458"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ArcaneLock_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="8b7aa02a-2b33-4ab3-841f-66b142e3ad40"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ArcaneLock_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="63f5fbd7-9670-476b-bbde-fe74072f6f7e"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ArcaneLock_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="108b75f6-07c5-43c8-ad32-1333010b9ff3"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_ArcaneLock_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="6da95d8a-7f56-4fae-a55d-a29fdfc5d881"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Blindness"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="c8cfe2df-e805-4c57-ba4e-3e6458edc1bb"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Blindness_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="0fc21c37-dbff-414c-b00d-df9922132c69"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Blindness_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="045b77a8-0320-4691-a278-05b6b8b441cb"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Blindness_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="d1f373b0-cc46-4e36-9f40-2fb006fc5568"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Blindness_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="fb8a07d9-8d32-492c-af17-ce548d3760b0"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_CloudOfDaggers"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="259bf8eb-cb0f-4a7a-8906-6bb31036a33a"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_CloudOfDaggers_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="b37a0c57-b18a-421e-9e17-37ea01c1a467"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_CloudOfDaggers_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="57e43056-f045-4a14-9fe1-6cfc19658329"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_CloudOfDaggers_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="439c08fb-0933-4ed6-a961-0084a59e950c"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_CloudOfDaggers_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="87d05684-ef73-4bda-8ea6-fee23227ff4e"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_CrownOfMadness"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="67fff857-18eb-4eb4-b3f3-2cec5cc26e3a"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_CrownOfMadness_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="49983706-0bb1-4032-af10-68595f9234b3"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_CrownOfMadness_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="4c4836e1-aaf1-43a1-abd0-a9d65fc09875"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_CrownOfMadness_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="d803d00e-17e1-4bc2-a081-c12c137ddf2b"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_CrownOfMadness_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="73e8254b-b327-4169-8a91-584b439cfde2"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Darkness"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="dd5c58e4-3ed4-4e06-8eea-327400daf26e"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Darkness_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="18409ee5-46ee-4a2f-8584-a959e23260f2"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Darkness_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="bbbba2ee-13f4-4b73-8176-cd6ce626e3a8"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Darkness_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="2a3c425f-4feb-489c-8493-d207a80301ef"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Darkness_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="3ec99a7c-2d95-4732-88c3-59f7ac2ff1a4"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Darkvision"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="32c73cc8-4e20-4556-8e6f-db835b908602"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Darkvision_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="52cef819-2d88-4e64-8964-f83a226a8856"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Darkvision_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="3a2d2021-260a-4f36-9baa-d19d22316a60"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Darkvision_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="0b6c61f8-90ea-4b2d-b55a-be0b023db433"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Darkvision_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="0dd8ef54-95fe-4500-98d0-2f94f234d44c"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_EnlargeReduce"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="656c4228-f255-4d7d-9f16-ff6b92fe6f4b"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FlamingSphere"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="171fb46f-7b75-4242-88ab-1dd01b4225a4"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FlamingSphere_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="849f2cf5-9f3a-4e8e-be5b-f934a16393a7"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FlamingSphere_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="309ef8d4-5382-45d9-b869-c0d8f162c732"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FlamingSphere_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="b1a8bb66-665a-4ad6-a1f0-38935a29daa8"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_FlamingSphere_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="32e002dc-9ab0-472c-a227-79445d345384"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_HoldPerson"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="f3749fd9-a618-4a81-9c6a-5af13b648582"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_HoldPerson_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="7a4497f7-aff8-4e11-80c7-0b707a03e389"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_HoldPerson_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="2f8cf243-1dac-42fd-a58f-9619594b9687"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_HoldPerson_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="97116eee-7d9a-4034-9a93-e139d6924345"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_HoldPerson_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="405166ba-5b40-4d30-9bfa-cd29f92ae3db"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Invisibility"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="fd944799-b452-4516-af67-ef4f0d925478"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Invisibility_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="588b0499-2a49-49df-9bfd-ff49f6ed14e3"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Invisibility_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="03bebc6c-685a-4e13-9735-43c22ff6914d"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Invisibility_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="48a1ff2b-382d-49a7-adbb-916724ad78aa"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Invisibility_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="aba99677-bb6a-477d-8c69-c08babc568b1"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Knock"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="b0c5511c-ce97-41bc-8abf-4be7751b6cfd"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Knock_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="d2a3a5da-0b46-4ce1-9096-ad3e281c20ab"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Knock_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="f1c8eebc-7bb6-4f9d-a13a-7485637e6564"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Knock_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="4591d87f-bfc1-4b2a-bfdd-d090792e1577"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Knock_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="51dc20b2-a54a-437b-bd78-a7d97268c69b"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MagicWeapon"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="84c730d4-fe63-4c39-a7f1-4d37a4535bda"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MagicWeapon_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="510bfb40-f6e5-4edf-9ed9-6f4375a00733"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MagicWeapon_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="22da8bb7-7755-45fe-be6e-1b5eec70c081"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MagicWeapon_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="6592419f-9002-4b0e-9a2e-34795a8acccd"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MagicWeapon_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="6c8eef6e-eb72-4502-9784-400ea6f59bad"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MistyStep"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="879599bd-35ce-42c3-8752-5079c7f83d01"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MistyStep_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="214a8ad0-52cf-4c65-83a6-320c3cc53d30"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MistyStep_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="7f6edd96-6279-43cf-b325-bbe214983c0c"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MistyStep_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="aa1f90f9-a62f-403d-98b5-6fcde4ff4867"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_MistyStep_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="3c618a1b-9ed2-4d8b-b040-ce5b16f4f988"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_PhantasmalForce"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="740e03da-5cb2-4369-8f47-81ce9a6d44b1"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_PhantasmalForce_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="fc001aa0-c5cd-434a-8b07-bc282c47e728"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_PhantasmalForce_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="30c2a86a-e1dc-46ca-abc6-85a82a7c304c"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_PhantasmalForce_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="cff045b1-e093-405e-aea9-798352c92ee8"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_PhantasmalForce_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="5ead51ac-7fec-40c7-8c98-de74af69f079"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Shatter"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="80a39935-74ff-4d26-b688-0d491b21d39a"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Shatter_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="b305a641-aff5-4380-a737-b8a970638c53"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Shatter_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="85005600-3d56-4561-8967-2087a55d81ba"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Shatter_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="c44ac1c5-9e01-4be8-ae1d-79679fadd605"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Shatter_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="57d3a24b-8c3e-4022-becc-1c571c05a960"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Web"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="0f5d8ff1-f565-445d-a4ac-82e948cbc099"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Web_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="d52daf26-6055-4f1d-8e6f-2d5f9e44bdf8"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Web_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="00c1e001-710a-46f8-bd0c-4dd51fd072f6"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Web_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="8d29f5af-0392-4bee-b8a2-a720f7eef0d0"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_Web_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="a8e19e6f-11cb-454e-b624-ba9ebc61e91d"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_GustOfWind"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="93d11738-8e29-412f-943c-559cdbd23635"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_GustOfWind_3"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="afb65562-486b-457e-b330-affa02e182eb"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_GustOfWind_4"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="3ee83d23-d8a4-4af6-9b2a-a5b13fd34c35"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_GustOfWind_5"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="0dbf097c-307d-426f-9bc2-a8e06070ca05"/>
+</node>
+<node id="ActionResourceDefinition">
+<attribute id="DisplayName" type="TranslatedString" handle="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1"/>
+<attribute id="MaxLevel" type="uint32" value="9"/>
+<attribute id="Name" type="FixedString" value="FFT_RuneCharge_GustOfWind_6"/>
+<attribute id="ReplenishType" type="FixedString" value="Rest"/>
+<attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+<attribute id="UUID" type="guid" value="1d32fed2-97f9-48a4-a5c2-d49ff48e8ad9"/>
+</node>
+
+</children>
+</node>
+</region>
 </save>
+
