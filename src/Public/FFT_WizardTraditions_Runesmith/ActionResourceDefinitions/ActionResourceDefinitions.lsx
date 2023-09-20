@@ -23,10 +23,10 @@
                     <attribute id="MaxLevel" type="uint32" value="9"/>
                     <attribute id="Name" type="FixedString" value="FFT_RunicImprovement"/>
                     <attribute id="ReplenishType" type="FixedString" value="Rest"/>
-                    <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
                     <attribute id="UUID" type="guid" value="77688791-6cf7-4073-a968-ea1d93b22ef5"/>
                     <attribute id="UpdatesSpellPowerLevel" type="bool" value="true"/>
-                    <attribute id="IsHidden" type="bool" value="true"/>
+                    <attribute id="IsHidden" type="bool" value="false"/>
                 </node>
             </children>
         </node>
