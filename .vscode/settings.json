@@ -59,7 +59,6 @@
     "[python]": {
         "editor.defaultFormatter": "ms-python.autopep8"
     },
-    "python.formatting.provider": "none",
     "workbench.colorCustomizations": {
         "commandCenter.border": "#15202b99",
         "titleBar.activeBackground": "#dac308",

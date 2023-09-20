@@ -3,18 +3,16 @@
 <!-- Runesmith -->
 <content contentuid="h0d3b68c7g73bcg4e09g81c0g9bab76c77422" version="1">Runesmith</content>
 <content contentuid="h8fb5731eg4b5fg4dceg88b1g5069a1f3d9a2" version="1">The Runesmith Tradition, often passed down through dwarven lineages, is a blending of ancient craftsmanship with arcane study. Rooted in the rich heritage of dwarven clans, wizards of this tradition believe that true power lies in the careful inscription of runes, allowing them to bind and harness magic in tangible forms.</content>
-<content contentuid="hcd4de09ege9b2g4d3dg8301g68594c0f3890" version="2">Runesmith</content>
 <content contentuid="h61d148f5g34a1g4f6aga72fgbb2bbf554bb9" version="2">The Runesmith Tradition, often passed down through dwarven lineages, is a blending of ancient craftsmanship with arcane study. Rooted in the rich heritage of dwarven clans, wizards of this tradition believe that true power lies in the careful inscription of runes, allowing them to bind and harness magic in tangible forms.</content>
 <!-- Engrave Weapon -->
 <content contentuid="h79246943g1798g4af3ga056gfa31520ade6f" version="1">Engrave Weapon</content>
 <content contentuid="h900117acg8ffbg4cdfgb5fcgf5d9c660b61c" version="1">You can engrave your weapon with a rune of power. The weapon will return to your hand if thrown and will use Intelligence instead of Strength or Dexterity for Attack Rolls and Damage Rolls.</content>
 <content contentuid="h2700e14fg41deg4634g81b7g609ce01a0edf" version="1">Rune Engraved Weapon</content>
 <content contentuid="h7098edf3gd688g4c51g9ef8gd71a36a22f7d" version="1">This weapon will return to your hand if thrown and will use Intelligence instead of Strength or Dexterity for Attack Rolls and Damage Rolls.</content>
-<!-- Carve Rune -->
-<content contentuid="h9c014787g672bg4089ga987gf385af197b21" version="1">Rune Carving</content>
+<!-- Rune Carving Shouts -->
+<content contentuid="hb81d7941gbf65g49ddg8232g89fa7f275d75" version="1">Rune Carving I</content>
+<content contentuid="h148ff192gea16g4274gaa3agc27febe1242b" version="1">Rune Carving II</content>
 <content contentuid="hd29591e9g6e4dg4596g96e8gd3478ae319dd" version="1">Rune Carving Description</content>
-<content contentuid="hb5226dc3g44d9g4953g8d16gc593362c3a87" version="1">Carve Rune</content>
-<content contentuid="h052a6d70g8117g4667ga62fg98b912809a27" version="1">Carve Rune Description</content>
 <!-- Runic Power -->
 <content contentuid="h148ff192gea16g4274gaa3agc27febe1242b" version="1">Runic Power</content>
 <content contentuid="hc0453594g11fag475agbbccg5b5891d37556" version="1">Runic Power Description</content>
@@ -28,482 +26,186 @@
 <content contentuid="h8cdb64c8g3b43g45aaga6edge12d84291d27" version="1">Rune Mastery</content>
 <content contentuid="h905d93edg53f9g4e0eg8b1fg87fd909cfa69" version="1">Rune Mastery Description</content>
 <!-- Runes -->
-<content contentuid="h091eb332gb440g44c6gaea6g101824420327" version="1">Rune</content>
+
+
+<content contentuid="hd7ab1715g6624g4181gbf7agfaaaf9dc9cd3" version="1">Rune: Burning Hands</content>
+<content contentuid="hb9f0ceb2g7c95g4280gabe0g5aa4beec20b1" version="1">Carve Rune: Burning Hands</content>
 <content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
-<content contentuid="h2e77ad5cgd959g49b5g8454g6cd0a90adb2b" version="1">5 Uses</content>
-<!-- RuneNames -->
-<content contentuid="heb04ade7g6d60g41b5gaaa8g96071981ac06" version="1">Carve Rune: Magic Missile</content>
-<content contentuid="hb02e9e09gae26g4fcagbefcgdea4094feff9" version="1">Rune: Magic Missile</content>
-<!-- RuneNames -->
 
+<content contentuid="h1bf35dc0ga88ag4115gac6cg0c7dc462adb5" version="1">Rune: Charm Person</content>
+<content contentuid="haa08ca60g5d8fg45d1gb4f6g932a23f9f663" version="1">Carve Rune: Charm Person</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
 
-<content contentuid="h5f7408dfg64eag4615g85c5gda7156512173" version="1">Carve Rune: Ice Knife</content>
-<content contentuid="hfb96c57dg627eg475cg8236g0df62d6350d1" version="1">Rune: Ice Knife</content>
-<content contentuid="h5eb46c94g46a4g41a7g904bgec57233d0870" version="1">Carve Rune: Ice Knife</content>
-<content contentuid="h9ad092e4g078cg437fg91beg65c776019b4e" version="1">Rune: Ice Knife</content>
-<content contentuid="h1e2a6ad0gde80g4b19g9e08gf47eb8a1c2e4" version="1">Carve Rune: Ice Knife</content>
-<content contentuid="hefba769ag30a3g4caeg8d1egc2427949ec5a" version="1">Rune: Ice Knife</content>
-<content contentuid="h0b0057f8gf941g4b52gb19bgd7bb0239c271" version="1">Carve Rune: Ice Knife</content>
-<content contentuid="h6935b503g9a9eg4b6fgba00g3e6691bd598b" version="1">Rune: Ice Knife</content>
-<content contentuid="h7f6422d5g456dg40afg8d94ga36e041300b8" version="1">Carve Rune: Ice Knife</content>
-<content contentuid="hafd3001ag7567g4ebfg99c0g6fd4654d55bb" version="1">Rune: Ice Knife</content>
-<content contentuid="hcc675e5cgab47g40a5g941ag539321455721" version="1">Carve Rune: Ice Knife</content>
-<content contentuid="h56474f78g1568g4037g80dbgda2523a846f0" version="1">Rune: Ice Knife</content>
-<content contentuid="he0449be8ge4a1g4584g8e8cg243c65d8b76a" version="1">Carve Rune: Magic Missile</content>
-<content contentuid="h958efaf0g4342g4fb4g97aage95a997b2480" version="1">Rune: Magic Missile</content>
-<content contentuid="h5f98ededgb750g42f7g988agd25c5985c85e" version="1">Carve Rune: Magic Missile</content>
-<content contentuid="h2f85362fg1a2bg4d13g98aeg9d157d14bec8" version="1">Rune: Magic Missile</content>
-<content contentuid="hd0211a53gac8cg4995ga6fcg66dc66f34b81" version="1">Carve Rune: Magic Missile</content>
-<content contentuid="heea67103g6bcdg434fgbbc0gf4a8a7246fc7" version="1">Rune: Magic Missile</content>
-<content contentuid="hf08add73g4785g4776g9aedgd324475e8046" version="1">Carve Rune: Magic Missile</content>
-<content contentuid="h8949db10gcda2g4c65gb1dcg68fff10ec384" version="1">Rune: Magic Missile</content>
-<content contentuid="h0c61bc3ag322fg4cd6gb192ga770d5bc979a" version="1">Carve Rune: Magic Missile</content>
-<content contentuid="hae13d720g7944g45d0g9c44gb4fa8cce927d" version="1">Rune: Magic Missile</content>
-<content contentuid="he3d5863dg8d2eg42d2ga039g23a3bfa25421" version="1">Carve Rune: Magic Missile</content>
-<content contentuid="h113d349dgc5e3g4a60g8a2bg143e350d8e19" version="1">Rune: Magic Missile</content>
-<content contentuid="h0d08fb41gb69ag4d29g8babg73af9902a280" version="1">Carve Rune: Ray Of Sickness</content>
-<content contentuid="h34e0ae3fg5daag4034g93e4g7d8ef56ac2b6" version="1">Rune: Ray Of Sickness</content>
-<content contentuid="ha5f5cbeagf165g4b58g9e52gaafa04c6b8c1" version="1">Carve Rune: Ray Of Sickness</content>
-<content contentuid="h4786da38g4a43g411eg85ccg2cc85fdc6688" version="1">Rune: Ray Of Sickness</content>
-<content contentuid="h893d8416g7323g42adgaacbg184e230cdfa5" version="1">Carve Rune: Ray Of Sickness</content>
-<content contentuid="hd097ca3ag50bdg40a0gaaf1g7f6615569f74" version="1">Rune: Ray Of Sickness</content>
-<content contentuid="hfadddce4g4f07g4d88g8225g61a145ab1fd3" version="1">Carve Rune: Ray Of Sickness</content>
-<content contentuid="h47aab0d9gcd6ag457dg97e1g032c1b7f083b" version="1">Rune: Ray Of Sickness</content>
-<content contentuid="h924014a6gc0d7g4f95g8e5dg873b4052756f" version="1">Carve Rune: Ray Of Sickness</content>
-<content contentuid="hcf44f47ege383g42c9g89e6g32d7c78c17fd" version="1">Rune: Ray Of Sickness</content>
-<content contentuid="h37192f2ag63d9g4242gbbbeg1d5ea0b0b2be" version="1">Carve Rune: Ray Of Sickness</content>
-<content contentuid="hfbb12f61gea6dg4b5bg866bg4b3faed29c8b" version="1">Rune: Ray Of Sickness</content>
-<content contentuid="hd328fb95g2800g4ddfgbd20gd088c47ebf05" version="1">Carve Rune: Witch Bolt</content>
-<content contentuid="h77bb671cg9bf3g4afagaf0egacd035661b5b" version="1">Rune: Witch Bolt</content>
-<content contentuid="hefdb072eg9002g4479g9f53gc9f0c2289817" version="1">Carve Rune: Witch Bolt</content>
-<content contentuid="h60e182d4g92ddg40eag9126g45a2fa2bc801" version="1">Rune: Witch Bolt</content>
-<content contentuid="h1132d7d1g12e6g4526g8bc3gecd264c48f01" version="1">Carve Rune: Witch Bolt</content>
-<content contentuid="hcb1a7880gf6fdg46bdgababgd9c95e33714e" version="1">Rune: Witch Bolt</content>
-<content contentuid="h01e30982g6965g4bc7gb930g0e51884ca526" version="1">Carve Rune: Witch Bolt</content>
-<content contentuid="hdf2a0b30gb229g49degb165g94a2d2c2d5da" version="1">Rune: Witch Bolt</content>
-<content contentuid="h80dd88e1g9b12g4239ga952g3660399c7b0c" version="1">Carve Rune: Witch Bolt</content>
-<content contentuid="heb008e5agd8c2g4aacga6dbgc7f188692777" version="1">Rune: Witch Bolt</content>
-<content contentuid="h66e78810g681cg4aecg8786gd0257c16a30a" version="1">Carve Rune: Witch Bolt</content>
-<content contentuid="he22c2927gf1fbg4d2aga17cg8a6b930039b0" version="1">Rune: Witch Bolt</content>
-<content contentuid="hd06148d4g2cd2g41b1g8488g69a91fa6c150" version="1">Carve Rune: Disguise Self</content>
-<content contentuid="hba95394fg1457g4062g907bg9b4bc3eac37c" version="1">Rune: Disguise Self</content>
-<content contentuid="hd725d602g9deag4797g88acgefa264de005d" version="1">Carve Rune: Expeditious Retreat</content>
-<content contentuid="hb611bf7eg97e1g410bga524gb53263cc1a43" version="1">Rune: Expeditious Retreat</content>
-<content contentuid="h5c428a5fg5186g4c57g9828g61e60c476f44" version="1">Carve Rune: Expeditious Retreat</content>
-<content contentuid="h7583e2ecg271eg4cbdgad3fg22f5d1b6cb0f" version="1">Rune: Expeditious Retreat</content>
-<content contentuid="h7d6b4e9egd481g4741ga5ebg2e14c74818cd" version="1">Carve Rune: Expeditious Retreat</content>
-<content contentuid="hbe9518b5g9576g4a65g95f2gf1fd45f96fdc" version="1">Rune: Expeditious Retreat</content>
-<content contentuid="ha3250b09gaa29g4036g9835g67a7610cdc75" version="1">Carve Rune: Expeditious Retreat</content>
-<content contentuid="h9f8931e0g0668g4607g8b4fga0e71a8b6247" version="1">Rune: Expeditious Retreat</content>
-<content contentuid="hfdab8de2g4d6eg46ebg90f5g7636f554f25e" version="1">Carve Rune: Expeditious Retreat</content>
-<content contentuid="h4f8d9645g15d9g4eb0gb3a2gcdd2a61d5f4b" version="1">Rune: Expeditious Retreat</content>
-<content contentuid="h4671fca0gba97g410aga459g544f769fce30" version="1">Carve Rune: Expeditious Retreat</content>
-<content contentuid="hb4566fdegae2cg43fag9652g0c03783d924f" version="1">Rune: Expeditious Retreat</content>
-<content contentuid="h111abb9eg5390g4050g8187gbf8174f1e3e4" version="1">Carve Rune: False Life</content>
-<content contentuid="he206d97egcf7ag439ag9819gd172133065d1" version="1">Rune: False Life</content>
-<content contentuid="hc87923a1gd988g4b0fg8eefgf8e30a8dc5db" version="1">Carve Rune: False Life</content>
-<content contentuid="h0086d46eg1447g4273gb976g27a1b3adf958" version="1">Rune: False Life</content>
-<content contentuid="h6e6d7d17gfc4bg49f6ga0c2gd3adbb8d84a1" version="1">Carve Rune: False Life</content>
-<content contentuid="h5939095age565g4c32g88c9gb19d0e80c726" version="1">Rune: False Life</content>
-<content contentuid="h5d6b9ff0ga97dg40cfg9a6cge13c06a76188" version="1">Carve Rune: False Life</content>
-<content contentuid="ha553c1b9gc3cag4af3g9b48g6765eeb81788" version="1">Rune: False Life</content>
-<content contentuid="h6d4286e3g96a3g42dfg9c53gb2fc010c551f" version="1">Carve Rune: False Life</content>
-<content contentuid="h883203e7g0259g4209gadf2ge11773e0ff50" version="1">Rune: False Life</content>
-<content contentuid="hcfeba040ge87ag4c67g954dg382a87808729" version="1">Carve Rune: False Life</content>
-<content contentuid="hf2bd56bcg0a54g438dg95beg1b06e33905d3" version="1">Rune: False Life</content>
-<content contentuid="hf0d94a3ag6175g4158g8967ga7485f799901" version="1">Carve Rune: Feather Fall</content>
-<content contentuid="h1da7fb2cgd244g4dddgab75g20278460d4fc" version="1">Rune: Feather Fall</content>
-<content contentuid="h0cff8be5g5e32g4069g8f9ag8c528fb7a8b1" version="1">Carve Rune: Feather Fall</content>
-<content contentuid="h372ec6cfg35b0g4853g8061g7f853315f369" version="1">Rune: Feather Fall</content>
-<content contentuid="h27b21c4fg7b0cg4f8egbabcg31fd18dcfc2c" version="1">Carve Rune: Feather Fall</content>
-<content contentuid="h02118a18gb7b9g48fdg957egcb8e4fdb3931" version="1">Rune: Feather Fall</content>
-<content contentuid="h8e1feb06g6065g4aebg96d0g5dd9a2e432d8" version="1">Carve Rune: Shield</content>
-<content contentuid="h93aa65b6g5666g4c75ga06cg6168f9d0ded3" version="1">Rune: Shield</content>
-<content contentuid="hf3a3220cg84f0g4202g9ab1g5b2c71e54f67" version="1">Carve Rune: Shield</content>
-<content contentuid="hf82f59bdgb47ag46a4ga3ddg4e9a3381f226" version="1">Rune: Shield</content>
-<content contentuid="h246e6f4cg7a2fg403dg8f3cg819d97ffe338" version="1">Carve Rune: Shield</content>
-<content contentuid="h83620313ge44eg4020g83d6ge4fe3b897920" version="1">Rune: Shield</content>
-<content contentuid="h38cddbe4g0f38g44c3gbea1gb1b200600dac" version="1">Carve Rune: Shield</content>
-<content contentuid="h24f63271g4a8cg4ef3g8d56gcf255dca143b" version="1">Rune: Shield</content>
-<content contentuid="hd3a61a5cgcb77g4428g903bg408534cbdcef" version="1">Carve Rune: Shield</content>
-<content contentuid="h112bf67ag03e9g4405gbbe9g8d68562a1277" version="1">Rune: Shield</content>
-<content contentuid="h14ad6369gb4dbg4c11g808egf508932d3870" version="1">Carve Rune: Shield</content>
-<content contentuid="hc29791d1gcb14g453fgaf5cg597dff2e90cf" version="1">Rune: Shield</content>
-<content contentuid="hb8c73187g8576g4857gb206g63cd28eb2c3d" version="1">Carve Rune: Charm Person</content>
-<content contentuid="h30ac9db9gcc61g475agafd4g1e3973e7bc45" version="1">Rune: Charm Person</content>
-<content contentuid="hda62398eg0c8fg4080gbeadgac117829eb33" version="1">Carve Rune: Charm Person</content>
-<content contentuid="ha5b80b3dg247fg40adga260g8674b156b852" version="1">Rune: Charm Person</content>
-<content contentuid="ha4c09f98g1200g4c32ga7ffgb59b52d459ec" version="1">Carve Rune: Charm Person</content>
-<content contentuid="h1800af89gb42cg4c96gac5fg082b47a9cd67" version="1">Rune: Charm Person</content>
-<content contentuid="h85cff60bgd473g461ag94b4g5712b17955fd" version="1">Carve Rune: Charm Person</content>
-<content contentuid="hb3f7f91egc1d4g4d50gaca1g96d605639f47" version="1">Rune: Charm Person</content>
-<content contentuid="h5909bb92gf073g43d9g84fag48f2c47a1f09" version="1">Carve Rune: Charm Person</content>
-<content contentuid="h764f5ebdg48ffg459cg8176g664744d2a01c" version="1">Rune: Charm Person</content>
-<content contentuid="h43ffffb8gb564g4d18g82f8g0279b5941fd0" version="1">Carve Rune: Charm Person</content>
-<content contentuid="h215307e2g93a4g4f20gb160g5191e0640c25" version="1">Rune: Charm Person</content>
-<content contentuid="h59e0f04dg8fd4g4884gbac0gbb55e345079b" version="1">Carve Rune: Fog Cloud</content>
-<content contentuid="h65de9e25gcf56g49b2g8014gdd072fd60784" version="1">Rune: Fog Cloud</content>
-<content contentuid="h18e2a377ga2f2g426dgbd97gc256c05e91ca" version="1">Carve Rune: Fog Cloud</content>
-<content contentuid="h7c5608b3gbebdg40acgbf06g1987ecee8483" version="1">Rune: Fog Cloud</content>
-<content contentuid="h15ab36b9g130dg4321gbfc1gf4c317a1c134" version="1">Carve Rune: Fog Cloud</content>
-<content contentuid="h742b9f7cg2f47g4b69g99fbg6fb1786710d7" version="1">Rune: Fog Cloud</content>
-<content contentuid="h6c2ff7e2g1ecdg4ab1gb716gbdede718126c" version="1">Carve Rune: Fog Cloud</content>
-<content contentuid="h4a4e9402g63ccg4d79ga5cfg0786e94791cb" version="1">Rune: Fog Cloud</content>
-<content contentuid="h4b0ee0ddgf89cg4440gb6f5g51283388030d" version="1">Carve Rune: Fog Cloud</content>
-<content contentuid="ha903b8bag09e2g4142g82e1g8cb6b0d015f8" version="1">Rune: Fog Cloud</content>
-<content contentuid="hec0d977cg0964g430dg9c72g4c28c2f3ce2a" version="1">Carve Rune: Fog Cloud</content>
-<content contentuid="h7d9aeb15g708eg4f83g852cg7a77d5b5eee5" version="1">Rune: Fog Cloud</content>
-<content contentuid="hcef82ac3ga59fg4574gbd3dg9c4d9c226d4b" version="1">Carve Rune: Grease</content>
-<content contentuid="h3d0710ffg2d29g4506gb28fg90883fc3eb7c" version="1">Rune: Grease</content>
-<content contentuid="h40d0dc59gbd09g47f8g93e2g74a9282ed745" version="1">Carve Rune: Grease</content>
-<content contentuid="h1217ec1egfe29g4a48gaa55gd0e335c496b0" version="1">Rune: Grease</content>
-<content contentuid="h89861a0bg558fg4d0cgafddg8514b8ab7a79" version="1">Carve Rune: Grease</content>
-<content contentuid="h307403ddg3f52g4246g86ebg0591f1065543" version="1">Rune: Grease</content>
-<content contentuid="h61294f21g3d70g4c65gb714g1204cf4aef95" version="1">Carve Rune: Grease</content>
-<content contentuid="h940b0236g817bg4dfdgb723g62f7279ef68c" version="1">Rune: Grease</content>
-<content contentuid="h6fbbb4fbg7fa0g4cc5gb35egb7a8aed3f7e6" version="1">Carve Rune: Grease</content>
-<content contentuid="h920e2ff9gf2afg4d8egb07agffa1d65171ff" version="1">Rune: Grease</content>
-<content contentuid="h187200f4gce2fg4709g9ea3gcc9959b35077" version="1">Carve Rune: Grease</content>
-<content contentuid="hae396bb6gc9a4g463ag88e4g92541cc2de18" version="1">Rune: Grease</content>
-<content contentuid="h1c65bb84gc225g4490ga7d5gffcd1bfeb08b" version="1">Carve Rune: Hideous Laughter</content>
-<content contentuid="h4d28484dgc60ag4300g842bg82d83685bf10" version="1">Rune: Hideous Laughter</content>
-<content contentuid="h7be2dfcbg4fd2g4930gbcfeg4b74e3043f60" version="1">Carve Rune: Hideous Laughter</content>
-<content contentuid="h5b1b866dgfb13g456fg8d42ga98b409e405e" version="1">Rune: Hideous Laughter</content>
-<content contentuid="h58eaa542gab18g4ef1g955dg342cd1e1e8a3" version="1">Carve Rune: Hideous Laughter</content>
-<content contentuid="ha50e6423g4975g4d0dgb5b1gc3fc87afae78" version="1">Rune: Hideous Laughter</content>
-<content contentuid="had01377ag6d59g436dgac90g4390e813aacc" version="1">Carve Rune: Hideous Laughter</content>
-<content contentuid="h1cd45105g448bg4ee6gb811gfaff559ccfba" version="1">Rune: Hideous Laughter</content>
-<content contentuid="h576943aagafc7g4ec6ga6bdg2f57ec382d99" version="1">Carve Rune: Hideous Laughter</content>
-<content contentuid="h8d85ceb4ge031g4f23g878ag20ea36f93507" version="1">Rune: Hideous Laughter</content>
-<content contentuid="h5dd27898g47d3g42a6ga298g4dd3045446cb" version="1">Carve Rune: Hideous Laughter</content>
-<content contentuid="hc7465311ge303g4f9bg93d0gdd54165616c7" version="1">Rune: Hideous Laughter</content>
-<content contentuid="hdae1740bg177dg490dg8c14gbb90df24219e" version="1">Carve Rune: Jump</content>
-<content contentuid="h0b272b4eg9d4dg4968gbe1dg61f1a5b8f7aa" version="1">Rune: Jump</content>
-<content contentuid="hdc36859eg4cfbg484dg9011gfff72b30d471" version="1">Carve Rune: Jump</content>
-<content contentuid="hba5310a6g21b4g46daga869g4c7c91952a74" version="1">Rune: Jump</content>
-<content contentuid="h2f8c723fg71dag4a9cg96c5g78e1468d1dc8" version="1">Carve Rune: Jump</content>
-<content contentuid="h6cfbbd71gfc65g4688g99f2g8f764f802c47" version="1">Rune: Jump</content>
-<content contentuid="he0da1ef1gd624g4fe3gbfabgff9b3d6e8c74" version="1">Carve Rune: Jump</content>
-<content contentuid="h5a7ec8b1gbb16g4786g932cg5deda868d379" version="1">Rune: Jump</content>
-<content contentuid="h15cf8707gf49dg4ce8gaed6g650467118709" version="1">Carve Rune: Jump</content>
-<content contentuid="hfaa5c9f5g8460g45afga6cbg3779635f5e7b" version="1">Rune: Jump</content>
-<content contentuid="h4fc6f7b7g416fg4f0cg9ee0g9e12c59ee708" version="1">Carve Rune: Jump</content>
-<content contentuid="h401d5b7fg0202g484bg94dag9021ae4a77bc" version="1">Rune: Jump</content>
-<content contentuid="hed42d6d7gd44fg4123gbca0gc249643441a7" version="1">Carve Rune: Longstrider</content>
-<content contentuid="hf783feb4g6530g4fecgab39gd894ebb6bb38" version="1">Rune: Longstrider</content>
-<content contentuid="h9e785050g8889g4a8egb5edgb341cf4d692b" version="1">Carve Rune: Longstrider</content>
-<content contentuid="hc7497856g5619g43edg84bfg7f82e8cdc4ec" version="1">Rune: Longstrider</content>
-<content contentuid="hf53d4776g59ccg4df7g99fdg626dc9755ee0" version="1">Carve Rune: Longstrider</content>
-<content contentuid="h95d9e7e7g0cafg4ed2g8ee8ga4cad5d5c4e3" version="1">Rune: Longstrider</content>
-<content contentuid="h8716e373g0b8ag4e07g8216gbccf28f95ea7" version="1">Carve Rune: Longstrider</content>
-<content contentuid="hb72f067ag2d7cg49d9g9a73g5ad75e89963e" version="1">Rune: Longstrider</content>
-<content contentuid="h7728bf72g4375g41e5g959bg8385e92a0492" version="1">Carve Rune: Longstrider</content>
-<content contentuid="hd4c21a06g7236g4dcfg910bgbe0f91fbc19d" version="1">Rune: Longstrider</content>
-<content contentuid="hcf3bd560gd083g4cecgaed8g46dc9f81403f" version="1">Carve Rune: Longstrider</content>
-<content contentuid="h1309e6e5g3b8ag4efeg91bagee0d59effa31" version="1">Rune: Longstrider</content>
-<content contentuid="hddb509c0g3997g4b26gb49bg01290c55946a" version="1">Carve Rune: Mage Armor</content>
-<content contentuid="hd9842220gc8e1g4b38ga4b5gfb2706a789d5" version="1">Rune: Mage Armor</content>
-<content contentuid="h55f5f36bg3728g4e0dga1bag53fcd8c3e599" version="1">Carve Rune: Mage Armor</content>
-<content contentuid="h03c3acd3g5f63g4523gb126ga5f90ee6b27b" version="1">Rune: Mage Armor</content>
-<content contentuid="h3916492dg7588g46f2ga140gbb2e6f6a56b5" version="1">Carve Rune: Mage Armor</content>
-<content contentuid="h6403d9fbg3d46g41dbg8298g59c9689e90e0" version="1">Rune: Mage Armor</content>
-<content contentuid="hafd26883g8dd2g4c20g85acg29bc79c54239" version="1">Carve Rune: Mage Armor</content>
-<content contentuid="hb6d528afga055g4097gb649gcd3c7aeb83ab" version="1">Rune: Mage Armor</content>
-<content contentuid="h5a5cce66g351eg40b3gbffaga90de8a814a5" version="1">Carve Rune: Mage Armor</content>
-<content contentuid="h01257953gb466g4febgad7dgca63075337f1" version="1">Rune: Mage Armor</content>
-<content contentuid="h8df8d2fbg736dg4f53ga5d5gb2799db4e7fa" version="1">Carve Rune: Mage Armor</content>
-<content contentuid="h32b9e2b9g8e3ag494aga57ag5e2f556bdad7" version="1">Rune: Mage Armor</content>
-<content contentuid="h1a68ee01g128fg4d1aga384gc5e704ec6def" version="1">Carve Rune: Protection From Evil And Good</content>
-<content contentuid="ha7a1f118g4153g4a80ga247gaa77b49ec03b" version="1">Rune: Protection From Evil And Good</content>
-<content contentuid="ha16e1b01ga5f5g4e05ga083g5e93aec99aeb" version="1">Carve Rune: Protection From Evil And Good</content>
-<content contentuid="h1b37374fge640g42efg8682g8543c9b1ec33" version="1">Rune: Protection From Evil And Good</content>
-<content contentuid="hea93a76fg0f0dg4230g8053g35a6b8c207a4" version="1">Carve Rune: Protection From Evil And Good</content>
-<content contentuid="hc19b1c8dg99d6g4526g874fg35832a37925e" version="1">Rune: Protection From Evil And Good</content>
-<content contentuid="he96471bcgacffg40f3g81bfg2cd82e3a4e7c" version="1">Carve Rune: Protection From Evil And Good</content>
-<content contentuid="h70172a7dgf2acg449agb0a7gee116986bbd3" version="1">Rune: Protection From Evil And Good</content>
-<content contentuid="h82e04314g33deg44ffgbb22gd277645302bd" version="1">Carve Rune: Protection From Evil And Good</content>
-<content contentuid="h009cd828g3eb1g4e28g83b1gebcbd19d3416" version="1">Rune: Protection From Evil And Good</content>
-<content contentuid="hb6c068bag469dg4992g8486g2589e920db7e" version="1">Carve Rune: Protection From Evil And Good</content>
-<content contentuid="hd0e33d3egcd80g40d1g8824gf22391ef507c" version="1">Rune: Protection From Evil And Good</content>
-<content contentuid="h4df4a707ge626g4e3bg8ac2g5d2f60443ef9" version="1">Carve Rune: Sleep</content>
-<content contentuid="h6920431eg6dbcg4d01gb5ebgee85d8b9b2e6" version="1">Rune: Sleep</content>
-<content contentuid="h738da5a5g9a18g4b2bg9caagfb83d4eb634e" version="1">Carve Rune: Sleep</content>
-<content contentuid="hd7277688g4ea4g43c7ga397g5f20c58ff770" version="1">Rune: Sleep</content>
-<content contentuid="h1c52e1f7gaab9g4ee4gb749g4299c84c0bba" version="1">Carve Rune: Sleep</content>
-<content contentuid="hfce55937g01b5g49bagbc46g439c0830acd6" version="1">Rune: Sleep</content>
-<content contentuid="he32e14eag1a27g48degbfc3g59cc67ab6053" version="1">Carve Rune: Sleep</content>
-<content contentuid="h1f37f774gdf2ag460fgadefgfd9dc26e432f" version="1">Rune: Sleep</content>
-<content contentuid="h4ad78f66g43adg45f2g8dbcg750d6c666c6c" version="1">Carve Rune: Sleep</content>
-<content contentuid="h5daaf271g41f3g47f6gb826g6d11574c2fc7" version="1">Rune: Sleep</content>
-<content contentuid="h3933a0e0g89c8g427fg9c7dg6e72f70a7692" version="1">Carve Rune: Sleep</content>
-<content contentuid="h8596a027g21d0g4805g80ebg498151917759" version="1">Rune: Sleep</content>
-<content contentuid="he27d7d32gb963g4ea3gb0afg1f6c09e43f1f" version="1">Carve Rune: Burning Hands</content>
-<content contentuid="h054e2e32gf92fg4eaaga2bbge534133c822f" version="1">Rune: Burning Hands</content>
-<content contentuid="he66f15e4gdac4g4b9eg8132g70865be57623" version="1">Carve Rune: Burning Hands</content>
-<content contentuid="hae1ffdc0gdce0g4997g9d15g262f4b1cbf2a" version="1">Rune: Burning Hands</content>
-<content contentuid="haacc5ca2g1385g4478gb908gd9ada0190fb4" version="1">Carve Rune: Burning Hands</content>
-<content contentuid="he6befce8g3572g4bdag9d55g4bc91909ce07" version="1">Rune: Burning Hands</content>
-<content contentuid="h31de69aeg1964g48a0g9532gdd66e32ad594" version="1">Carve Rune: Burning Hands</content>
-<content contentuid="h1fcb16b4ge35cg46adg939ag07d84d611f7e" version="1">Rune: Burning Hands</content>
-<content contentuid="hd23fc634g7e28g4092g9a28gbb573c79b116" version="1">Carve Rune: Burning Hands</content>
-<content contentuid="h0b4da4c6g5637g45d5gb716gccfaefe1e776" version="1">Rune: Burning Hands</content>
-<content contentuid="hc5220ae6g7afeg4985ga8d6geb215d5f9b65" version="1">Carve Rune: Burning Hands</content>
-<content contentuid="ha80a9f34gb8e9g4b53gb2f6gde3aa322d703" version="1">Rune: Burning Hands</content>
-<content contentuid="hb98cebd3gb23bg48d9gb0b9gec07e431c22b" version="1">Carve Rune: Color Spray</content>
-<content contentuid="h6d88caf6g7ddeg433fg9c6fg787c8b2bfe97" version="1">Rune: Color Spray</content>
-<content contentuid="h19304fcegb5bag4da6ga4d6g1df733192634" version="1">Carve Rune: Color Spray</content>
-<content contentuid="h51b97a9dg8af1g431dg9f52g3525e3dcb3ef" version="1">Rune: Color Spray</content>
-<content contentuid="h86ca1af1gc122g4ac8g8faag58d131e8ec84" version="1">Carve Rune: Color Spray</content>
-<content contentuid="h584c6e34gdcc6g4a6egb94cgcf107df2abd6" version="1">Rune: Color Spray</content>
-<content contentuid="h3430222fg0ee6g4954g9385gc700e516454f" version="1">Carve Rune: Color Spray</content>
-<content contentuid="hc1c5db08g0a78g4a88gb8d4ga310bb7a28d5" version="1">Rune: Color Spray</content>
-<content contentuid="he334deb3gd0ebg483ega266gdd1d529a13e2" version="1">Carve Rune: Color Spray</content>
-<content contentuid="h48e6c8d2g9c15g42c9gb356ga8e702d78009" version="1">Rune: Color Spray</content>
-<content contentuid="h66eb9e62g8d67g4d85gbebagdc66e4fff174" version="1">Carve Rune: Color Spray</content>
-<content contentuid="h3f10daf9g6075g4dafgb7fbg7b14eb805c21" version="1">Rune: Color Spray</content>
-<content contentuid="hb160688dg7e97g41fag8df8g46b22e51eacd" version="1">Carve Rune: Thunderwave</content>
-<content contentuid="h7ec91c98g7fa2g4be4g9f08g7fd1b6ac575c" version="1">Rune: Thunderwave</content>
-<content contentuid="ha9ebe9d6gdf6cg46d5gaeb4g6c2e604ad698" version="1">Carve Rune: Thunderwave</content>
-<content contentuid="h914deec3g8052g46e8g925dge84057f674c7" version="1">Rune: Thunderwave</content>
-<content contentuid="h0d00f484g01d6g411cga812g9c6709fa2953" version="1">Carve Rune: Thunderwave</content>
-<content contentuid="h151d7b17g86e1g45adg9037g1bc5a7ff9aa0" version="1">Rune: Thunderwave</content>
-<content contentuid="hc1243653gf7aeg4a12gb036g63fbd4b175ec" version="1">Carve Rune: Thunderwave</content>
-<content contentuid="hfa607be6g320eg4ad5ga41dgc218401c0af0" version="1">Rune: Thunderwave</content>
-<content contentuid="hcdb60b14g264cg4e3cg89f2g2d76e3032b67" version="1">Carve Rune: Thunderwave</content>
-<content contentuid="hce35b10dg5a84g4b26g95e0g97e52eec1ada" version="1">Rune: Thunderwave</content>
-<content contentuid="haf747572gc880g4d20gba21g86963c2229fb" version="1">Carve Rune: Thunderwave</content>
-<content contentuid="h93f78cc0g0711g42d4ga706g86a49dbfcbe8" version="1">Rune: Thunderwave</content>
-<content contentuid="h9941803bg9e18g4a9fg8cbdg2dd222c0ed62" version="1">Carve Rune: Acid Arrow</content>
-<content contentuid="h18628739g474eg468egb9d4ga71b2c3a9fea" version="1">Rune: Acid Arrow</content>
-<content contentuid="hb1402d94g8932g4610g868egd8a9e532c5d1" version="1">Carve Rune: Acid Arrow</content>
-<content contentuid="h7291de2bg0887g4595g963egb0837a3b52ff" version="1">Rune: Acid Arrow</content>
-<content contentuid="hd9060418g4ed4g44ddg9762g46349e54f0c1" version="1">Carve Rune: Acid Arrow</content>
-<content contentuid="h1b48d5dbg2452g4962gaba8g02ef12543ff4" version="1">Rune: Acid Arrow</content>
-<content contentuid="ha1a5fddeg9aa5g4be0g9451gfe32401a1e4e" version="1">Carve Rune: Acid Arrow</content>
-<content contentuid="h80227c84g6a2eg4fb9g9fb5g12537d560b39" version="1">Rune: Acid Arrow</content>
-<content contentuid="h20019048g627eg4404g8b9bg99d47003e76e" version="1">Carve Rune: Acid Arrow</content>
-<content contentuid="hdb5a0863g2c08g4991g888eg5a682514da1e" version="1">Rune: Acid Arrow</content>
-<content contentuid="h5bb5e9a0g6213g4f94gba50g780f28167df6" version="1">Carve Rune: Ray Of Enfeeblement</content>
-<content contentuid="h1eb45d15gb260g40e3g879dg6bf06c04f935" version="1">Rune: Ray Of Enfeeblement</content>
-<content contentuid="h30c3ffa0gad21g4c2eg94adg2e2fca429f33" version="1">Carve Rune: Ray Of Enfeeblement</content>
-<content contentuid="h37d996e4gdc47g4dc7g8cf8g54daed50bd2a" version="1">Rune: Ray Of Enfeeblement</content>
-<content contentuid="h28c2c131gf49fg4256ga15bga5d7af8e62ee" version="1">Carve Rune: Ray Of Enfeeblement</content>
-<content contentuid="h94dcf56bg6f4dg49d7g9addg23b3ac8058ec" version="1">Rune: Ray Of Enfeeblement</content>
-<content contentuid="h6137bb3eg6754g4d87gbbecg19b8b05005ee" version="1">Carve Rune: Ray Of Enfeeblement</content>
-<content contentuid="hc17c5ae2gfaa1g4769g85feg171bde1d9f72" version="1">Rune: Ray Of Enfeeblement</content>
-<content contentuid="h3e003810ga8deg4f22ga988gaae9d138a5ad" version="1">Carve Rune: Ray Of Enfeeblement</content>
-<content contentuid="h5f2bce2fgd2deg4e5cg95eagc98fe88b2e73" version="1">Rune: Ray Of Enfeeblement</content>
-<content contentuid="h26c9fcf6gfea9g4b6dg811fg035212f706c1" version="1">Carve Rune: Scorching Ray</content>
-<content contentuid="had73e61age504g4db1g9f12gdee9200751e2" version="1">Rune: Scorching Ray</content>
-<content contentuid="h40d79dbdg6d0fg4623g8e62gfbef4c8241ef" version="1">Carve Rune: Scorching Ray</content>
-<content contentuid="hed0755c7gb1c1g40a3gb114g9d69e88f9078" version="1">Rune: Scorching Ray</content>
-<content contentuid="h2d3c62fcg3d27g4834gb07bg70fa4b8b5088" version="1">Carve Rune: Scorching Ray</content>
-<content contentuid="h7abaaf8eg26c0g4970gb847gbc23883d1621" version="1">Rune: Scorching Ray</content>
-<content contentuid="h79628732gfce1g4a56g9513g450b7f9b06bb" version="1">Carve Rune: Scorching Ray</content>
-<content contentuid="he76b9d95ga053g491eg8fabg59d7c6de17f5" version="1">Rune: Scorching Ray</content>
-<content contentuid="h42e3ffe9ga9d3g495cga7d6g43b295fef160" version="1">Carve Rune: Scorching Ray</content>
-<content contentuid="heebc1435g2530g4b0bg974ag7f2fd23ee1ef" version="1">Rune: Scorching Ray</content>
-<content contentuid="hfcb6f168g2597g45b6ga763g5e20056910dc" version="1">Carve Rune: Blur</content>
-<content contentuid="h2166a29cgeaddg4433gbf81gdb3883467a09" version="1">Rune: Blur</content>
-<content contentuid="hcc3933b9ge8ecg47d7g9681g515e805813c6" version="1">Carve Rune: Blur</content>
-<content contentuid="hc63f3ff3g71ecg408fga131g31cfc78e55b6" version="1">Rune: Blur</content>
-<content contentuid="h2d1a2f3bga224g407eg8e9cg6d394771ff2c" version="1">Carve Rune: Blur</content>
-<content contentuid="hc4fbdcfeg3a6fg430aga49fgc7f42a23d850" version="1">Rune: Blur</content>
-<content contentuid="h9cbc1341g1a22g4122gb128g0e20d0c50b21" version="1">Carve Rune: Blur</content>
-<content contentuid="ha2d6c520g1212g4500g9275g6e1da35e1b40" version="1">Rune: Blur</content>
-<content contentuid="h14815afbg06cag41bcga4e3gef07287169ff" version="1">Carve Rune: Blur</content>
-<content contentuid="h4f616549g719ag461cg85aaga15eddb8bdae" version="1">Rune: Blur</content>
-<content contentuid="h6280afbdg6c15g4813g98e9g570c22030159" version="1">Carve Rune: Detect Thoughts</content>
-<content contentuid="h7ade92c3gf539g4ac4g9250g23dc6a3bd636" version="1">Rune: Detect Thoughts</content>
-<content contentuid="h19a66e14g3b00g4324g96c6g67ceaa1f0671" version="1">Carve Rune: Detect Thoughts</content>
-<content contentuid="h9dae7f5age525g4ff3ga890g931c132d0c52" version="1">Rune: Detect Thoughts</content>
-<content contentuid="hd64a979cgabdag4768g85fbgcf101029e4a8" version="1">Carve Rune: Detect Thoughts</content>
-<content contentuid="h7f5c8e7bg10e7g4c97gada2g88925213a69b" version="1">Rune: Detect Thoughts</content>
-<content contentuid="h74c338edg3578g4407g90c6g55ac60d7c93c" version="1">Carve Rune: Detect Thoughts</content>
-<content contentuid="h5b689302gf161g4b17ga018gcb75e23f367c" version="1">Rune: Detect Thoughts</content>
-<content contentuid="h3823f7a9gba58g4219gaf16g021988b0b824" version="1">Carve Rune: Detect Thoughts</content>
-<content contentuid="he4a116d6g7198g48b7gacd2g4ae692a7d2e7" version="1">Rune: Detect Thoughts</content>
-<content contentuid="hedf3cc76gd531g482fgac2cgad0d6970dfdd" version="1">Carve Rune: Mirror Image</content>
-<content contentuid="h0d287edfg3db9g4632ga566gf19c4b49ddee" version="1">Rune: Mirror Image</content>
-<content contentuid="hc335bc91g0aceg4e0fg976ag9c89103c6d4d" version="1">Carve Rune: Mirror Image</content>
-<content contentuid="h9dfa4d14g6c24g46c3g8353gd2ad41e5b713" version="1">Rune: Mirror Image</content>
-<content contentuid="hd9df898cg7fdeg487dgb344ga961cd7f7a1a" version="1">Carve Rune: Mirror Image</content>
-<content contentuid="hf26582c1g607bg43f7g8708gec3fd6153175" version="1">Rune: Mirror Image</content>
-<content contentuid="ha333387egf0a7g4105g9a2egf2c36df7aa1b" version="1">Carve Rune: Mirror Image</content>
-<content contentuid="ha469b2c6g23deg46a1g81b8g4b942bee7756" version="1">Rune: Mirror Image</content>
-<content contentuid="hef479185g9beeg420egb08dgc6e736775a6a" version="1">Carve Rune: Mirror Image</content>
-<content contentuid="hb4ba43bbg7e22g4d81g90b4g3e8503a07e1e" version="1">Rune: Mirror Image</content>
-<content contentuid="h6155893bg3915g49b9gac0ag14fe7cec7fdd" version="1">Carve Rune: See Invisibility</content>
-<content contentuid="h10293e02gc239g4442gbe14g86409468f915" version="1">Rune: See Invisibility</content>
-<content contentuid="h3739335ag6c65g4e5cg8e09g54f88c28f01e" version="1">Carve Rune: See Invisibility</content>
-<content contentuid="h4ee4a565g7ec6g4f64g8fc9g7d2157d070dd" version="1">Rune: See Invisibility</content>
-<content contentuid="hdb2b9798g1d75g4bf9g8333gebad9151155c" version="1">Carve Rune: See Invisibility</content>
-<content contentuid="h0ada0af5g1cf4g4198gb315ga176fb64c3c1" version="1">Rune: See Invisibility</content>
-<content contentuid="h0656c551gfc56g4368g99fdg47493acc8bf6" version="1">Carve Rune: See Invisibility</content>
-<content contentuid="hefb38ebcg5b88g4fb0gba56g84bc05b148a0" version="1">Rune: See Invisibility</content>
-<content contentuid="hd5cf5b17g3978g4837gae9eg58928197babf" version="1">Carve Rune: See Invisibility</content>
-<content contentuid="hae7f10b0gadccg4fe2g9a15g083e38921657" version="1">Rune: See Invisibility</content>
-<content contentuid="h59250126ge7e5g4cc1gb478gdb89a7cf1b44" version="1">Carve Rune: Arcane Lock</content>
-<content contentuid="hd4c0128ag44acg4d8bg92afg0494bed3566e" version="1">Rune: Arcane Lock</content>
-<content contentuid="haa93ec8dg92f2g49abg9bbcg0f7d0a6db8cf" version="1">Carve Rune: Arcane Lock</content>
-<content contentuid="hc51878c8gcec1g4f09ga2a6gf9143e781c70" version="1">Rune: Arcane Lock</content>
-<content contentuid="h849db5d5gbec0g4002gaf31g5f6fb488e391" version="1">Carve Rune: Arcane Lock</content>
-<content contentuid="ha050fb2egca43g4b0bg93dbg9f644c9c8e80" version="1">Rune: Arcane Lock</content>
-<content contentuid="h5b869cd8g0202g4519g9617ga059ef5a8f39" version="1">Carve Rune: Arcane Lock</content>
-<content contentuid="hd757cd3cgeb43g4274gb436g40a4a9529177" version="1">Rune: Arcane Lock</content>
-<content contentuid="h7688cdd8g29cag479fg9e26gcaa46ff61f70" version="1">Carve Rune: Arcane Lock</content>
-<content contentuid="h3a30f3edg1b97g45ceg8cb4gdc5da84dfdc3" version="1">Rune: Arcane Lock</content>
-<content contentuid="hbf3e259bgdbc9g4302g9103g53ff522fa971" version="1">Carve Rune: Blindness</content>
-<content contentuid="hb2ce22ebgb715g4443gbcb0gd9dd9ae0f5ff" version="1">Rune: Blindness</content>
-<content contentuid="hf2d956aagc486g4499g9751g9175598dcae2" version="1">Carve Rune: Blindness</content>
-<content contentuid="ha9a0d85eg371cg403fg9ddbg972eaf68fcd1" version="1">Rune: Blindness</content>
-<content contentuid="h24f25190g02b7g4159g840egb1fff0d7cb2e" version="1">Carve Rune: Blindness</content>
-<content contentuid="hba9fb2a6ga71eg449bga20eg77f4c6999e2b" version="1">Rune: Blindness</content>
-<content contentuid="hac0abd4ega2c3g496ag8878gdeb91cbe41d1" version="1">Carve Rune: Blindness</content>
-<content contentuid="h9e598e74g96a3g41cdga72ag4b35d1b504df" version="1">Rune: Blindness</content>
-<content contentuid="he22f795fg1122g4c94gb930g9a738026d48e" version="1">Carve Rune: Blindness</content>
-<content contentuid="h7c16d42cg4721g4bb9g805cg6b6b156ca978" version="1">Rune: Blindness</content>
-<content contentuid="h14146ae2gf673g45f8g9129gc1feaf0c93a0" version="1">Carve Rune: Cloud Of Daggers</content>
-<content contentuid="h3d47052dg2434g4f03gb1b0g2d547b4cf70b" version="1">Rune: Cloud Of Daggers</content>
-<content contentuid="hec91703ag0421g4b19ga3e4gc0c903335ac0" version="1">Carve Rune: Cloud Of Daggers</content>
-<content contentuid="h9b6d1918g4454g4528gacc5g116d53fa95b0" version="1">Rune: Cloud Of Daggers</content>
-<content contentuid="hffb9ab27g58cag44f6g83e1g4a27051cd713" version="1">Carve Rune: Cloud Of Daggers</content>
-<content contentuid="h8fa0ef13gb3fdg4b03g94e2g525861e6b970" version="1">Rune: Cloud Of Daggers</content>
-<content contentuid="h3fa330cag916eg4fa9gbcb3g09f05df46e29" version="1">Carve Rune: Cloud Of Daggers</content>
-<content contentuid="hf5bf18fdgf7a5g478eg9956gd923267e22bc" version="1">Rune: Cloud Of Daggers</content>
-<content contentuid="he3d6a5cagf265g41d3g9319g80cd85d419c3" version="1">Carve Rune: Cloud Of Daggers</content>
-<content contentuid="h87537a14g3c59g4fe0g9461g7108ad7fec47" version="1">Rune: Cloud Of Daggers</content>
-<content contentuid="h82dc6e5bg216eg4b4cgbfacg2f39dda266d5" version="1">Carve Rune: Crown Of Madness</content>
-<content contentuid="h7be4d668gc5e5g450eg9e2bg15608ca68736" version="1">Rune: Crown Of Madness</content>
-<content contentuid="h2af63b15g2a2eg4fafg9432gc70cf1328147" version="1">Carve Rune: Crown Of Madness</content>
-<content contentuid="hc603b69dgd8f4g4a56gb634g0d4ffda3b5a2" version="1">Rune: Crown Of Madness</content>
-<content contentuid="h0e0be6b7g8d10g4d79g848eg60ea3b020862" version="1">Carve Rune: Crown Of Madness</content>
-<content contentuid="hc6266256g796eg45e6g88b9g9a484c39a4dd" version="1">Rune: Crown Of Madness</content>
-<content contentuid="h0d3e35a7g530ag4f71g8968gd1869845d224" version="1">Carve Rune: Crown Of Madness</content>
-<content contentuid="he31d5f33g216dg400bg8bfeg424183874716" version="1">Rune: Crown Of Madness</content>
-<content contentuid="h1cbf6694g1841g4a7dg8dfdg2b6a18693cae" version="1">Carve Rune: Crown Of Madness</content>
-<content contentuid="h094ef543gd390g4f75gb70fg14f761a39deb" version="1">Rune: Crown Of Madness</content>
-<content contentuid="h23fdff44g56fcg401dgbc52g08ccae384786" version="1">Carve Rune: Darkness</content>
-<content contentuid="hefe100cag99fbg4bd9gbe45g00aa0ff38037" version="1">Rune: Darkness</content>
-<content contentuid="h8f831e23g7e2eg44beg903fg7213faf1dfd9" version="1">Carve Rune: Darkness</content>
-<content contentuid="h52022d7ag4543g4e9eg9e64g342a52c43f6b" version="1">Rune: Darkness</content>
-<content contentuid="ha7c6f584g1fa2g4b6fg8c7dg58862b1fd245" version="1">Carve Rune: Darkness</content>
-<content contentuid="h33340ac4g9095g40d8ga37dg2fc28386e4ea" version="1">Rune: Darkness</content>
-<content contentuid="h60ef05b5gb88fg4e39g8bbfg87ca902b3d3b" version="1">Carve Rune: Darkness</content>
-<content contentuid="hcb0a06c5g14c7g41fcg852agee2b838d2921" version="1">Rune: Darkness</content>
-<content contentuid="hce306412g5bd9g493dg9c3dg7e9454d39679" version="1">Carve Rune: Darkness</content>
-<content contentuid="ha96d40eeg493bg40e1g9616g2492529381bc" version="1">Rune: Darkness</content>
-<content contentuid="h3febf00bg5e40g4ca9ga822g2f353f116822" version="1">Carve Rune: Darkvision</content>
-<content contentuid="h03f299ceg0e23g4f1dga404gc6740f597ba1" version="1">Rune: Darkvision</content>
-<content contentuid="h3dc6c4edgcdd6g402aga3d1g7553633a3720" version="1">Carve Rune: Darkvision</content>
-<content contentuid="h7aeb5f06g7dccg4f32g934eg3da3f3c7d9e9" version="1">Rune: Darkvision</content>
-<content contentuid="h5a0ead76gf2b5g40ecgb695g4cdabe834ad7" version="1">Carve Rune: Darkvision</content>
-<content contentuid="h0d41e43dgd579g451egba0bgabc918d481d9" version="1">Rune: Darkvision</content>
-<content contentuid="h640637b2g8fa0g4aa8g92efg5ad1ff19cc01" version="1">Carve Rune: Darkvision</content>
-<content contentuid="h23d2765ag1f9fg4292g9e0dg55db80b30a32" version="1">Rune: Darkvision</content>
-<content contentuid="h379701cdgbe94g416dgbb90g5f1434050b1e" version="1">Carve Rune: Darkvision</content>
-<content contentuid="h96514445g59e8g454dg9bdfg1a6b2119f91f" version="1">Rune: Darkvision</content>
-<content contentuid="hd4ce15e4g913cg45a8gbe35g52b1560f4e6e" version="1">Carve Rune: Enlarge Reduce</content>
-<content contentuid="hd66cfca7gdbd6g4faegbae1g246f0ef4cb68" version="1">Rune: Enlarge Reduce</content>
-<content contentuid="h3f69e529ga1a0g4368g8d2dg87cf20ea0305" version="1">Carve Rune: Flaming Sphere</content>
-<content contentuid="h4c3bfc13g93fag4ae3gb320g0f5c3d816824" version="1">Rune: Flaming Sphere</content>
-<content contentuid="h697f8ed3g346dg455agbdacg67c759587322" version="1">Carve Rune: Flaming Sphere</content>
-<content contentuid="hb2c292fagbfd1g4827g8db0g802e7c90b5e6" version="1">Rune: Flaming Sphere</content>
-<content contentuid="h37ca19a6g8dc1g4c60g9b4fg3a93a0d042a6" version="1">Carve Rune: Flaming Sphere</content>
-<content contentuid="h0368194fgf07fg4013g98fcg80e8204b7f66" version="1">Rune: Flaming Sphere</content>
-<content contentuid="h70d3f751g61a3g4a20ga71bg45f4ecc2e9a1" version="1">Carve Rune: Flaming Sphere</content>
-<content contentuid="h7905d9ccgb895g4c0ega0f9gd2d36f07530a" version="1">Rune: Flaming Sphere</content>
-<content contentuid="hc217d1eeg1f68g47a5gac51g6c6c9a9b60d8" version="1">Carve Rune: Flaming Sphere</content>
-<content contentuid="h84d1bc80g5d74g4816g954eg357dce25d996" version="1">Rune: Flaming Sphere</content>
-<content contentuid="h23bed357g4bbdg478fga70dg275876dbc61b" version="1">Carve Rune: Hold Person</content>
-<content contentuid="h3892049dgab8bg47ddgab1cgd9e694077823" version="1">Rune: Hold Person</content>
-<content contentuid="ha61b7bd6g2138g4f0agbeedgf76fe31854db" version="1">Carve Rune: Hold Person</content>
-<content contentuid="h3d824ac7g95e6g4976g94d4ga9491839ca93" version="1">Rune: Hold Person</content>
-<content contentuid="h8f131bc8gb210g4f53g8e11ga1ebbdcb6972" version="1">Carve Rune: Hold Person</content>
-<content contentuid="he0bfb9c4g2743g4496g94dag63bc35d2c7d4" version="1">Rune: Hold Person</content>
-<content contentuid="hce5e91beg4e7ag41d7gb377gc1014bf08925" version="1">Carve Rune: Hold Person</content>
-<content contentuid="ha243aae1g84cbg466cga48agbef437e41692" version="1">Rune: Hold Person</content>
-<content contentuid="hb3b3d795g2b5eg4a62g9e75g1fe0b17ddade" version="1">Carve Rune: Hold Person</content>
-<content contentuid="h423a903fg0660g4ac3ga232gfc7f0b4f2aca" version="1">Rune: Hold Person</content>
-<content contentuid="h60293a18g50ceg4c1egaf5egc3e1f585b0cf" version="1">Carve Rune: Invisibility</content>
-<content contentuid="h0d8716fdg037ag452ag82f6gfb57f7caf6e1" version="1">Rune: Invisibility</content>
-<content contentuid="h345db205g7da9g4e65g820eg4cff54f5e2ac" version="1">Carve Rune: Invisibility</content>
-<content contentuid="hea447876gca14g4522ga7b3gaa001edcf308" version="1">Rune: Invisibility</content>
-<content contentuid="h3527bac6g04eeg46e0g86b7g379a81405c10" version="1">Carve Rune: Invisibility</content>
-<content contentuid="hc42b475agc49bg4582g9980g580421850ba3" version="1">Rune: Invisibility</content>
-<content contentuid="h9489ee7eg0541g4ffagbc58g4fc5399c0c0b" version="1">Carve Rune: Invisibility</content>
-<content contentuid="h041a89b5gc726g4945gabe3gaa7a30b1156b" version="1">Rune: Invisibility</content>
-<content contentuid="h051a3c62ge194g4a0ag93c1g8d4e0ad03311" version="1">Carve Rune: Invisibility</content>
-<content contentuid="h4cca4601gd547g4696gbe92g3822fb2b4ede" version="1">Rune: Invisibility</content>
-<content contentuid="h6f071607g6358g4f1dgbc21ge16610511db3" version="1">Carve Rune: Knock</content>
-<content contentuid="hb9667a71gd521g4b10ga417g70dfda2260bb" version="1">Rune: Knock</content>
-<content contentuid="h32575bd4g8865g48a1g8e9dg127e95247705" version="1">Carve Rune: Knock</content>
-<content contentuid="h1b8a6155gba68g4afbg816cg9f42936eee3f" version="1">Rune: Knock</content>
-<content contentuid="h91b66e0aged20g4fb8gae1eg2b25b2443b28" version="1">Carve Rune: Knock</content>
-<content contentuid="hc9227abeg3bd0g49b1gaeebg4ae5778026f2" version="1">Rune: Knock</content>
-<content contentuid="hff8be92eg3b77g47dcgbca0ge74b42949dcd" version="1">Carve Rune: Knock</content>
-<content contentuid="hae19e14dge5dcg4dc1g8a76g99d19ba0d230" version="1">Rune: Knock</content>
-<content contentuid="h93b8f077g1c4cg4fa7ga90bgcd2b167add61" version="1">Carve Rune: Knock</content>
-<content contentuid="h6423c5e0g5d58g428aga3d3g8eb9af2f9556" version="1">Rune: Knock</content>
-<content contentuid="heef49662g1d6cg4593gb43dg7b617368d7f4" version="1">Carve Rune: Magic Weapon</content>
-<content contentuid="ha5f37505gbc24g413cg961fg0b914a04bf54" version="1">Rune: Magic Weapon</content>
-<content contentuid="h83fc7a33g177eg46afg84c3g788345d16834" version="1">Carve Rune: Magic Weapon</content>
-<content contentuid="h5aa79d8dga783g45f4g9bb6gabd66749f4ac" version="1">Rune: Magic Weapon</content>
-<content contentuid="h5ae6f60cg7ec3g490dgb7ffga6e54be2d54d" version="1">Carve Rune: Magic Weapon</content>
-<content contentuid="h93919d23g7108g49a9g8fc1g88f38afa9c52" version="1">Rune: Magic Weapon</content>
-<content contentuid="hd08211c3g3e5bg40e0gb32fg8886f72fd731" version="1">Carve Rune: Magic Weapon</content>
-<content contentuid="h6a2e71c4g74ceg4c03gaf2cg8be0f9a6c281" version="1">Rune: Magic Weapon</content>
-<content contentuid="hbca664c6g6ae3g474dg8880g4bed1ea44adc" version="1">Carve Rune: Magic Weapon</content>
-<content contentuid="h1224dc93g0118g45c7ga6c0g3b0b5e6b576a" version="1">Rune: Magic Weapon</content>
-<content contentuid="h9d97e19cg75b2g4e8eg86fagcd7a8dad1ad4" version="1">Carve Rune: Misty Step</content>
-<content contentuid="h341c28b0g4a14g4215gb77bgbe50b44d1b06" version="1">Rune: Misty Step</content>
-<content contentuid="h7b6f57d0g2382g4c43gb802gbdad45f1ce9d" version="1">Carve Rune: Misty Step</content>
-<content contentuid="h04804680g85e5g403fg917fgdd249507a170" version="1">Rune: Misty Step</content>
-<content contentuid="hb58f3085ga936g45ceg8223g1ee4b5538981" version="1">Carve Rune: Misty Step</content>
-<content contentuid="h0c376c4bg246cg40fcga114g279a43c49c81" version="1">Rune: Misty Step</content>
-<content contentuid="h62160442g163fg42bfg8b5eg1ce00dec2d6e" version="1">Carve Rune: Misty Step</content>
-<content contentuid="h1093488ag4305g43e8gb6cag29fee287b023" version="1">Rune: Misty Step</content>
-<content contentuid="he46b2150gc48eg4643g8930g2051268657d1" version="1">Carve Rune: Misty Step</content>
-<content contentuid="hf1a4a080g06cdg4df3gb103g6e239342d794" version="1">Rune: Misty Step</content>
-<content contentuid="h38a581a2gecb0g4851gb7a5g54c28f7aaa9a" version="1">Carve Rune: Phantasmal Force</content>
-<content contentuid="h96a7d5b0g845dg4260g90c1g59e36bf81d6d" version="1">Rune: Phantasmal Force</content>
-<content contentuid="h39a8082cg04bbg4efbg8632gf4b5ea55ac4a" version="1">Carve Rune: Phantasmal Force</content>
-<content contentuid="h8ab6fb47g0b63g4063g8035gf856cbd00317" version="1">Rune: Phantasmal Force</content>
-<content contentuid="h328e9f6fg7eaeg426ega74fg23949aacf933" version="1">Carve Rune: Phantasmal Force</content>
-<content contentuid="ha39f7effgb110g4c1fgb623g617fb2da6f42" version="1">Rune: Phantasmal Force</content>
-<content contentuid="h8b8f56c2ga1cdg401eg9087g0c7380f89f64" version="1">Carve Rune: Phantasmal Force</content>
-<content contentuid="hb3dff7cbg7e7eg4877gb97aga3369d098ba7" version="1">Rune: Phantasmal Force</content>
-<content contentuid="h9f17d029gec5fg4c8ag9e49gae3b3e2b5631" version="1">Carve Rune: Phantasmal Force</content>
-<content contentuid="h2adeb41ag32e8g405ag9b58g5c7fe0336a2d" version="1">Rune: Phantasmal Force</content>
-<content contentuid="hd0c75d99gc38fg488bgbbf5g53fd02f80415" version="1">Carve Rune: Shatter</content>
-<content contentuid="hd4e7618fga52fg444eg8329g9e40754703b5" version="1">Rune: Shatter</content>
-<content contentuid="h4a31cd9fg2c8ag416ag89deg9c2037065cce" version="1">Carve Rune: Shatter</content>
-<content contentuid="hf889bec6g5a58g4939gb95fg77939243245a" version="1">Rune: Shatter</content>
-<content contentuid="he71a1771g03d6g46c2g8053g76563486ab3c" version="1">Carve Rune: Shatter</content>
-<content contentuid="h7054fea5g9c4eg430bg92d3gd022f9cacf10" version="1">Rune: Shatter</content>
-<content contentuid="hb28c1a2bg13e3g47fegafd1ge8a3885584a0" version="1">Carve Rune: Shatter</content>
-<content contentuid="h6024076bg326bg4479gbf91g65b14d4159bd" version="1">Rune: Shatter</content>
-<content contentuid="h4f175274gaca7g488ag84fag6b3a6151b4a7" version="1">Carve Rune: Shatter</content>
-<content contentuid="hc0736f73gef2cg4016gb147gfdcb1cdbde4e" version="1">Rune: Shatter</content>
-<content contentuid="h39672971ga5e6g44b1g88c4ge4601c83c9ba" version="1">Carve Rune: Web</content>
-<content contentuid="h411e0c31g998bg4177ga0acg8a00cdd35c3c" version="1">Rune: Web</content>
-<content contentuid="h37d19f86ga2c3g4ca5g8785gdf400a8fb3a5" version="1">Carve Rune: Web</content>
-<content contentuid="hcb8eca99gfbf2g4653g9d65g109343e0093e" version="1">Rune: Web</content>
-<content contentuid="h8b1734cbg0d4dg4b82ga505ga5586cd044d8" version="1">Carve Rune: Web</content>
-<content contentuid="h44353777gbad1g493cg8052g5097d70e5747" version="1">Rune: Web</content>
-<content contentuid="ha060eb45g3f8bg4053gb749g191d0661fc9c" version="1">Carve Rune: Web</content>
-<content contentuid="h7415fc93gab0bg472cgbc3dg7bbee51cf888" version="1">Rune: Web</content>
-<content contentuid="h2b709ea7g7ef7g4690ga281g8ac9d16398ff" version="1">Carve Rune: Web</content>
-<content contentuid="h69b2471fgb1eag47edgb167g2278319944ef" version="1">Rune: Web</content>
-<content contentuid="he594e27cg667dg47feg8e7dg2d8e9f4e9247" version="1">Carve Rune: Gust Of Wind</content>
-<content contentuid="h0e97f078ga2ebg42a6gb62fg74e99ed19112" version="1">Rune: Gust Of Wind</content>
-<content contentuid="h82424b41g8da9g4e66g9560g19bac8c2a2a0" version="1">Carve Rune: Gust Of Wind</content>
-<content contentuid="ha4aefb92gb9d9g4a7fg834dg551eab3ee20a" version="1">Rune: Gust Of Wind</content>
-<content contentuid="h0216a046g9d4bg4352gab5cg74b4090a816c" version="1">Carve Rune: Gust Of Wind</content>
-<content contentuid="h120d44a2g3c91g473ega015g65e113cbcd22" version="1">Rune: Gust Of Wind</content>
-<content contentuid="h51ab3fc7gd9d4g4526gb6ceg3429de57fc99" version="1">Carve Rune: Gust Of Wind</content>
-<content contentuid="h22624993ged73g4180g81b3g667491feacb8" version="1">Rune: Gust Of Wind</content>
-<content contentuid="h6ead0a0fgd34bg464eg8aaagb68f95d5175e" version="1">Carve Rune: Gust Of Wind</content>
-<content contentuid="hf0fee894gd023g4931g8826ga799402881ba" version="1">Rune: Gust Of Wind</content>
+<content contentuid="h18b11286g85f4g4042ga221gf4008417af66" version="1">Rune: Color Spray</content>
+<content contentuid="he5b1296egbf46g4898gabd2g50e61702d440" version="1">Carve Rune: Color Spray</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h28f24429g134cg420cgabd8gaa6eab66cd8e" version="1">Rune: Disguise Self</content>
+<content contentuid="h2e807a0fg98e1g41bdgbb11g4e49b1e9aa7d" version="1">Carve Rune: Disguise Self</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="hc77d58f1g4fb3g4297g8679g0ba2bc1aadca" version="1">Rune: Expeditious Retreat</content>
+<content contentuid="ha60b778fgc7b5g4b58gbe8fgde97e4c5cd24" version="1">Carve Rune: Expeditious Retreat</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="ha9671b51ge0e2g4e7fg911dg69be97aaae84" version="1">Rune: False Life</content>
+<content contentuid="h8da49a31g6130g446egb9f2ga73c98b6baad" version="1">Carve Rune: False Life</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h60c3d640gd2eeg4002ga9c7g6ed13f8ae602" version="1">Rune: Feather Fall</content>
+<content contentuid="h44361e24gef64g4937ga825g2c5244dcd625" version="1">Carve Rune: Feather Fall</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="hd85e0062gfc27g4407g8861g84b9d6702930" version="1">Rune: Fog Cloud</content>
+<content contentuid="hd8d7a8f7g755eg47fcg9848g296fd9e99230" version="1">Carve Rune: Fog Cloud</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h145dc3c8g24f5g4fc7gac62geadd09d23cb1" version="1">Rune: Grease</content>
+<content contentuid="h178c22abg5cb8g443cgbcebga38f1126ab3c" version="1">Carve Rune: Grease</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h01d44ac1gdde3g4b5eg94b9gb9139182b1f3" version="1">Rune: Hideous Laughter</content>
+<content contentuid="h4a096c56g7f28g45a9gaf81g68dbe164a415" version="1">Carve Rune: Hideous Laughter</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h4325bd30g0d9fg4f8bgb352g263c1cfa6389" version="1">Rune: Ice Knife</content>
+<content contentuid="hc5c345e6g13a5g4b4egbd76g1279b1a84adc" version="1">Carve Rune: Ice Knife</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="he284b68eg71e1g41a3g827cge0494a07c1ef" version="1">Rune: Jump</content>
+<content contentuid="h0e1b2eddg2f18g4bbcg9cf7g24ca7fdf4aac" version="1">Carve Rune: Jump</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h933460d6gd135g4f06g9949g5e1bebf37648" version="1">Rune: Longstrider</content>
+<content contentuid="h5eb425e0gccf7g410ag957ag6b5cc29bea48" version="1">Carve Rune: Longstrider</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h406666fegb966g4ed3g8da5g65033b53ca14" version="1">Rune: Mage Armor</content>
+<content contentuid="h852023a3ge509g444fgbecdg1ac517f55cb9" version="1">Carve Rune: Mage Armor</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="hbe201e40gc90ag45cag9386g6bbbb1366dbc" version="1">Rune: Magic Missile</content>
+<content contentuid="hbc1398b3g1b0dg45e7g98c8g1db21f110394" version="1">Carve Rune: Magic Missile</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h190ad529g77adg48b5ga7cdgc01823a6ec3a" version="1">Rune: Protection From Evil And Good</content>
+<content contentuid="hb310ecbag841fg436cg9c02g49f80b375c6d" version="1">Carve Rune: Protection From Evil And Good</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h04bddf61gbb5cg43d3g91e8g167e6cfac1c8" version="1">Rune: Ray Of Sickness</content>
+<content contentuid="h601bb7bfg30c3g4e63gb3a3g92e8d7bc00d9" version="1">Carve Rune: Ray Of Sickness</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h04146b84g27f7g4673ga5e3g7daea335df83" version="1">Rune: Shield</content>
+<content contentuid="h58092e59g149ag4f01gb13cg29449a98d557" version="1">Carve Rune: Shield</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="hd4ce2dfegf996g4b79g96e5gb03cc70e7140" version="1">Rune: Sleep</content>
+<content contentuid="h7c8d57a4g0348g4118g8c3fg20e16b97b341" version="1">Carve Rune: Sleep</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h8b618510g7431g4575g8e8dg5dd68c277ebd" version="1">Rune: Thunderwave</content>
+<content contentuid="h39ca5fc5gcc9dg4ebfg932egc2c8597838ad" version="1">Carve Rune: Thunderwave</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h7ceacfdfg5ff6g4bd6ga319g4f0725f60c14" version="1">Rune: Witch Bolt</content>
+<content contentuid="h834e60efg9d39g4a83g993ag49d9938a9a0e" version="1">Carve Rune: Witch Bolt</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="hec8356e4g287fg4ee3gaaafg0659c8e07d20" version="1">Rune: Acid Arrow</content>
+<content contentuid="hb8f450ebg8ca5g4179g93f7gc1a61533006f" version="1">Carve Rune: Acid Arrow</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="he82a0d30gef06g4909ga848g8547552f502b" version="1">Rune: Arcane Lock</content>
+<content contentuid="h295e6b0dgb2e2g4599gb733g9366ab8422da" version="1">Carve Rune: Arcane Lock</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h15bffa49g8cf4g459fg9d30g4006f0611a04" version="1">Rune: Blindness</content>
+<content contentuid="h6e811a3dg80c8g4889gaf80ge7b5be2f2913" version="1">Carve Rune: Blindness</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="hd49cfcb1g60f4g4edfg99c9ge5e674bf8931" version="1">Rune: Blur</content>
+<content contentuid="he002a15egf266g4057g8fabgdd9ce33778fb" version="1">Carve Rune: Blur</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="hc8d294edge041g4a9dg8f6ag2e074185a33c" version="1">Rune: Cloud Of Daggers</content>
+<content contentuid="hae0e97eegbff9g49abg98efgbe599e9a3231" version="1">Carve Rune: Cloud Of Daggers</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="hb8fc34b7g4ca6g42c1gb88bgb085475864c2" version="1">Rune: Crown Of Madness</content>
+<content contentuid="he09aa226g4c84g42f7gbc06gcbaab5cff316" version="1">Carve Rune: Crown Of Madness</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h10501bbfg9352g4513g9745g9ef6bd64ee4a" version="1">Rune: Darkness</content>
+<content contentuid="hb2f17070g6f08g4761gbe92g40f638efd8c3" version="1">Carve Rune: Darkness</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h7eba9a0fg97ddg447fgad61ga063a08de887" version="1">Rune: Darkvision</content>
+<content contentuid="h8d354b22g9ab9g43d0gb66ag1401a7276575" version="1">Carve Rune: Darkvision</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h9febf905gb799g436bgb03ag285b8bbb432a" version="1">Rune: Detect Thoughts</content>
+<content contentuid="h7cb045c5g389cg4d0dg9cc0gb61186e68748" version="1">Carve Rune: Detect Thoughts</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h7f0da42eg5aebg484egb909g8f1178a68cb8" version="1">Rune: Enlarge Reduce</content>
+<content contentuid="h6b9b0d36g5dd2g44fbg98b5g2142ecad8f22" version="1">Carve Rune: Enlarge Reduce</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="hc028648fgecb4g400eg859agfc11e49278d3" version="1">Rune: Flaming Sphere</content>
+<content contentuid="h79b3ec15gdf50g49d1g81c7g4ac6e9d0c2c1" version="1">Carve Rune: Flaming Sphere</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="hefacdf6bgda20g4ae9g9c43g5036304ab121" version="1">Rune: Gust Of Wind</content>
+<content contentuid="h4090da47g5e95g4674ga176gef963f2ad0e5" version="1">Carve Rune: Gust Of Wind</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="hb7f925d3gfd8bg4d27g8af5g2c857bb648e0" version="1">Rune: Hold Person</content>
+<content contentuid="h10604deeg0b8bg4158g9b8dg6059287c7edb" version="1">Carve Rune: Hold Person</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="hce042942gb3b1g4cd0gaf64g581f8ca9bb6c" version="1">Rune: Invisibility</content>
+<content contentuid="hdc2c21f3g2d4cg48c0g8083g9e8569e696e5" version="1">Carve Rune: Invisibility</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="hef455194g837ag4d55ga4d0g929ed1b17dbe" version="1">Rune: Knock</content>
+<content contentuid="h07012e35gd7bcg4934g981ag194590042037" version="1">Carve Rune: Knock</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="hc6ab9bc0g53f1g4f2egbe35g1b41a04d9cdc" version="1">Rune: Magic Weapon</content>
+<content contentuid="h76790e7fga6afg48e9g9a1cg58485a56669d" version="1">Carve Rune: Magic Weapon</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="hf0e7b70eg2006g4022g9b88g146967e3ba82" version="1">Rune: Mirror Image</content>
+<content contentuid="h65e783e4g0989g4bbagb08bg6d05e054b883" version="1">Carve Rune: Mirror Image</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="he73cc077gd57dg409fgafd4gf48dd46ba662" version="1">Rune: Misty Step</content>
+<content contentuid="h077df02dg79b6g4fe3g9f43g8c4ce870fb6e" version="1">Carve Rune: Misty Step</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h9eedb3bdg91f0g4e5cga870ga549f74ecec1" version="1">Rune: Phantasmal Force</content>
+<content contentuid="h2c884bb5gb56fg4877g82f9g3ba8eb8208b0" version="1">Carve Rune: Phantasmal Force</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h700864b3g8133g45e1gb5edgb6fa10446303" version="1">Rune: Ray Of Enfeeblement</content>
+<content contentuid="hb7114050g886bg42c3ga1dfg12d65eb75dee" version="1">Carve Rune: Ray Of Enfeeblement</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h9cb02f52g705ag4d16gac43gda6fe0ce4388" version="1">Rune: Scorching Ray</content>
+<content contentuid="hc2c62310gf54dg4fe3g831cg7dd3f90d235c" version="1">Carve Rune: Scorching Ray</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h339b8064ga884g42a8g8bd7gf81d46dc84d5" version="1">Rune: See Invisibility</content>
+<content contentuid="hc4f92260g39f6g44c8g947bg64eadee3700b" version="1">Carve Rune: See Invisibility</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h871e68c8gf6dag40d0g963egfe8f4915d560" version="1">Rune: Shatter</content>
+<content contentuid="h63fef6f0gf771g495bg8d32g40c38773f6e6" version="1">Carve Rune: Shatter</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
+
+<content contentuid="h51499ec4g7cd8g4857gbc19gf2b2d3afc2e1" version="1">Rune: Web</content>
+<content contentuid="ha9750026geb34g4dbcg9ac6g1cefd22bb45d" version="1">Carve Rune: Web</content>
+<content contentuid="hf6a98759g56ecg4f67ga178g2755251aaca0" version="1">Rune Description</content>
 </contentList>
 
