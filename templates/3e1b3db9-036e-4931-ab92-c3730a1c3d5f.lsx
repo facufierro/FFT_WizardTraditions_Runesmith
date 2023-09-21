@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="48" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="3e1b3db9-036e-4931-ab92-c3730a1c3d5f" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Warhammer_A_1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="6b17998d-2e79-405d-8b1f-beb53658312f" />
+					<attribute id="ReadinessFlags" type="uint32" value="16" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="VisualTemplate" type="FixedString" value="1cb1363c-f955-e949-a701-de0acca84839" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="6bb18eb2-5a66-4a54-744b-f1d286c39c19" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd80c4170g6ff8g4bddg8ed5gdbeeff4c7edc" version="2" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_WarHammer_A_1" />
+					<attribute id="Stats" type="FixedString" value="WPN_Warhammer_1" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Description" type="TranslatedString" handle="h0d4f1e23gb528g4cdbgb7bag1e86e96b4d59" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="ab54402e-d3f3-497d-819b-9b51af1827b8" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<children>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

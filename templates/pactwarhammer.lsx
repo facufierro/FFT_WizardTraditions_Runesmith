@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="320" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="fdaf8461-4d1a-4364-8d7d-4dd9ce824a1e" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Warhammer_Pact" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e1b3db9-036e-4931-ab92-c3730a1c3d5f" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="VisualTemplate" type="FixedString" value="8db023b7-8ea6-dc0c-9478-2edfa697d0c3" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="6bb18eb2-5a66-4a54-744b-f1d286c39c19" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hbb656f40g3141g4a3dga5d0g5ea6d4975b6a" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_WarHammer_A_1" />
+					<attribute id="Stats" type="FixedString" value="WPN_Warhammer_Pact" />
+					<attribute id="Description" type="TranslatedString" handle="ha1ab46cfge77bg451dga482gb12711043d95" version="1" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="be460271-537a-4443-a9b5-6c6c6a005ab3" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

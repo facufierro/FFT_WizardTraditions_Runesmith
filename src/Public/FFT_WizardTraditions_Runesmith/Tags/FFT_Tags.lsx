@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="201" lslib_meta="v1,bswap_guids" />
+    <region id="Tags">
+        <node id="Tags">
+            <attribute id="UUID" type="guid" value="a9981e67-b7e2-4cfb-819e-6096c418898d" />
+            <attribute id="Name" type="FixedString" value="FFT_ENGRAVED_WEAPON" />
+            <attribute id="DisplayName" type="TranslatedString" handle="h2872d84fga3f2g498fg881cg29e6b7cd7ef2" version="0" />
+            <attribute id="DisplayDescription" type="TranslatedString" handle="h560a032aga35bg431fg9dedg2ffeadd0986c" version="0" />
+            <attribute id="Icon" type="FixedString" value="" />
+            <attribute id="Description" type="LSString" value="Weapon with this tag is a Rune Weapon" />
+            <children>
+                <node id="Categories">
+                    <children>
+                        <node id="Category">
+                            <attribute id="Name" type="LSString" value="Code" />
+                        </node>
+                    </children>
+                </node>
+                <node id="Properties" />
+            </children>
+        </node>
+    </region>
+</save>

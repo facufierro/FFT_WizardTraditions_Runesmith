@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="320" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="3091f15e-51be-4c14-8181-c77120ecb5b4" />
+					<attribute id="Name" type="LSString" value="FFT_CarvingTools_Warhammer" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e1b3db9-036e-4931-ab92-c3730a1c3d5f" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="VisualTemplate" type="FixedString" value="8db023b7-8ea6-dc0c-9478-2edfa697d0c3" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="6bb18eb2-5a66-4a54-744b-f1d286c39c19" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2700e14fg41deg4634g81b7g609ce01a0edf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_WarHammer_A_1" />
+					<attribute id="Stats" type="FixedString" value="FFT_CarvingTools_Warhammer" />
+					<attribute id="Description" type="TranslatedString" handle="ha1ab46cfge77bg451dga482gb12711043d95" version="1" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="be460271-537a-4443-a9b5-6c6c6a005ab3" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
