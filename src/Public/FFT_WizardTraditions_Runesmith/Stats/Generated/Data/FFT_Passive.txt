@@ -8,14 +8,14 @@ new entry "FFT_Passive_WeaponEngraving"
 		data "Properties" "Highlighted"
 		data "Boosts" "UnlockSpell(FFT_Shout_EngraveWeapon)"
 
-// Runic Conduit
+// Runic Empowerment
 new entry "FFT_Passive_RunicEmpowerment"
 	type "PassiveData"
 	using "Metamagic_Quickened"
 		data "DisplayName" "hda1ad612g90d3g4f5fgb5e5g5e7a603b4dab;3"
 		data "Description" "hc41d1544g8799g4a29g96e0g36bb86d5610c;6"
 		data "DescriptionParams" ""
-		data "Icon" "Action_Monster_Bombardement_ProjectileStrike"
+		data "Icon" "FFT_Icon_RunicEmpowerment"
 		data "EnabledConditions" "HasStatus('FFT_ENGRAVED_WEAPON', context.Source)"
 		data "EnabledContext" "OnStatusApplied;OnStatusRemoved;OnCreate"
 		data "Properties" "IsToggled;Temporary;ToggledDefaultOn"

@@ -27,7 +27,7 @@ new entry "FFT_QUICKENED_CANTRIPS"
 		data "StatusType" "BOOST"
 		data "DisplayName" "h7bcb12b2gad2fg4e03gba89g83f0d8105ef4;1"
 		data "Description" "h61463f45ga37bg466bgac64g4f84b4485a02;1"
-		data "Icon" "Action_Monster_Bombardement_ProjectileStrike"
+		data "Icon" "FFT_Icon_RunicEmpowerment"
 		data "StackId" "FFT_QUICKENED_CANTRIPS"
 		data "Boosts" "UnlockSpellVariant(QuickenedCantripCheck(), ModifyIconGlow(), ModifyTooltipDescription(), ModifyUseCosts(Replace,BonusActionPoint,1,0,ActionPoint))"
 
