@@ -23,7 +23,6 @@ new entry "FFT_Shout_EngraveWeapon"
 
 
 //Rune Carving
-
 new entry "FFT_Shout_CarveRune_1"
 	type "SpellData"
 		data "SpellType" "Shout"
