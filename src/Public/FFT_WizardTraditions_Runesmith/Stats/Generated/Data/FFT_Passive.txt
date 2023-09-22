@@ -9,7 +9,7 @@ new entry "FFT_Passive_WeaponEngraving"
 		data "Boosts" "UnlockSpell(FFT_Shout_EngraveWeapon)"
 
 // Runic Conduit
-new entry "FFT_Passive_RunicConduit"
+new entry "FFT_Passive_RunicEmpowerment"
 	type "PassiveData"
 	using "Metamagic_Quickened"
 		data "DisplayName" "hda1ad612g90d3g4f5fgb5e5g5e7a603b4dab;3"
