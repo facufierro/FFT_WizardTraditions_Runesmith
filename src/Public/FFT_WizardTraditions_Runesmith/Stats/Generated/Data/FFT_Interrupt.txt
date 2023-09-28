@@ -1,0 +1,118 @@
+
+new entry "FFT_Interrupt_Rune_AbsorbElements"
+type "InterruptData"
+using "Interrupt_AbsorbElements"
+data "Cost" "ReactionActionPoint:1"
+data "Properties" "RemoveStatus(OBSERVER_OBSERVER,FFT_INTERRUPT_RUNE_ABSORBELEMENTS);SetDamageResistance(Acid);SetDamageResistance(Cold);SetDamageResistance(Fire);SetDamageResistance(Lightning);SetDamageResistance(Thunder);ApplyStatus(OBSERVER_TARGET, ABSORB_ELEMENTS_ACTIVE,100,1)"
+
+
+new entry "FFT_Interrupt_Rune_AbsorbElements_2"
+type "InterruptData"
+using "Interrupt_AbsorbElements_2"
+data "Cost" "ReactionActionPoint:1"
+data "Properties" "RemoveStatus(OBSERVER_OBSERVER,FFT_INTERRUPT_RUNE_ABSORBELEMENTS_2);SetDamageResistance(Acid);SetDamageResistance(Cold);SetDamageResistance(Fire);SetDamageResistance(Lightning);SetDamageResistance(Thunder);ApplyStatus(OBSERVER_TARGET,INTERRUPT_DAMPEN_ELEMENTS,100,0);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Fire)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Fire_2,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Cold)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Cold_2,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Lightning)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Lightning_2,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Acid)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Acid_2,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Thunder)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Thunder_2,true,true,true)"
+
+
+new entry "FFT_Interrupt_Rune_AbsorbElements_3"
+type "InterruptData"
+using "Interrupt_AbsorbElements_3"
+data "Cost" "ReactionActionPoint:1"
+data "Properties" "RemoveStatus(OBSERVER_OBSERVER,FFT_INTERRUPT_RUNE_ABSORBELEMENTS_3);SetDamageResistance(Acid);SetDamageResistance(Cold);SetDamageResistance(Fire);SetDamageResistance(Lightning);SetDamageResistance(Thunder);ApplyStatus(OBSERVER_TARGET,INTERRUPT_DAMPEN_ELEMENTS,100,0);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Fire)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Fire_3,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Cold)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Cold_3,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Lightning)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Lightning_3,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Acid)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Acid_3,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Thunder)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Thunder_3,true,true,true)"
+
+
+new entry "FFT_Interrupt_Rune_AbsorbElements_4"
+type "InterruptData"
+using "Interrupt_AbsorbElements_4"
+data "Cost" "ReactionActionPoint:1"
+data "Properties" "RemoveStatus(OBSERVER_OBSERVER,FFT_INTERRUPT_RUNE_ABSORBELEMENTS_4);SetDamageResistance(Acid);SetDamageResistance(Cold);SetDamageResistance(Fire);SetDamageResistance(Lightning);SetDamageResistance(Thunder);ApplyStatus(OBSERVER_TARGET,INTERRUPT_DAMPEN_ELEMENTS,100,0);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Fire)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Fire_4,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Cold)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Cold_4,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Lightning)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Lightning_4,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Acid)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Acid_4,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Thunder)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Thunder_4,true,true,true)"
+
+
+new entry "FFT_Interrupt_Rune_AbsorbElements_5"
+type "InterruptData"
+using "Interrupt_AbsorbElements_5"
+data "Cost" "ReactionActionPoint:1"
+data "Properties" "RemoveStatus(OBSERVER_OBSERVER,FFT_INTERRUPT_RUNE_ABSORBELEMENTS_5);SetDamageResistance(Acid);SetDamageResistance(Cold);SetDamageResistance(Fire);SetDamageResistance(Lightning);SetDamageResistance(Thunder);ApplyStatus(OBSERVER_TARGET,INTERRUPT_DAMPEN_ELEMENTS,100,0);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Fire)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Fire_5,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Cold)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Cold_5,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Lightning)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Lightning_5,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Acid)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Acid_5,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Thunder)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Thunder_5,true,true,true)"
+
+
+new entry "FFT_Interrupt_Rune_AbsorbElements_6"
+type "InterruptData"
+using "Interrupt_AbsorbElements_6"
+data "Cost" "ReactionActionPoint:1"
+data "Properties" "RemoveStatus(OBSERVER_OBSERVER,FFT_INTERRUPT_RUNE_ABSORBELEMENTS_6);SetDamageResistance(Acid);SetDamageResistance(Cold);SetDamageResistance(Fire);SetDamageResistance(Lightning);SetDamageResistance(Thunder);ApplyStatus(OBSERVER_TARGET,INTERRUPT_DAMPEN_ELEMENTS,100,0);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Fire)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Fire_6,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Cold)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Cold_6,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Lightning)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Lightning_6,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Acid)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Acid_6,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Thunder)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Thunder_6,true,true,true)"
+
+
+new entry "FFT_Interrupt_Rune_AbsorbElements_7"
+type "InterruptData"
+using "Interrupt_AbsorbElements_7"
+data "Cost" "ReactionActionPoint:1"
+data "Properties" "RemoveStatus(OBSERVER_OBSERVER,FFT_INTERRUPT_RUNE_ABSORBELEMENTS_7);SetDamageResistance(Acid);SetDamageResistance(Cold);SetDamageResistance(Fire);SetDamageResistance(Lightning);SetDamageResistance(Thunder);ApplyStatus(OBSERVER_TARGET,INTERRUPT_DAMPEN_ELEMENTS,100,0);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Fire)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Fire_7,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Cold)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Cold_7,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Lightning)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Lightning_7,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Acid)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Acid_7,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Thunder)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Thunder_7,true,true,true)"
+
+
+new entry "FFT_Interrupt_Rune_AbsorbElements_8"
+type "InterruptData"
+using "Interrupt_AbsorbElements_8"
+data "Cost" "ReactionActionPoint:1"
+data "Properties" "RemoveStatus(OBSERVER_OBSERVER,FFT_INTERRUPT_RUNE_ABSORBELEMENTS_8);SetDamageResistance(Acid);SetDamageResistance(Cold);SetDamageResistance(Fire);SetDamageResistance(Lightning);SetDamageResistance(Thunder);ApplyStatus(OBSERVER_TARGET,INTERRUPT_DAMPEN_ELEMENTS,100,0);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Fire)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Fire_8,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Cold)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Cold_8,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Lightning)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Lightning_8,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Acid)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Acid_8,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Thunder)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Thunder_8,true,true,true)"
+
+
+new entry "FFT_Interrupt_Rune_AbsorbElements_9"
+type "InterruptData"
+using "Interrupt_AbsorbElements_9"
+data "Cost" "ReactionActionPoint:1"
+data "Properties" "RemoveStatus(OBSERVER_OBSERVER,FFT_INTERRUPT_RUNE_ABSORBELEMENTS_9);SetDamageResistance(Acid);SetDamageResistance(Cold);SetDamageResistance(Fire);SetDamageResistance(Lightning);SetDamageResistance(Thunder);ApplyStatus(OBSERVER_TARGET,INTERRUPT_DAMPEN_ELEMENTS,100,0);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Fire)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Fire_9,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Cold)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Cold_9,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Lightning)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Lightning_9,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Acid)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Acid_9,true,true,true);IF(ConditionResult(context.HitDescription.MainDamageType == DamageType.Thunder)):UseSpell(OBSERVER_OBSERVER,Shout_AbsorbElements_Thunder_9,true,true,true)"
+
+
+new entry "FFT_Interrupt_Rune_Shield_Wizard"
+type "InterruptData"
+using "Interrupt_Shield_Wizard"
+data "Cost" "ReactionActionPoint:1"
+data "Properties" "RemoveStatus(OBSERVER_OBSERVER,FFT_INTERRUPT_RUNE_SHIELD_WIZARD);IF(HasInterruptedAttack()):AdjustRoll(-5);IF(IsSpellChildOrVariantFromContext('Projectile_MagicMissile')):SetRoll(0);ApplyStatus(INTERRUPT_SHIELD_WIZARD,100,1);ApplyStatus(OBSERVER_OBSERVER,SHIELD,100,1)"
+
+
+new entry "FFT_Interrupt_Rune_Shield_Wizard_2"
+type "InterruptData"
+using "Interrupt_Shield_Wizard_2"
+data "Cost" "ReactionActionPoint:1"
+
+
+new entry "FFT_Interrupt_Rune_Shield_Wizard_3"
+type "InterruptData"
+using "Interrupt_Shield_Wizard_3"
+data "Cost" "ReactionActionPoint:1"
+
+
+new entry "FFT_Interrupt_Rune_Shield_Wizard_4"
+type "InterruptData"
+using "Interrupt_Shield_Wizard_4"
+data "Cost" "ReactionActionPoint:1"
+
+
+new entry "FFT_Interrupt_Rune_Shield_Wizard_5"
+type "InterruptData"
+using "Interrupt_Shield_Wizard_5"
+data "Cost" "ReactionActionPoint:1"
+
+
+new entry "FFT_Interrupt_Rune_Shield_Wizard_6"
+type "InterruptData"
+using "Interrupt_Shield_Wizard_6"
+data "Cost" "ReactionActionPoint:1"
+
+
+new entry "FFT_Interrupt_Rune_Shield_Wizard_7"
+type "InterruptData"
+using "Interrupt_Shield_Wizard_7"
+data "Cost" "ReactionActionPoint:1"
+
+
+new entry "FFT_Interrupt_Rune_Shield_Wizard_8"
+type "InterruptData"
+using "Interrupt_Shield_Wizard_8"
+data "Cost" "ReactionActionPoint:1"
+
+
+new entry "FFT_Interrupt_Rune_Shield_Wizard_9"
+type "InterruptData"
+using "Interrupt_Shield_Wizard_9"
+data "Cost" "ReactionActionPoint:1"
+

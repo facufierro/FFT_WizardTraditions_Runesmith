@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+<version major="4" minor="0" revision="9" build="309" lslib_meta="v1,bswap_guids" />
+<region id="Templates">
+<node id="Templates">
+<children>
+<node id="GameObjects">
+<attribute id="MapKey" type="FixedString" value="dc0b16cf-be0c-4097-8a6a-2fa7b9930689" />
+<attribute id="Name" type="LSString" value="FFT_Rune_ScorchingRay_6" />
+<attribute id="LevelName" type="FixedString" value="" />
+<attribute id="Type" type="FixedString" value="item" />
+<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+<attribute id="VisualTemplate" type="FixedString" value="2a50ed5c-e9e8-2b97-7723-c74b58a0f841" />
+<attribute id="PhysicsTemplate" type="FixedString" value="317686ab-7144-51ab-1242-e34dd52579cb" />
+<attribute id="DisplayName" type="TranslatedString" handle="h78d84be5g9198g431ag854fg94582f030291" version="2" />
+<attribute id="Icon" type="FixedString" value="FFT_Icon_Rune_Evocation" />
+<attribute id="Stats" type="FixedString" value="FFT_Rune_ScorchingRay_6" />
+<children>
+<node id="OnUsePeaceActions">
+<children>
+<node id="Action">
+<attribute id="ActionType" type="int32" value="12" />
+<children>
+<node id="Attributes">
+<attribute id="Animation" type="FixedString" value="" />
+<attribute id="Conditions" type="LSString" value="" />
+<attribute id="SkillID" type="FixedString" value="Projectile_ScorchingRay_6" />
+<attribute id="Consume" type="bool" value="True" />
+<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09" />
+</node>
+</children>
+</node>
+<node id="Action">
+<attribute id="ActionType" type="int32" value="33" />
+<children>
+<node id="Attributes">
+<attribute id="Animation" type="FixedString" value="" />
+<attribute id="Conditions" type="LSString" value="" />
+<attribute id="SpellId" type="FixedString" value="Projectile_ScorchingRay_6" />
+<attribute id="Consume" type="bool" value="True" />
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</region>
+</save>
+

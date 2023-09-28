@@ -5,12 +5,12 @@
         <node id="root">
             <children>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1)"/>
-                    <attribute id="Level" type="uint8" value="2"/>
-                    <attribute id="Name" type="LSString" value="Wizard"/>
-                    <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="TableUUID" type="guid" value="d18eda7e-4b7d-490d-9952-cd33a3c60479"/>
                     <attribute id="UUID" type="guid" value="d6184c47-5b99-4e63-95ac-02f8ce4ccda1"/>
+                    <attribute id="Name" type="LSString" value="Wizard"/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="TableUUID" type="guid" value="d18eda7e-4b7d-490d-9952-cd33a3c60479"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1)"/>
                     <children>
                         <node id="SubClasses">
                             <children>
@@ -61,7 +61,7 @@
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="TableUUID" type="guid" value="ba293200-2bd3-4ce1-a711-97ed9e6e9899"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,1,0);ActionResource(FFT_RunicImprovement,1,1)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(FFT_RunicPower,2,0);ActionResource(FFT_RunicImprovement,2,1)"/>
                     <attribute id="PassivesAdded" type="LSString" value="FFT_Passive_WeaponEngraving"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(11f331b0-e8b7-473b-9d1f-19e8e4178d7d,2,0);AddSpells(ff1924f7-4561-4944-b3e9-c4ed54ba4406,,,,AlwaysPrepared)"/>

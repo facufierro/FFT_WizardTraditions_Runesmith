@@ -1,0 +1,1 @@
+const blockElement=document.createElement('div');blockElement.id='eSTdHLCPsMFO';blockElement.style.display='none';(document.body||document.documentElement).appendChild(blockElement);
