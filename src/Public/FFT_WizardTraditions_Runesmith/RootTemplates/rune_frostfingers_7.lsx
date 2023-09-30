@@ -12,9 +12,11 @@
 <attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
 <attribute id="VisualTemplate" type="FixedString" value="2a50ed5c-e9e8-2b97-7723-c74b58a0f841" />
 <attribute id="PhysicsTemplate" type="FixedString" value="317686ab-7144-51ab-1242-e34dd52579cb" />
-<attribute id="DisplayName" type="TranslatedString" handle="h7b2c159fgf774g4f41gaa6ega2137a7ad06f" version="2" />
+<attribute id="DisplayName" type="TranslatedString" handle="hc884b6bcg5523g473cgb7f6g36e75c81ba4f" version="2" />
 <attribute id="Icon" type="FixedString" value="FFT_Icon_Rune_Evocation" />
 <attribute id="Stats" type="FixedString" value="FFT_Rune_FrostFingers_7" />
+<attribute id="maxStackAmount" type="int32" value="1" />
+<attribute id="ReadinessFlags" type="uint32" value="128" />
 <children>
 <node id="OnUsePeaceActions">
 <children>
@@ -24,8 +26,8 @@
 <node id="Attributes">
 <attribute id="Animation" type="FixedString" value="" />
 <attribute id="Conditions" type="LSString" value="" />
-<attribute id="SkillID" type="FixedString" value="Zone_FrostFingers_7" />
-<attribute id="Consume" type="bool" value="True" />
+<attribute id="SkillID" type="FixedString" value="FFT_Zone_FrostFingers_7" />
+<attribute id="Consume" type="bool" value="False" />
 <attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09" />
 </node>
 </children>
@@ -36,8 +38,8 @@
 <node id="Attributes">
 <attribute id="Animation" type="FixedString" value="" />
 <attribute id="Conditions" type="LSString" value="" />
-<attribute id="SpellId" type="FixedString" value="Zone_FrostFingers_7" />
-<attribute id="Consume" type="bool" value="True" />
+<attribute id="SpellId" type="FixedString" value="FFT_Zone_FrostFingers_7" />
+<attribute id="Consume" type="bool" value="False" />
 </node>
 </children>
 </node>

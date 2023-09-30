@@ -1,71 +1,16 @@
 {
     "files.associations": {
-        "*.txt": "bg3txt",
+        "*.txt": "bg3",
         "*.khn": "lua",
         "*.lsx": "xml"
     },
-    "editor.tokenColorCustomizations": {
-        "textMateRules": [
-            {
-                "scope": "key_words.bg3txt",
-                "settings": {
-                    "foreground": "#C586C0"
-                }
-            },
-            {
-                "scope": "comments.bg3txt",
-                "settings": {
-                    "foreground": "#6A9955"
-                }
-            },
-            {
-                "scope": "entry_name.bg3txt",
-                "settings": {
-                    "foreground": "#569CD6"
-                }
-            },
-            {
-                "scope": "entry_type.bg3txt",
-                "settings": {
-                    "foreground": "#4FC1FF"
-                }
-            },
-            {
-                "scope": "entry_import.bg3txt",
-                "settings": {
-                    "foreground": "#4FC1FF"
-                }
-            },
-            {
-                "scope": "entry_data.bg3txt",
-                "settings": {
-                    "foreground": "#9CDCFE"
-                }
-            },
-            {
-                "scope": "operators.bg3txt",
-                "settings": {
-                    "foreground": "#ffa200"
-                }
-            },
-            {
-                "scope": "all.bg3txt",
-                "settings": {
-                    "foreground": "#CE9178"
-                }
-            }
-        ]
-    },
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.autopep8"
-    },
     "workbench.colorCustomizations": {
-        "commandCenter.border": "#15202b99",
-        "titleBar.activeBackground": "#dac308",
-        "titleBar.activeForeground": "#15202b",
-        "titleBar.inactiveBackground": "#dac30899",
-        "titleBar.inactiveForeground": "#15202b99",
-        "sash.hoverBorder": "#f7df1e"
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#ff6433",
+        "titleBar.activeBackground": "#ff3d00",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#ff3d0099",
+        "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#dac308",
+    "peacock.color": "#ff3d00",
 }

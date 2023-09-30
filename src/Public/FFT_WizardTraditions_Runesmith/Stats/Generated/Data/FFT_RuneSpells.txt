@@ -1,0 +1,330 @@
+new entry "FFT_Shout_AbsorbElements"
+	type "SpellData"
+	using "Shout_AbsorbElements"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Zone_BurningHands"
+	type "SpellData"
+	using "Zone_BurningHands"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Throw_Catapult"
+	type "SpellData"
+	using "Throw_Catapult"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_CauseFear"
+	type "SpellData"
+	using "Target_CauseFear"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_CharmPerson"
+	type "SpellData"
+	using "Target_CharmPerson"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Projectile_ChromaticOrb"
+	type "SpellData"
+	using "Projectile_ChromaticOrb"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Zone_ColorSpray"
+	type "SpellData"
+	using "Zone_ColorSpray"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Shout_EarthTremor"
+	type "SpellData"
+	using "Shout_EarthTremor"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Shout_ExpeditiousRetreat"
+	type "SpellData"
+	using "Shout_ExpeditiousRetreat"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Shout_FalseLife"
+	type "SpellData"
+	using "Shout_FalseLife"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_FogCloud"
+	type "SpellData"
+	using "Target_FogCloud"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Zone_FrostFingers"
+	type "SpellData"
+	using "Zone_FrostFingers"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_Grease"
+	type "SpellData"
+	using "Target_Grease"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_HideousLaughter"
+	type "SpellData"
+	using "Target_HideousLaughter"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Projectile_IceKnife"
+	type "SpellData"
+	using "Projectile_IceKnife"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_MageArmor"
+	type "SpellData"
+	using "Target_MageArmor"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Projectile_MagicMissile"
+	type "SpellData"
+	using "Projectile_MagicMissile"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_ProtectionFromEvilAndGood"
+	type "SpellData"
+	using "Target_ProtectionFromEvilAndGood"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Projectile_RayOfSickness"
+	type "SpellData"
+	using "Projectile_RayOfSickness"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Shout_Shield_Wizard"
+	type "SpellData"
+	using "Shout_Shield_Wizard"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_Sleep"
+	type "SpellData"
+	using "Target_Sleep"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_Snare"
+	type "SpellData"
+	using "Target_Snare"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Zone_TashasCausticBrew"
+	type "SpellData"
+	using "Zone_TashasCausticBrew"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Zone_Thunderwave"
+	type "SpellData"
+	using "Zone_Thunderwave"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Projectile_WitchBolt"
+	type "SpellData"
+	using "Projectile_WitchBolt"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Projectile_AcidArrow"
+	type "SpellData"
+	using "Projectile_AcidArrow"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Zone_AganazzarsScorcher"
+	type "SpellData"
+	using "Zone_AganazzarsScorcher"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_ArcaneLock"
+	type "SpellData"
+	using "Target_ArcaneLock"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_Blindness"
+	type "SpellData"
+	using "Target_Blindness"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Shout_Blur"
+	type "SpellData"
+	using "Shout_Blur"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Shout_BorrowedKnowledge"
+	type "SpellData"
+	using "Shout_BorrowedKnowledge"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_CloudOfDaggers"
+	type "SpellData"
+	using "Target_CloudOfDaggers"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_ContinualFlame"
+	type "SpellData"
+	using "Target_ContinualFlame"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_CrownOfMadness"
+	type "SpellData"
+	using "Target_CrownOfMadness"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_Darkness"
+	type "SpellData"
+	using "Target_Darkness"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_Darkvision"
+	type "SpellData"
+	using "Target_Darkvision"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_DragonsBreath"
+	type "SpellData"
+	using "Target_DragonsBreath"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_DustDevil"
+	type "SpellData"
+	using "Target_DustDevil"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_EnhanceAbility"
+	type "SpellData"
+	using "Target_EnhanceAbility"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_EnlargeReduce"
+	type "SpellData"
+	using "Target_EnlargeReduce"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_FlamingSphere"
+	type "SpellData"
+	using "Target_FlamingSphere"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_FlockOfFamiliars"
+	type "SpellData"
+	using "Target_FlockOfFamiliars"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Zone_GustOfWind"
+	type "SpellData"
+	using "Zone_GustOfWind"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_HoldPerson"
+	type "SpellData"
+	using "Target_HoldPerson"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_Invisibility"
+	type "SpellData"
+	using "Target_Invisibility"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Shout_KineticJaunt"
+	type "SpellData"
+	using "Shout_KineticJaunt"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_Knock"
+	type "SpellData"
+	using "Target_Knock"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_MagicWeapon"
+	type "SpellData"
+	using "Target_MagicWeapon"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_MaximiliansEarthenGrasp"
+	type "SpellData"
+	using "Target_MaximiliansEarthenGrasp"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_MindSpike"
+	type "SpellData"
+	using "Target_MindSpike"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Shout_MirrorImage"
+	type "SpellData"
+	using "Shout_MirrorImage"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_MistyStep"
+	type "SpellData"
+	using "Target_MistyStep"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_NathairsMischief"
+	type "SpellData"
+	using "Target_NathairsMischief"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_PhantasmalForce"
+	type "SpellData"
+	using "Target_PhantasmalForce"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Projectile_RayOfEnfeeblement"
+	type "SpellData"
+	using "Projectile_RayOfEnfeeblement"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Zone_RimesBindingIce"
+	type "SpellData"
+	using "Zone_RimesBindingIce"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Projectile_ScorchingRay"
+	type "SpellData"
+	using "Projectile_ScorchingRay"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Shout_SeeInvisibility"
+	type "SpellData"
+	using "Shout_SeeInvisibility"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Shout_ShadowBlade"
+	type "SpellData"
+	using "Shout_ShadowBlade"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_Shatter"
+	type "SpellData"
+	using "Target_Shatter"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_SnillocsSnowballStorm"
+	type "SpellData"
+	using "Target_SnillocsSnowballStorm"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_TashasMindWhip"
+	type "SpellData"
+	using "Target_TashasMindWhip"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_VortexWarp"
+	type "SpellData"
+	using "Target_VortexWarp"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Shout_WardingWind"
+	type "SpellData"
+	using "Shout_WardingWind"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_Web"
+	type "SpellData"
+	using "Target_Web"
+		data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "FFT_Target_WitherAndBloom"
+	type "SpellData"
+	using "Target_WitherAndBloom"
+		data "Cooldown" "OncePerShortRestPerItem"
+

@@ -3,55 +3,88 @@ import os
 import subprocess
 import logging
 from typing import Literal
-from enum import Enum
 
 
-class Path():
+mod_name = folder_name = os.path.basename(os.path.dirname(os.path.abspath(__file__)))
+
+
+class Paths():
     ROOT_DIR = os.getcwd()
-    DIVINE_FILE = os.path.join(ROOT_DIR, "export_tool", "divine.exe")
-    MOD_DIR = "D:\Projects\Mods\Baldurs Gate 3\FFT_WizardTraditions_Runesmith\src"
-    OUTPUT_FILE = "D:\Apps\Modding Tools\Baldurs Gate 3\BG3ModManager\FFT_WizardTraditions_Runesmith.pak"
-    ENGLISH_LOCALIZATION_DIR = os.path.join(MOD_DIR, "Localization", "English", 'FFT_WizardTraditions_Runesmith')
+    DIVINE_FILE = "D:\Apps\Modding Tools\Baldurs Gate 3\ExportTool\Tools\divine.exe"
+    MOD_DIR = f"D:\Projects\Mods\Baldurs Gate 3\{mod_name}\src"
+    OUTPUT_FILE = f"D:\Apps\Modding Tools\Baldurs Gate 3\BG3ModManager\{mod_name}.pak"
+    ENGLISH_LOCALIZATION_DIR = os.path.join(MOD_DIR, "Localization", "English", f'{mod_name}')
 
-    MERGED_DIR = os.path.join(MOD_DIR, "Public", "FFT_WizardTraditions_Runesmith", "Content", "UI", "[PAK]_UI")
-    ROOT_TEMPLATES_DIR = os.path.join(MOD_DIR, "Public", "FFT_WizardTraditions_Runesmith", "RootTemplates")
+    MERGED_DIR = os.path.join(MOD_DIR, "Public", f"{mod_name}", "Content", "UI", "[PAK]_UI")
+    ROOT_TEMPLATES_DIR = os.path.join(MOD_DIR, "Public", f"{mod_name}", "RootTemplates")
 
 
 class LSLib:
     @staticmethod
-    def execute_command(command: Literal["create-package", "list-package", "extract-single-file", "extract-package", "extract-packages", "convert-model", "convert-models", "convert-resource", "convert-resources", "convert-loca"], source: str, destination: str):
+    def execute_command(command: Literal["create-package", "extract-package", "convert-resource", "convert-loca"],
+                        source_path: str, destination_path: str, input_format: str = None, output_format: str = None, package_priority: int = None) -> None:
         try:
-            str = [
-                Path.DIVINE_FILE,
-                "-g",
-                "bg3",
-                "-a",
-                command,
-                "-c",
-                "lz4",
-                "--source",
-                source,
-                "--destination",
-                destination,
-                "--input-format",
-                "lsx",
-                "--output-format",
-                "lsf",
-                "-l",
-                "info",
-            ]
-            subprocess.run(str, check=True)
+            if package_priority is None:
+                package_priority = 0
+            package_priority = str(package_priority)
+
+            if input_format is None or output_format is None:
+                command_string = [
+                    f'{Paths.DIVINE_FILE}',
+                    "-g",
+                    "bg3",
+                    "-a",
+                    command,
+                    "-c",
+                    "lz4",
+                    "--source",
+                    source_path,
+                    "--destination",
+                    destination_path,
+                    "--package-priority",
+                    package_priority,
+                    "-l",
+                    "all",
+                ]
+            else:
+                command_string = [
+                    f'{Paths.DIVINE_FILE}',
+                    "-g",
+                    "bg3",
+                    "-a",
+                    command,
+                    "-c",
+                    "lz4",
+                    "--source",
+                    source_path,
+                    "--destination",
+                    destination_path,
+                    "--input-format",
+                    input_format,
+                    "--output-format",
+                    output_format,
+                    "--package-priority",
+                    package_priority,
+                    "-l",
+                    "all",
+                ]
+            # Log.debug(f"Executing lslib command: {command_string}")
+            result = subprocess.run(command_string)
+            if result.returncode == 0:
+                return True
+            else:
+                return False
         except Exception as e:
-            logging.error(
+            print(
                 f"An error occurred while executing the lslib command. Reason: {e}")
 
 
 def main():
     # print(Path.ENGLISH_LOCALIZATION_XML)
-    LSLib.execute_command("convert-loca", Path.ENGLISH_LOCALIZATION_DIR+".xml", Path.ENGLISH_LOCALIZATION_DIR+".loca")
-    LSLib.execute_command("convert-resources", Path.MERGED_DIR, Path.MERGED_DIR)
-    LSLib.execute_command("convert-resources", Path.ROOT_TEMPLATES_DIR, Path.ROOT_TEMPLATES_DIR)
-    LSLib.execute_command("create-package", Path.MOD_DIR, Path.OUTPUT_FILE)
+    LSLib.execute_command("convert-loca", Paths.ENGLISH_LOCALIZATION_DIR+".xml", Paths.ENGLISH_LOCALIZATION_DIR+".loca")
+    LSLib.execute_command("convert-resources", Paths.MERGED_DIR, Paths.MERGED_DIR, input_format="lsx", output_format="lsf")
+    LSLib.execute_command("convert-resources", Paths.ROOT_TEMPLATES_DIR, Paths.ROOT_TEMPLATES_DIR, input_format="lsx", output_format="lsf")
+    LSLib.execute_command("create-package", Paths.MOD_DIR, Paths.OUTPUT_FILE, package_priority=30)
 
 
 if __name__ == "__main__":
